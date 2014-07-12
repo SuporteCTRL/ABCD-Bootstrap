@@ -1,0 +1,11 @@
+marc.*=%path_database%marc/data/marc.*
+biblo.*=%path_database%biblo/data/biblo.*
+users.*=%path_database%users/data/users.*
+copies.*=%path_database%copies/data/copies.*
+loanobjects.*=%path_database%/loanobjects/data/loanobjects.*
+trans.*=%path_database%trans/data/trans.*
+suspml.*=%path_database%suspml/data/suspml.*
+
+
+
+

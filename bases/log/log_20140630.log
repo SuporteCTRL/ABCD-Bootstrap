@@ -1,0 +1,938 @@
+**Monday 30th of June 2014 02:11:00 PM Operador: abcd
+/central/dataentry/inicio_main.php /var/www/abcd/htdocs/central/dataentry/wxis/login.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/login.xis&base=acces&cipar=/var/www/abcd/bases/par/acces.par&login=abcd&password=adm&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Monday 30th of June 2014 02:11:00 PM Operador: abcd
+/central/dataentry/inicio_base.php /var/www/abcd/htdocs/central/dataentry/wxis/administrar.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/administrar.xis&base=marc&cipar=/var/www/abcd/bases/par/marc.par&Opcion=status&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Monday 30th of June 2014 02:11:03 PM Operador: abcd
+/central/dataentry/fmt.php /var/www/abcd/htdocs/central/dataentry/wxis/buscar.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/buscar.xis&cipar=/var/www/abcd/bases/par/marc.par&Mfn=1&Opcion=ver&base=marc&Formato=/var/www/abcd/bases/marc/pfts/pt/admarc_c&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Monday 30th of June 2014 02:11:04 PM Operador: abcd
+/central/dataentry/fmt.php /var/www/abcd/htdocs/central/dataentry/wxis/buscar.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/buscar.xis&cipar=/var/www/abcd/bases/par/marc.par&Mfn=51&Opcion=ver&base=marc&Formato=/var/www/abcd/bases/marc/pfts/pt/admarc_c&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Monday 30th of June 2014 02:11:06 PM Operador: abcd
+/central/dataentry/fmt.php /var/www/abcd/htdocs/central/dataentry/wxis/buscar.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/buscar.xis&cipar=/var/www/abcd/bases/par/marc.par&Mfn=51&Opcion=ver&base=marc&Formato=/var/www/abcd/bases/marc/pfts/pt/admarc_c&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Monday 30th of June 2014 02:11:07 PM Operador: abcd
+/central/dataentry/fmt.php /var/www/abcd/htdocs/central/dataentry/wxis/buscar.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/buscar.xis&cipar=/var/www/abcd/bases/par/marc.par&Mfn=51&Opcion=ver&base=marc&Formato=/var/www/abcd/bases/marc/pfts/pt/admarc_c&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Monday 30th of June 2014 02:11:08 PM Operador: abcd
+/central/dataentry/fmt.php /var/www/abcd/htdocs/central/dataentry/wxis/buscar.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/buscar.xis&cipar=/var/www/abcd/bases/par/marc.par&Mfn=51&Opcion=ver&base=marc&Formato=/var/www/abcd/bases/marc/pfts/pt/admarc_c&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Monday 30th of June 2014 02:11:10 PM Operador: abcd
+/central/dataentry/fmt.php /var/www/abcd/htdocs/central/dataentry/wxis/buscar.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/buscar.xis&cipar=/var/www/abcd/bases/par/marc.par&Mfn=1&Opcion=ver&base=marc&Formato=/var/www/abcd/bases/marc/pfts/pt/admarc_c&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Monday 30th of June 2014 02:11:12 PM Operador: abcd
+/central/dataentry/fmt.php /var/www/abcd/htdocs/central/dataentry/wxis/lock.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/lock.xis&base=marc&cipar=/var/www/abcd/bases/par/marc.par&Mfn=1&login=abcd&lock=S&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Monday 30th of June 2014 02:11:12 PM Operador: abcd
+/central/dataentry/fmt.php /var/www/abcd/htdocs/central/dataentry/wxis/leer.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/leer.xis&base=marc&cipar=/var/www/abcd/bases/par/marc.par&Mfn=1&Opcion=editar&login=abcd&password=adm&Pft=if p(v3005) then '3005 'v3005'____$$$' fi,if p(v3006) then '3006 'v3006'____$$$' fi,if p(v3007) then '3007 'v3007'____$$$' fi,if p(v3017) then '3017 'v3017'____$$$' fi,if p(v3018) then '3018 'v3018'____$$$' fi,(if p(v1) then '1 'v1'____$$$' fi),(if p(v3) then '3 'v3'____$$$' fi),(if p(v5) then '5 'v5'____$$$' fi),(if p(v8) then '8 'v8'____$$$' fi),(if p(v10) then '10 'v10'____$$$' fi),(if p(v20) then '20 'v20'____$$$' fi),(if p(v22) then '22 'v22'____$$$' fi),(if p(v40) then '40 'v40'____$$$' fi),(if p(v41) then '41 'v41'____$$$' fi),(if p(v43) then '43 'v43'____$$$' fi),(if p(v44) then '44 'v44'____$$$' fi),(if p(v45) then '45 'v45'____$$$' fi),(if p(v80) then '80 'v80'____$$$' fi),(if p(v82) then '82 'v82'____$$$' fi),(if p(v84) then '84 'v84'____$$$' fi),(if p(v90) then '90 'v90'____$$$' fi),(if p(v100) then '100 'v100'____$$$' fi),(if p(v110) then '110 'v110'____$$$' fi),(if p(v111) then '111 'v111'____$$$' fi),(if p(v210) then '210 'v210'____$$$' fi),(if p(v222) then '222 'v222'____$$$' fi),(if p(v240) then '240 'v240'____$$$' fi),(if p(v242) then '242 'v242'____$$$' fi),(if p(v245) then '245 'v245'____$$$' fi),(if p(v246) then '246 'v246'____$$$' fi),(if p(v250) then '250 'v250'____$$$' fi),(if p(v255) then '255 'v255'____$$$' fi),(if p(v257) then '257 'v257'____$$$' fi),(if p(v260) then '260 'v260'____$$$' fi),(if p(v300) then '300 'v300'____$$$' fi),(if p(v310) then '310 'v310'____$$$' fi),(if p(v321) then '321 'v321'____$$$' fi),(if p(v340) then '340 'v340'____$$$' fi),(if p(v342) then '342 'v342'____$$$' fi),(if p(v351) then '351 'v351'____$$$' fi),(if p(v362) then '362 'v362'____$$$' fi),(if p(v490) then '490 'v490'____$$$' fi),(if p(v500) then '500 'v500'____$$$' fi),(if p(v502) then '502 'v502'____$$$' fi),(if p(v504) then '504 'v504'____$$$' fi),(if p(v505) then '505 'v505'____$$$' fi),(if p(v506) then '506 'v506'____$$$' fi),(if p(v511) then '511 'v511'____$$$' fi),(if p(v516) then '516 'v516'____$$$' fi),(if p(v520) then '520 'v520'____$$$' fi),(if p(v521) then '521 'v521'____$$$' fi),(if p(v533) then '533 'v533'____$$$' fi),(if p(v534) then '534 'v534'____$$$' fi),(if p(v538) then '538 'v538'____$$$' fi),(if p(v546) then '546 'v546'____$$$' fi),(if p(v580) then '580 'v580'____$$$' fi),(if p(v585) then '585 'v585'____$$$' fi),(if p(v586) then '586 'v586'____$$$' fi),(if p(v600) then '600 'v600'____$$$' fi),(if p(v610) then '610 'v610'____$$$' fi),(if p(v611) then '611 'v611'____$$$' fi),(if p(v630) then '630 'v630'____$$$' fi),(if p(v650) then '650 'v650'____$$$' fi),(if p(v651) then '651 'v651'____$$$' fi),(if p(v653) then '653 'v653'____$$$' fi),(if p(v655) then '655 'v655'____$$$' fi),(if p(v700) then '700 'v700'____$$$' fi),(if p(v710) then '710 'v710'____$$$' fi),(if p(v711) then '711 'v711'____$$$' fi),(if p(v730) then '730 'v730'____$$$' fi),(if p(v740) then '740 'v740'____$$$' fi),(if p(v752) then '752 'v752'____$$$' fi),(if p(v754) then '754 'v754'____$$$' fi),(if p(v773) then '773 'v773'____$$$' fi),(if p(v780) then '780 'v780'____$$$' fi),(if p(v785) then '785 'v785'____$$$' fi),(if p(v856) then '856 'v856'____$$$' fi),(if p(v866) then '866 'v866'____$$$' fi),(if p(v900) then '900 'v900'____$$$' fi),(if p(v980) then '980 'v980'____$$$' fi),&lock=S&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Monday 30th of June 2014 02:11:35 PM Operador: abcd
+/central/dataentry/fmt.php /var/www/abcd/htdocs/central/dataentry/wxis/z3950_cnv.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/z3950_cnv.xis&base=marc&cipar=/var/www/abcd/bases/par/marc.par&Pft='245:  ',if a(v245) then '<b><font size=3 color=red>O campo 245 - Título principal - está faltando</font></b>' fi,mpl '$$$$','100:  ',if a(v100) and a(v110) and a(v111) then '<b><font size=3 color=red>Falta Entrada principal: campo 100, 110, 111 ou 130</font></b>' fi
+ ,mpl '$$$$','8:  ',if ss(1,6,v8)='aammdd' then '<b><font size=3 color=red>A data no campo fixo (008)=aammdd, alterar para a data de hoje no formato indicado</font></b>' fi,mpl '$$$$',':  ',,mpl '$$$$',&ValorCapturado=3005c
+3006a
+3007m
+3017#
+3018a
+0001100001
+0005201406301411.12
+0008050216s2000    bl            000 0 por d
+0020##^a8503006898 : (broch.)
+0020
+0040##^aBlRjFGVB^bpor
+0040
+0090##^a363.30981^dP739
+0090
+0111##^4rsp
+0111
+024500^aPobreza, cidadania e segurança /^cJoão Paulo dos Reis Velloso, Roberto Cavalcanti de Albuquerque (coordenadores); Antonio Carlos Magalhães... [et al.]. -
+0245
+0260##^aRio de Janeiro^bJ. Olimpio,^c2000.
+0260
+0300##^a308p. :^bil.
+0300
+0500##^aIntegra o X Fórum Nacional, sessão extraordinária "estratégias de combate à pobreza" e "Cidadania e a reforma das políticas de segurança pública", realizada em 13 de setembro de 1999.clui o
+0500
+0650#4^aPobreza^zBrasil.
+0650#4^aCidadania^zBrasil.
+0650#4^aPolíticas públicas^zBrasil.
+0650#4^aSegurança pública^zBrasil.
+0650
+07001 ^aVelloso, João Paulo dos Reis,^d1931-
+07001 ^aAlbuquerque, Roberto Carvalho de,^d1939-
+07001 ^aMagalhães, Antonio Carlos,^d1927-
+0700
+0980^d20140630 02:11:12^oabcd
+3000
+0003
+0041
+0044
+0082
+0100
+0110
+0240
+0246
+0250
+0490
+0504
+0505
+0520
+0521
+0546
+0600
+0610
+0611
+0630
+0651
+0653
+0655
+0710
+0711
+0730
+0740
+0754
+0856
+0900
+
+33331&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Monday 30th of June 2014 02:11:35 PM Operador: abcd
+/central/dataentry/fmt.php /var/www/abcd/htdocs/central/dataentry/wxis/actualizar.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/actualizar.xis&base=marc&cipar=/var/www/abcd/bases/par/marc.par&login=abcd&Mfn=1&Opcion=actualizar&ValorCapturado=3005c
+3006a
+3007m
+3017#
+3018a
+0001100001
+0005201406301411.12
+0008050216s2000    bl            000 0 por d
+0020##^a8503006898 : (broch.)
+0020
+0040##^aBlRjFGVB^bpor
+0040
+0090##^a363.30981^dP739
+0090
+0111##^4rsp
+0111
+024500^aPobreza, cidadania e segurança /^cJoão Paulo dos Reis Velloso, Roberto Cavalcanti de Albuquerque (coordenadores); Antonio Carlos Magalhães... [et al.]. -
+0245
+0260##^aRio de Janeiro^bJ. Olimpio,^c2000.
+0260
+0300##^a308p. :^bil.
+0300
+0500##^aIntegra o X Fórum Nacional, sessão extraordinária "estratégias de combate à pobreza" e "Cidadania e a reforma das políticas de segurança pública", realizada em 13 de setembro de 1999.clui o
+0500
+0650#4^aPobreza^zBrasil.
+0650#4^aCidadania^zBrasil.
+0650#4^aPolíticas públicas^zBrasil.
+0650#4^aSegurança pública^zBrasil.
+0650
+07001 ^aVelloso, João Paulo dos Reis,^d1931-
+07001 ^aAlbuquerque, Roberto Carvalho de,^d1939-
+07001 ^aMagalhães, Antonio Carlos,^d1927-
+0700
+0980^d20140630 02:11:12^oabcd
+3000
+0003
+0041
+0044
+0082
+0100
+0110
+0240
+0246
+0250
+0490
+0504
+0505
+0520
+0521
+0546
+0600
+0610
+0611
+0630
+0651
+0653
+0655
+0710
+0711
+0730
+0740
+0754
+0856
+0900
+&wks=BK_a_LI.fmt&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Monday 30th of June 2014 02:11:35 PM Operador: abcd
+/central/dataentry/fmt.php /var/www/abcd/htdocs/central/dataentry/wxis/buscar.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/buscar.xis&cipar=/var/www/abcd/bases/par/marc.par&Mfn=1&Opcion=ver&base=marc&Formato=/var/www/abcd/bases/marc/pfts/pt/admarc_c&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Monday 30th of June 2014 02:11:43 PM Operador: abcd
+/central/dataentry/inicio_main.php /var/www/abcd/htdocs/central/dataentry/wxis/login.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/login.xis&base=acces&cipar=/var/www/abcd/bases/par/acces.par&login=abcd&password=adm&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Monday 30th of June 2014 02:11:43 PM Operador: abcd
+/central/dataentry/inicio_base.php /var/www/abcd/htdocs/central/dataentry/wxis/administrar.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/administrar.xis&base=marc&cipar=/var/www/abcd/bases/par/marc.par&Opcion=status&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Monday 30th of June 2014 02:11:45 PM Operador: abcd
+/central/dataentry/fmt.php /var/www/abcd/htdocs/central/dataentry/wxis/buscar.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/buscar.xis&cipar=/var/www/abcd/bases/par/marc.par&Mfn=51&Opcion=ver&base=marc&Formato=/var/www/abcd/bases/marc/pfts/pt/admarc_c&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Monday 30th of June 2014 02:11:46 PM Operador: abcd
+/central/dataentry/fmt.php /var/www/abcd/htdocs/central/dataentry/wxis/buscar.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/buscar.xis&cipar=/var/www/abcd/bases/par/marc.par&Mfn=51&Opcion=ver&base=marc&Formato=/var/www/abcd/bases/marc/pfts/pt/admarc_c&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Monday 30th of June 2014 02:11:49 PM Operador: abcd
+/central/dataentry/fmt.php /var/www/abcd/htdocs/central/dataentry/wxis/buscar.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/buscar.xis&cipar=/var/www/abcd/bases/par/marc.par&Mfn=1&Opcion=ver&base=marc&Formato=/var/www/abcd/bases/marc/pfts/pt/admarc_c&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Monday 30th of June 2014 02:12:16 PM Operador: abcd
+/central/dataentry/inicio_main.php /var/www/abcd/htdocs/central/dataentry/wxis/login.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/login.xis&base=acces&cipar=/var/www/abcd/bases/par/acces.par&login=abcd&password=adm&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Monday 30th of June 2014 02:12:17 PM Operador: abcd
+/central/dataentry/inicio_base.php /var/www/abcd/htdocs/central/dataentry/wxis/administrar.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/administrar.xis&base=marc&cipar=/var/www/abcd/bases/par/marc.par&Opcion=status&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Monday 30th of June 2014 02:12:20 PM Operador: abcd
+/central/dataentry/fmt.php /var/www/abcd/htdocs/central/dataentry/wxis/buscar.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/buscar.xis&cipar=/var/www/abcd/bases/par/marc.par&Mfn=1&Opcion=ver&base=marc&Formato=/var/www/abcd/bases/marc/pfts/pt/admarc_c&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Monday 30th of June 2014 02:12:21 PM Operador: abcd
+/central/dataentry/fmt.php /var/www/abcd/htdocs/central/dataentry/wxis/buscar.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/buscar.xis&cipar=/var/www/abcd/bases/par/marc.par&Mfn=1&Opcion=ver&base=marc&Formato=/var/www/abcd/bases/marc/pfts/pt/admarc_c&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Monday 30th of June 2014 02:12:23 PM Operador: abcd
+/central/dataentry/fmt.php /var/www/abcd/htdocs/central/dataentry/wxis/lock.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/lock.xis&base=marc&cipar=/var/www/abcd/bases/par/marc.par&Mfn=1&login=abcd&lock=S&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Monday 30th of June 2014 02:12:23 PM Operador: abcd
+/central/dataentry/fmt.php /var/www/abcd/htdocs/central/dataentry/wxis/leer.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/leer.xis&base=marc&cipar=/var/www/abcd/bases/par/marc.par&Mfn=1&Opcion=editar&login=abcd&password=adm&Pft=if p(v3005) then '3005 'v3005'____$$$' fi,if p(v3006) then '3006 'v3006'____$$$' fi,if p(v3007) then '3007 'v3007'____$$$' fi,if p(v3017) then '3017 'v3017'____$$$' fi,if p(v3018) then '3018 'v3018'____$$$' fi,(if p(v1) then '1 'v1'____$$$' fi),(if p(v3) then '3 'v3'____$$$' fi),(if p(v5) then '5 'v5'____$$$' fi),(if p(v8) then '8 'v8'____$$$' fi),(if p(v10) then '10 'v10'____$$$' fi),(if p(v20) then '20 'v20'____$$$' fi),(if p(v22) then '22 'v22'____$$$' fi),(if p(v40) then '40 'v40'____$$$' fi),(if p(v41) then '41 'v41'____$$$' fi),(if p(v43) then '43 'v43'____$$$' fi),(if p(v44) then '44 'v44'____$$$' fi),(if p(v45) then '45 'v45'____$$$' fi),(if p(v80) then '80 'v80'____$$$' fi),(if p(v82) then '82 'v82'____$$$' fi),(if p(v84) then '84 'v84'____$$$' fi),(if p(v90) then '90 'v90'____$$$' fi),(if p(v100) then '100 'v100'____$$$' fi),(if p(v110) then '110 'v110'____$$$' fi),(if p(v111) then '111 'v111'____$$$' fi),(if p(v210) then '210 'v210'____$$$' fi),(if p(v222) then '222 'v222'____$$$' fi),(if p(v240) then '240 'v240'____$$$' fi),(if p(v242) then '242 'v242'____$$$' fi),(if p(v245) then '245 'v245'____$$$' fi),(if p(v246) then '246 'v246'____$$$' fi),(if p(v250) then '250 'v250'____$$$' fi),(if p(v255) then '255 'v255'____$$$' fi),(if p(v257) then '257 'v257'____$$$' fi),(if p(v260) then '260 'v260'____$$$' fi),(if p(v300) then '300 'v300'____$$$' fi),(if p(v310) then '310 'v310'____$$$' fi),(if p(v321) then '321 'v321'____$$$' fi),(if p(v340) then '340 'v340'____$$$' fi),(if p(v342) then '342 'v342'____$$$' fi),(if p(v351) then '351 'v351'____$$$' fi),(if p(v362) then '362 'v362'____$$$' fi),(if p(v490) then '490 'v490'____$$$' fi),(if p(v500) then '500 'v500'____$$$' fi),(if p(v502) then '502 'v502'____$$$' fi),(if p(v504) then '504 'v504'____$$$' fi),(if p(v505) then '505 'v505'____$$$' fi),(if p(v506) then '506 'v506'____$$$' fi),(if p(v511) then '511 'v511'____$$$' fi),(if p(v516) then '516 'v516'____$$$' fi),(if p(v520) then '520 'v520'____$$$' fi),(if p(v521) then '521 'v521'____$$$' fi),(if p(v533) then '533 'v533'____$$$' fi),(if p(v534) then '534 'v534'____$$$' fi),(if p(v538) then '538 'v538'____$$$' fi),(if p(v546) then '546 'v546'____$$$' fi),(if p(v580) then '580 'v580'____$$$' fi),(if p(v585) then '585 'v585'____$$$' fi),(if p(v586) then '586 'v586'____$$$' fi),(if p(v600) then '600 'v600'____$$$' fi),(if p(v610) then '610 'v610'____$$$' fi),(if p(v611) then '611 'v611'____$$$' fi),(if p(v630) then '630 'v630'____$$$' fi),(if p(v650) then '650 'v650'____$$$' fi),(if p(v651) then '651 'v651'____$$$' fi),(if p(v653) then '653 'v653'____$$$' fi),(if p(v655) then '655 'v655'____$$$' fi),(if p(v700) then '700 'v700'____$$$' fi),(if p(v710) then '710 'v710'____$$$' fi),(if p(v711) then '711 'v711'____$$$' fi),(if p(v730) then '730 'v730'____$$$' fi),(if p(v740) then '740 'v740'____$$$' fi),(if p(v752) then '752 'v752'____$$$' fi),(if p(v754) then '754 'v754'____$$$' fi),(if p(v773) then '773 'v773'____$$$' fi),(if p(v780) then '780 'v780'____$$$' fi),(if p(v785) then '785 'v785'____$$$' fi),(if p(v856) then '856 'v856'____$$$' fi),(if p(v866) then '866 'v866'____$$$' fi),(if p(v900) then '900 'v900'____$$$' fi),(if p(v980) then '980 'v980'____$$$' fi),&lock=S&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Monday 30th of June 2014 02:12:53 PM Operador: abcd
+/central/dataentry/fmt.php /var/www/abcd/htdocs/central/dataentry/wxis/z3950_cnv.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/z3950_cnv.xis&base=marc&cipar=/var/www/abcd/bases/par/marc.par&Pft='245:  ',if a(v245) then '<b><font size=3 color=red>O campo 245 - Título principal - está faltando</font></b>' fi,mpl '$$$$','100:  ',if a(v100) and a(v110) and a(v111) then '<b><font size=3 color=red>Falta Entrada principal: campo 100, 110, 111 ou 130</font></b>' fi
+ ,mpl '$$$$','8:  ',if ss(1,6,v8)='aammdd' then '<b><font size=3 color=red>A data no campo fixo (008)=aammdd, alterar para a data de hoje no formato indicado</font></b>' fi,mpl '$$$$',':  ',,mpl '$$$$',&ValorCapturado=3005c
+3006a
+3007m
+3017#
+3018a
+0001100001
+0005201406301412.23
+0008050216s2000    bl            000 0 por d
+0020##^a8503006898 : (broch.)
+0020
+0040##^aBlRjFGVB^bpor
+0040
+0090##^a363.30981^dP739
+0090
+0111##^4rsp
+0111
+024500^aPobreza, cidadania e segurança /^cJoão Paulo dos Reis Velloso, Roberto Cavalcanti de Albuquerque (coordenadores); Antonitonio Carlos Magalhães... [et al.]. -
+0245
+0260##^aRio de Janeiro^bJ. Olimpio,^c2000.
+0260
+0300##^a308p. :^bil.
+0300
+0500##^aIntegra o X Fórum Nacional, sessão extraordinária "estratégias de combatpobreza" e "Cidadania e a reforma das polítilíticas de segurança pública", realizada em 13 de setembro de 1999.clui o
+0500
+0650#4^aPobreza^zBrasil.
+0650#4^aCidadania^zBrasil.
+0650#4^aPolíticas públicas^zBrasil.
+0650#4^aSegurança pública^zBrasil.
+0650
+07001 ^aVelloso, João Paulo dos Reis,^d1931-
+07001 ^aAlbuquerque, Roberto Carvalho de,^d1939-
+07001 ^aMagalhães, Antonio Carlos,^d1927-
+0700
+0980^d20140630 02:11:12^oabcd
+0980^d20140630 02:12:23^oabcd
+3000
+0003
+0041
+0044
+0082
+0100
+0110
+0240
+0246
+0250
+0490
+0504
+0505
+0520
+0521
+0546
+0600
+0610
+0611
+0630
+0651
+0653
+0655
+0710
+0711
+0730
+0740
+0754
+0856
+0900
+
+33331&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Monday 30th of June 2014 02:12:53 PM Operador: abcd
+/central/dataentry/fmt.php /var/www/abcd/htdocs/central/dataentry/wxis/actualizar.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/actualizar.xis&base=marc&cipar=/var/www/abcd/bases/par/marc.par&login=abcd&Mfn=1&Opcion=actualizar&ValorCapturado=3005c
+3006a
+3007m
+3017#
+3018a
+0001100001
+0005201406301412.23
+0008050216s2000    bl            000 0 por d
+0020##^a8503006898 : (broch.)
+0020
+0040##^aBlRjFGVB^bpor
+0040
+0090##^a363.30981^dP739
+0090
+0111##^4rsp
+0111
+024500^aPobreza, cidadania e segurança /^cJoão Paulo dos Reis Velloso, Roberto Cavalcanti de Albuquerque (coordenadores); Antonitonio Carlos Magalhães... [et al.]. -
+0245
+0260##^aRio de Janeiro^bJ. Olimpio,^c2000.
+0260
+0300##^a308p. :^bil.
+0300
+0500##^aIntegra o X Fórum Nacional, sessão extraordinária "estratégias de combatpobreza" e "Cidadania e a reforma das polítilíticas de segurança pública", realizada em 13 de setembro de 1999.clui o
+0500
+0650#4^aPobreza^zBrasil.
+0650#4^aCidadania^zBrasil.
+0650#4^aPolíticas públicas^zBrasil.
+0650#4^aSegurança pública^zBrasil.
+0650
+07001 ^aVelloso, João Paulo dos Reis,^d1931-
+07001 ^aAlbuquerque, Roberto Carvalho de,^d1939-
+07001 ^aMagalhães, Antonio Carlos,^d1927-
+0700
+0980^d20140630 02:11:12^oabcd
+0980^d20140630 02:12:23^oabcd
+3000
+0003
+0041
+0044
+0082
+0100
+0110
+0240
+0246
+0250
+0490
+0504
+0505
+0520
+0521
+0546
+0600
+0610
+0611
+0630
+0651
+0653
+0655
+0710
+0711
+0730
+0740
+0754
+0856
+0900
+&wks=BK_a_LI.fmt&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Monday 30th of June 2014 02:12:53 PM Operador: abcd
+/central/dataentry/fmt.php /var/www/abcd/htdocs/central/dataentry/wxis/buscar.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/buscar.xis&cipar=/var/www/abcd/bases/par/marc.par&Mfn=1&Opcion=ver&base=marc&Formato=/var/www/abcd/bases/marc/pfts/pt/admarc_c&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Monday 30th of June 2014 02:13:01 PM Operador: abcd
+/central/dataentry/fmt.php /var/www/abcd/htdocs/central/dataentry/wxis/buscar.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/buscar.xis&cipar=/var/www/abcd/bases/par/marc.par&Mfn=1&Opcion=ver&base=marc&Formato=/var/www/abcd/bases/marc/pfts/pt/admarc_c&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Monday 30th of June 2014 02:13:02 PM Operador: abcd
+/central/dataentry/fmt.php /var/www/abcd/htdocs/central/dataentry/wxis/buscar.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/buscar.xis&cipar=/var/www/abcd/bases/par/marc.par&Mfn=1&Opcion=ver&base=marc&Formato=/var/www/abcd/bases/marc/pfts/pt/admarc_c&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Monday 30th of June 2014 02:13:03 PM Operador: abcd
+/central/dataentry/fmt.php /var/www/abcd/htdocs/central/dataentry/wxis/buscar.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/buscar.xis&cipar=/var/www/abcd/bases/par/marc.par&Mfn=1&Opcion=ver&base=marc&Formato=/var/www/abcd/bases/marc/pfts/pt/admarc_c&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Monday 30th of June 2014 02:13:07 PM Operador: abcd
+/central/dataentry/inicio_main.php /var/www/abcd/htdocs/central/dataentry/wxis/login.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/login.xis&base=acces&cipar=/var/www/abcd/bases/par/acces.par&login=abcd&password=adm&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Monday 30th of June 2014 02:13:07 PM Operador: abcd
+/central/dataentry/inicio_base.php /var/www/abcd/htdocs/central/dataentry/wxis/administrar.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/administrar.xis&base=marc&cipar=/var/www/abcd/bases/par/marc.par&Opcion=status&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Monday 30th of June 2014 02:13:09 PM Operador: abcd
+/central/dataentry/fmt.php /var/www/abcd/htdocs/central/dataentry/wxis/buscar.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/buscar.xis&cipar=/var/www/abcd/bases/par/marc.par&Mfn=1&Opcion=ver&base=marc&Formato=/var/www/abcd/bases/marc/pfts/pt/admarc_c&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Monday 30th of June 2014 02:13:12 PM Operador: abcd
+/central/dataentry/inicio_main.php /var/www/abcd/htdocs/central/dataentry/wxis/login.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/login.xis&base=acces&cipar=/var/www/abcd/bases/par/acces.par&login=abcd&password=adm&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Monday 30th of June 2014 02:13:13 PM Operador: abcd
+/central/dataentry/inicio_base.php /var/www/abcd/htdocs/central/dataentry/wxis/administrar.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/administrar.xis&base=marc&cipar=/var/www/abcd/bases/par/marc.par&Opcion=status&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Monday 30th of June 2014 02:13:15 PM Operador: abcd
+/central/dataentry/fmt.php /var/www/abcd/htdocs/central/dataentry/wxis/buscar.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/buscar.xis&cipar=/var/www/abcd/bases/par/marc.par&Mfn=1&Opcion=ver&base=marc&Formato=/var/www/abcd/bases/marc/pfts/pt/admarc_c&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Monday 30th of June 2014 02:13:38 PM Operador: abcd
+/central/dataentry/inicio_main.php /var/www/abcd/htdocs/central/dataentry/wxis/login.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/login.xis&base=acces&cipar=/var/www/abcd/bases/par/acces.par&login=abcd&password=adm&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Monday 30th of June 2014 02:13:38 PM Operador: abcd
+/central/dataentry/inicio_base.php /var/www/abcd/htdocs/central/dataentry/wxis/administrar.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/administrar.xis&base=marc&cipar=/var/www/abcd/bases/par/marc.par&Opcion=status&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Monday 30th of June 2014 02:13:40 PM Operador: abcd
+/central/dataentry/fmt.php /var/www/abcd/htdocs/central/dataentry/wxis/buscar.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/buscar.xis&cipar=/var/www/abcd/bases/par/marc.par&Mfn=1&Opcion=ver&base=marc&Formato=/var/www/abcd/bases/marc/pfts/pt/admarc_c&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Monday 30th of June 2014 02:13:41 PM Operador: abcd
+/central/dataentry/fmt.php /var/www/abcd/htdocs/central/dataentry/wxis/buscar.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/buscar.xis&cipar=/var/www/abcd/bases/par/marc.par&Mfn=1&Opcion=ver&base=marc&Formato=/var/www/abcd/bases/marc/pfts/pt/admarc_c&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Monday 30th of June 2014 02:13:42 PM Operador: abcd
+/central/dataentry/fmt.php /var/www/abcd/htdocs/central/dataentry/wxis/buscar.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/buscar.xis&cipar=/var/www/abcd/bases/par/marc.par&Mfn=1&Opcion=ver&base=marc&Formato=/var/www/abcd/bases/marc/pfts/pt/admarc_c&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Monday 30th of June 2014 02:13:43 PM Operador: abcd
+/central/dataentry/fmt.php /var/www/abcd/htdocs/central/dataentry/wxis/buscar.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/buscar.xis&cipar=/var/www/abcd/bases/par/marc.par&Mfn=2&Opcion=ver&base=marc&Formato=/var/www/abcd/bases/marc/pfts/pt/admarc_c&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Monday 30th of June 2014 02:13:43 PM Operador: abcd
+/central/dataentry/fmt.php /var/www/abcd/htdocs/central/dataentry/wxis/buscar.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/buscar.xis&cipar=/var/www/abcd/bases/par/marc.par&Mfn=51&Opcion=ver&base=marc&Formato=/var/www/abcd/bases/marc/pfts/pt/admarc_c&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Monday 30th of June 2014 02:14:16 PM Operador: abcd
+/central/dataentry/fmt.php /var/www/abcd/htdocs/central/dataentry/wxis/buscar.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/buscar.xis&cipar=/var/www/abcd/bases/par/marc.par&Mfn=1&Opcion=ver&base=marc&Formato=/var/www/abcd/bases/marc/pfts/pt/admarc_c&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Monday 30th of June 2014 02:14:17 PM Operador: abcd
+/central/dataentry/fmt.php /var/www/abcd/htdocs/central/dataentry/wxis/buscar.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/buscar.xis&cipar=/var/www/abcd/bases/par/marc.par&Mfn=1&Opcion=ver&base=marc&Formato=/var/www/abcd/bases/marc/pfts/pt/admarc_c&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Monday 30th of June 2014 02:14:17 PM Operador: abcd
+/central/dataentry/fmt.php /var/www/abcd/htdocs/central/dataentry/wxis/buscar.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/buscar.xis&cipar=/var/www/abcd/bases/par/marc.par&Mfn=1&Opcion=ver&base=marc&Formato=/var/www/abcd/bases/marc/pfts/pt/admarc_c&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Monday 30th of June 2014 02:14:17 PM Operador: abcd
+/central/dataentry/fmt.php /var/www/abcd/htdocs/central/dataentry/wxis/buscar.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/buscar.xis&cipar=/var/www/abcd/bases/par/marc.par&Mfn=1&Opcion=ver&base=marc&Formato=/var/www/abcd/bases/marc/pfts/pt/admarc_c&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Monday 30th of June 2014 02:14:17 PM Operador: abcd
+/central/dataentry/fmt.php /var/www/abcd/htdocs/central/dataentry/wxis/buscar.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/buscar.xis&cipar=/var/www/abcd/bases/par/marc.par&Mfn=1&Opcion=ver&base=marc&Formato=/var/www/abcd/bases/marc/pfts/pt/admarc_c&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Monday 30th of June 2014 02:14:18 PM Operador: abcd
+/central/dataentry/fmt.php /var/www/abcd/htdocs/central/dataentry/wxis/buscar.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/buscar.xis&cipar=/var/www/abcd/bases/par/marc.par&Mfn=1&Opcion=ver&base=marc&Formato=/var/www/abcd/bases/marc/pfts/pt/admarc_c&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Monday 30th of June 2014 02:14:21 PM Operador: abcd
+/central/dataentry/fmt.php /var/www/abcd/htdocs/central/dataentry/wxis/lock.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/lock.xis&base=marc&cipar=/var/www/abcd/bases/par/marc.par&Mfn=1&login=abcd&lock=S&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Monday 30th of June 2014 02:14:28 PM Operador: abcd
+/central/dataentry/fmt.php /var/www/abcd/htdocs/central/dataentry/wxis/unlock.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/unlock.xis&base=marc&cipar=/var/www/abcd/bases/par/marc.par&Mfn=1&login=abcd&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Monday 30th of June 2014 02:14:28 PM Operador: abcd
+/central/dataentry/fmt.php /var/www/abcd/htdocs/central/dataentry/wxis/buscar.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/buscar.xis&cipar=/var/www/abcd/bases/par/marc.par&Mfn=1&Opcion=cancelar&base=marc&Formato=/var/www/abcd/bases/marc/pfts/pt/admarc_c&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Monday 30th of June 2014 02:14:38 PM Operador: abcd
+/central/dataentry/inicio_main.php /var/www/abcd/htdocs/central/dataentry/wxis/login.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/login.xis&base=acces&cipar=/var/www/abcd/bases/par/acces.par&login=abcd&password=adm&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Monday 30th of June 2014 02:14:39 PM Operador: abcd
+/central/dataentry/inicio_base.php /var/www/abcd/htdocs/central/dataentry/wxis/administrar.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/administrar.xis&base=marc&cipar=/var/www/abcd/bases/par/marc.par&Opcion=status&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Monday 30th of June 2014 02:14:41 PM Operador: abcd
+/central/dataentry/fmt.php /var/www/abcd/htdocs/central/dataentry/wxis/buscar.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/buscar.xis&cipar=/var/www/abcd/bases/par/marc.par&Mfn=1&Opcion=ver&base=marc&Formato=/var/www/abcd/bases/marc/pfts/pt/admarc_c&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Monday 30th of June 2014 02:14:47 PM Operador: abcd
+/central/dataentry/fmt.php /var/www/abcd/htdocs/central/dataentry/wxis/lock.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/lock.xis&base=marc&cipar=/var/www/abcd/bases/par/marc.par&Mfn=1&login=abcd&lock=S&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Monday 30th of June 2014 02:15:14 PM Operador: abcd
+/central/dataentry/fmt.php /var/www/abcd/htdocs/central/dataentry/wxis/unlock.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/unlock.xis&base=marc&cipar=/var/www/abcd/bases/par/marc.par&Mfn=1&login=abcd&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Monday 30th of June 2014 02:15:14 PM Operador: abcd
+/central/dataentry/fmt.php /var/www/abcd/htdocs/central/dataentry/wxis/buscar.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/buscar.xis&cipar=/var/www/abcd/bases/par/marc.par&Mfn=1&Opcion=cancelar&base=marc&Formato=/var/www/abcd/bases/marc/pfts/pt/admarc_c&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Monday 30th of June 2014 02:15:15 PM Operador: abcd
+/central/dataentry/fmt.php /var/www/abcd/htdocs/central/dataentry/wxis/lock.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/lock.xis&base=marc&cipar=/var/www/abcd/bases/par/marc.par&Mfn=1&login=abcd&lock=S&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Monday 30th of June 2014 02:15:15 PM Operador: abcd
+/central/dataentry/fmt.php /var/www/abcd/htdocs/central/dataentry/wxis/leer.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/leer.xis&base=marc&cipar=/var/www/abcd/bases/par/marc.par&Mfn=1&Opcion=editar&login=abcd&password=adm&Pft=if p(v3005) then '3005 'v3005'____$$$' fi,if p(v3006) then '3006 'v3006'____$$$' fi,if p(v3007) then '3007 'v3007'____$$$' fi,if p(v3017) then '3017 'v3017'____$$$' fi,if p(v3018) then '3018 'v3018'____$$$' fi,(if p(v1) then '1 'v1'____$$$' fi),(if p(v3) then '3 'v3'____$$$' fi),(if p(v5) then '5 'v5'____$$$' fi),(if p(v8) then '8 'v8'____$$$' fi),(if p(v10) then '10 'v10'____$$$' fi),(if p(v20) then '20 'v20'____$$$' fi),(if p(v22) then '22 'v22'____$$$' fi),(if p(v40) then '40 'v40'____$$$' fi),(if p(v41) then '41 'v41'____$$$' fi),(if p(v43) then '43 'v43'____$$$' fi),(if p(v44) then '44 'v44'____$$$' fi),(if p(v45) then '45 'v45'____$$$' fi),(if p(v80) then '80 'v80'____$$$' fi),(if p(v82) then '82 'v82'____$$$' fi),(if p(v84) then '84 'v84'____$$$' fi),(if p(v90) then '90 'v90'____$$$' fi),(if p(v100) then '100 'v100'____$$$' fi),(if p(v110) then '110 'v110'____$$$' fi),(if p(v111) then '111 'v111'____$$$' fi),(if p(v210) then '210 'v210'____$$$' fi),(if p(v222) then '222 'v222'____$$$' fi),(if p(v240) then '240 'v240'____$$$' fi),(if p(v242) then '242 'v242'____$$$' fi),(if p(v245) then '245 'v245'____$$$' fi),(if p(v246) then '246 'v246'____$$$' fi),(if p(v250) then '250 'v250'____$$$' fi),(if p(v255) then '255 'v255'____$$$' fi),(if p(v257) then '257 'v257'____$$$' fi),(if p(v260) then '260 'v260'____$$$' fi),(if p(v300) then '300 'v300'____$$$' fi),(if p(v310) then '310 'v310'____$$$' fi),(if p(v321) then '321 'v321'____$$$' fi),(if p(v340) then '340 'v340'____$$$' fi),(if p(v342) then '342 'v342'____$$$' fi),(if p(v351) then '351 'v351'____$$$' fi),(if p(v362) then '362 'v362'____$$$' fi),(if p(v490) then '490 'v490'____$$$' fi),(if p(v500) then '500 'v500'____$$$' fi),(if p(v502) then '502 'v502'____$$$' fi),(if p(v504) then '504 'v504'____$$$' fi),(if p(v505) then '505 'v505'____$$$' fi),(if p(v506) then '506 'v506'____$$$' fi),(if p(v511) then '511 'v511'____$$$' fi),(if p(v516) then '516 'v516'____$$$' fi),(if p(v520) then '520 'v520'____$$$' fi),(if p(v521) then '521 'v521'____$$$' fi),(if p(v533) then '533 'v533'____$$$' fi),(if p(v534) then '534 'v534'____$$$' fi),(if p(v538) then '538 'v538'____$$$' fi),(if p(v546) then '546 'v546'____$$$' fi),(if p(v580) then '580 'v580'____$$$' fi),(if p(v585) then '585 'v585'____$$$' fi),(if p(v586) then '586 'v586'____$$$' fi),(if p(v600) then '600 'v600'____$$$' fi),(if p(v610) then '610 'v610'____$$$' fi),(if p(v611) then '611 'v611'____$$$' fi),(if p(v630) then '630 'v630'____$$$' fi),(if p(v650) then '650 'v650'____$$$' fi),(if p(v651) then '651 'v651'____$$$' fi),(if p(v653) then '653 'v653'____$$$' fi),(if p(v655) then '655 'v655'____$$$' fi),(if p(v700) then '700 'v700'____$$$' fi),(if p(v710) then '710 'v710'____$$$' fi),(if p(v711) then '711 'v711'____$$$' fi),(if p(v730) then '730 'v730'____$$$' fi),(if p(v740) then '740 'v740'____$$$' fi),(if p(v752) then '752 'v752'____$$$' fi),(if p(v754) then '754 'v754'____$$$' fi),(if p(v773) then '773 'v773'____$$$' fi),(if p(v780) then '780 'v780'____$$$' fi),(if p(v785) then '785 'v785'____$$$' fi),(if p(v856) then '856 'v856'____$$$' fi),(if p(v866) then '866 'v866'____$$$' fi),(if p(v900) then '900 'v900'____$$$' fi),(if p(v980) then '980 'v980'____$$$' fi),&lock=S&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Monday 30th of June 2014 02:15:25 PM Operador: abcd
+/central/dataentry/fmt.php /var/www/abcd/htdocs/central/dataentry/wxis/z3950_cnv.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/z3950_cnv.xis&base=marc&cipar=/var/www/abcd/bases/par/marc.par&Pft='245:  ',if a(v245) then '<b><font size=3 color=red>O campo 245 - Título principal - está faltando</font></b>' fi,mpl '$$$$','100:  ',if a(v100) and a(v110) and a(v111) then '<b><font size=3 color=red>Falta Entrada principal: campo 100, 110, 111 ou 130</font></b>' fi
+ ,mpl '$$$$','8:  ',if ss(1,6,v8)='aammdd' then '<b><font size=3 color=red>A data no campo fixo (008)=aammdd, alterar para a data de hoje no formato indicado</font></b>' fi,mpl '$$$$',':  ',,mpl '$$$$',&ValorCapturado=3005c
+3006a
+3007m
+3017#
+3018a
+0001100001
+0005201406301415.15
+0008050216s2000    bl            000 0 por d
+0020##^a8503006898 : (broch.)
+0020
+0040##^aBlRjFGVB^bpor
+0040
+0090##^a363.30981^dP739
+0090
+0111##^4rsp
+0111
+024500^aPobreza, cidadania e segurança /^cJoão Paulo dos Reis Veloso, Roberto Cavalcanti de Albuquerque (coordenadores); Antonio Carlos Magalhães... [et al.]. -
+0245
+0260##^aRio de Janeiro^bJ. Olympio,^c2000.
+0260
+0300##^a308p. :^bil.
+0300
+0500##^aIntegra o X Fórum Nacional, sessão extraordinária "estratégias de combate à pobreza" e "Cidadania e a reforma das políticas de segurança pública", realizada em 13 de setembro de 1999.clui o
+0500
+0650#4^aPobreza^zBrasil.
+0650#4^aCidadania^zBrasil.
+0650#4^aPolíticas públicas^zBrasil.
+0650#4^aSegurança pública^zBrasil.
+0650
+07001 ^aVelloso, João Paulo dos Reis,^d1931-
+07001 ^aAlbuquerque, Roberto Carvalho de,^d1939-
+07001 ^aMagalhães, Antonio Carlos,^d1927-
+0700
+0980^d20140630 02:15:15^oabcd
+3000
+0003
+0041
+0044
+0082
+0100
+0110
+0240
+0246
+0250
+0490
+0504
+0505
+0520
+0521
+0546
+0600
+0610
+0611
+0630
+0651
+0653
+0655
+0710
+0711
+0730
+0740
+0754
+0856
+0900
+
+33331&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Monday 30th of June 2014 02:15:25 PM Operador: abcd
+/central/dataentry/fmt.php /var/www/abcd/htdocs/central/dataentry/wxis/actualizar.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/actualizar.xis&base=marc&cipar=/var/www/abcd/bases/par/marc.par&login=abcd&Mfn=1&Opcion=actualizar&ValorCapturado=3005c
+3006a
+3007m
+3017#
+3018a
+0001100001
+0005201406301415.15
+0008050216s2000    bl            000 0 por d
+0020##^a8503006898 : (broch.)
+0020
+0040##^aBlRjFGVB^bpor
+0040
+0090##^a363.30981^dP739
+0090
+0111##^4rsp
+0111
+024500^aPobreza, cidadania e segurança /^cJoão Paulo dos Reis Veloso, Roberto Cavalcanti de Albuquerque (coordenadores); Antonio Carlos Magalhães... [et al.]. -
+0245
+0260##^aRio de Janeiro^bJ. Olympio,^c2000.
+0260
+0300##^a308p. :^bil.
+0300
+0500##^aIntegra o X Fórum Nacional, sessão extraordinária "estratégias de combate à pobreza" e "Cidadania e a reforma das políticas de segurança pública", realizada em 13 de setembro de 1999.clui o
+0500
+0650#4^aPobreza^zBrasil.
+0650#4^aCidadania^zBrasil.
+0650#4^aPolíticas públicas^zBrasil.
+0650#4^aSegurança pública^zBrasil.
+0650
+07001 ^aVelloso, João Paulo dos Reis,^d1931-
+07001 ^aAlbuquerque, Roberto Carvalho de,^d1939-
+07001 ^aMagalhães, Antonio Carlos,^d1927-
+0700
+0980^d20140630 02:15:15^oabcd
+3000
+0003
+0041
+0044
+0082
+0100
+0110
+0240
+0246
+0250
+0490
+0504
+0505
+0520
+0521
+0546
+0600
+0610
+0611
+0630
+0651
+0653
+0655
+0710
+0711
+0730
+0740
+0754
+0856
+0900
+&wks=BK_a_LI.fmt&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Monday 30th of June 2014 02:15:25 PM Operador: abcd
+/central/dataentry/fmt.php /var/www/abcd/htdocs/central/dataentry/wxis/buscar.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/buscar.xis&cipar=/var/www/abcd/bases/par/marc.par&Mfn=1&Opcion=ver&base=marc&Formato=/var/www/abcd/bases/marc/pfts/pt/admarc_c&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Monday 30th of June 2014 02:15:30 PM Operador: abcd
+/central/dataentry/inicio_main.php /var/www/abcd/htdocs/central/dataentry/wxis/login.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/login.xis&base=acces&cipar=/var/www/abcd/bases/par/acces.par&login=abcd&password=adm&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Monday 30th of June 2014 02:15:31 PM Operador: abcd
+/central/dataentry/inicio_base.php /var/www/abcd/htdocs/central/dataentry/wxis/administrar.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/administrar.xis&base=marc&cipar=/var/www/abcd/bases/par/marc.par&Opcion=status&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Monday 30th of June 2014 02:15:32 PM Operador: abcd
+/central/dataentry/fmt.php /var/www/abcd/htdocs/central/dataentry/wxis/buscar.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/buscar.xis&cipar=/var/www/abcd/bases/par/marc.par&Mfn=1&Opcion=ver&base=marc&Formato=/var/www/abcd/bases/marc/pfts/pt/admarc_c&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Monday 30th of June 2014 02:16:01 PM Operador: abcd
+/central/dataentry/fmt.php /var/www/abcd/htdocs/central/dataentry/wxis/buscar.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/buscar.xis&cipar=/var/www/abcd/bases/par/marc.par&Mfn=1&Opcion=ver&base=marc&Formato=/var/www/abcd/bases/marc/pfts/pt/admarc_c&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Monday 30th of June 2014 02:16:18 PM Operador: abcd
+/central/dataentry/fmt.php /var/www/abcd/htdocs/central/dataentry/wxis/buscar.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/buscar.xis&cipar=/var/www/abcd/bases/par/marc.par&Mfn=1&Opcion=ver&base=marc&Formato=/var/www/abcd/bases/marc/pfts/pt/admarc_c&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Monday 30th of June 2014 02:16:24 PM Operador: abcd
+/central/dataentry/inicio_main.php /var/www/abcd/htdocs/central/dataentry/wxis/login.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/login.xis&base=acces&cipar=/var/www/abcd/bases/par/acces.par&login=abcd&password=adm&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Monday 30th of June 2014 02:16:25 PM Operador: abcd
+/central/dataentry/inicio_base.php /var/www/abcd/htdocs/central/dataentry/wxis/administrar.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/administrar.xis&base=marc&cipar=/var/www/abcd/bases/par/marc.par&Opcion=status&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Monday 30th of June 2014 02:16:27 PM Operador: abcd
+/central/dataentry/fmt.php /var/www/abcd/htdocs/central/dataentry/wxis/buscar.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/buscar.xis&cipar=/var/www/abcd/bases/par/marc.par&Mfn=1&Opcion=ver&base=marc&Formato=/var/www/abcd/bases/marc/pfts/pt/admarc_c&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Monday 30th of June 2014 02:16:29 PM Operador: abcd
+/central/dataentry/fmt.php /var/www/abcd/htdocs/central/dataentry/wxis/lock.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/lock.xis&base=marc&cipar=/var/www/abcd/bases/par/marc.par&Mfn=1&login=abcd&lock=S&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Monday 30th of June 2014 02:16:36 PM Operador: abcd
+/central/dataentry/fmt.php /var/www/abcd/htdocs/central/dataentry/wxis/unlock.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/unlock.xis&base=marc&cipar=/var/www/abcd/bases/par/marc.par&Mfn=1&login=abcd&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Monday 30th of June 2014 02:16:36 PM Operador: abcd
+/central/dataentry/fmt.php /var/www/abcd/htdocs/central/dataentry/wxis/buscar.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/buscar.xis&cipar=/var/www/abcd/bases/par/marc.par&Mfn=1&Opcion=cancelar&base=marc&Formato=/var/www/abcd/bases/marc/pfts/pt/admarc_c&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Monday 30th of June 2014 02:16:46 PM Operador: abcd
+/central/dataentry/inicio_main.php /var/www/abcd/htdocs/central/dataentry/wxis/login.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/login.xis&base=acces&cipar=/var/www/abcd/bases/par/acces.par&login=abcd&password=adm&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Monday 30th of June 2014 02:16:46 PM Operador: abcd
+/central/dataentry/inicio_base.php /var/www/abcd/htdocs/central/dataentry/wxis/administrar.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/administrar.xis&base=marc&cipar=/var/www/abcd/bases/par/marc.par&Opcion=status&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Monday 30th of June 2014 02:16:49 PM Operador: abcd
+/central/dataentry/fmt.php /var/www/abcd/htdocs/central/dataentry/wxis/buscar.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/buscar.xis&cipar=/var/www/abcd/bases/par/marc.par&Mfn=51&Opcion=ver&base=marc&Formato=/var/www/abcd/bases/marc/pfts/pt/admarc_c&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Monday 30th of June 2014 02:16:57 PM Operador: abcd
+/central/dataentry/fmt.php /var/www/abcd/htdocs/central/dataentry/wxis/buscar.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/buscar.xis&cipar=/var/www/abcd/bases/par/marc.par&Mfn=1&Opcion=ver&base=marc&Formato=/var/www/abcd/bases/marc/pfts/pt/admarc_c&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Monday 30th of June 2014 02:16:58 PM Operador: abcd
+/central/dataentry/fmt.php /var/www/abcd/htdocs/central/dataentry/wxis/lock.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/lock.xis&base=marc&cipar=/var/www/abcd/bases/par/marc.par&Mfn=1&login=abcd&lock=S&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Monday 30th of June 2014 02:16:58 PM Operador: abcd
+/central/dataentry/fmt.php /var/www/abcd/htdocs/central/dataentry/wxis/leer.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/leer.xis&base=marc&cipar=/var/www/abcd/bases/par/marc.par&Mfn=1&Opcion=editar&login=abcd&password=adm&Pft=if p(v3005) then '3005 'v3005'____$$$' fi,if p(v3006) then '3006 'v3006'____$$$' fi,if p(v3007) then '3007 'v3007'____$$$' fi,if p(v3017) then '3017 'v3017'____$$$' fi,if p(v3018) then '3018 'v3018'____$$$' fi,(if p(v1) then '1 'v1'____$$$' fi),(if p(v3) then '3 'v3'____$$$' fi),(if p(v5) then '5 'v5'____$$$' fi),(if p(v8) then '8 'v8'____$$$' fi),(if p(v10) then '10 'v10'____$$$' fi),(if p(v20) then '20 'v20'____$$$' fi),(if p(v22) then '22 'v22'____$$$' fi),(if p(v40) then '40 'v40'____$$$' fi),(if p(v41) then '41 'v41'____$$$' fi),(if p(v43) then '43 'v43'____$$$' fi),(if p(v44) then '44 'v44'____$$$' fi),(if p(v45) then '45 'v45'____$$$' fi),(if p(v80) then '80 'v80'____$$$' fi),(if p(v82) then '82 'v82'____$$$' fi),(if p(v84) then '84 'v84'____$$$' fi),(if p(v90) then '90 'v90'____$$$' fi),(if p(v100) then '100 'v100'____$$$' fi),(if p(v110) then '110 'v110'____$$$' fi),(if p(v111) then '111 'v111'____$$$' fi),(if p(v210) then '210 'v210'____$$$' fi),(if p(v222) then '222 'v222'____$$$' fi),(if p(v240) then '240 'v240'____$$$' fi),(if p(v242) then '242 'v242'____$$$' fi),(if p(v245) then '245 'v245'____$$$' fi),(if p(v246) then '246 'v246'____$$$' fi),(if p(v250) then '250 'v250'____$$$' fi),(if p(v255) then '255 'v255'____$$$' fi),(if p(v257) then '257 'v257'____$$$' fi),(if p(v260) then '260 'v260'____$$$' fi),(if p(v300) then '300 'v300'____$$$' fi),(if p(v310) then '310 'v310'____$$$' fi),(if p(v321) then '321 'v321'____$$$' fi),(if p(v340) then '340 'v340'____$$$' fi),(if p(v342) then '342 'v342'____$$$' fi),(if p(v351) then '351 'v351'____$$$' fi),(if p(v362) then '362 'v362'____$$$' fi),(if p(v490) then '490 'v490'____$$$' fi),(if p(v500) then '500 'v500'____$$$' fi),(if p(v502) then '502 'v502'____$$$' fi),(if p(v504) then '504 'v504'____$$$' fi),(if p(v505) then '505 'v505'____$$$' fi),(if p(v506) then '506 'v506'____$$$' fi),(if p(v511) then '511 'v511'____$$$' fi),(if p(v516) then '516 'v516'____$$$' fi),(if p(v520) then '520 'v520'____$$$' fi),(if p(v521) then '521 'v521'____$$$' fi),(if p(v533) then '533 'v533'____$$$' fi),(if p(v534) then '534 'v534'____$$$' fi),(if p(v538) then '538 'v538'____$$$' fi),(if p(v546) then '546 'v546'____$$$' fi),(if p(v580) then '580 'v580'____$$$' fi),(if p(v585) then '585 'v585'____$$$' fi),(if p(v586) then '586 'v586'____$$$' fi),(if p(v600) then '600 'v600'____$$$' fi),(if p(v610) then '610 'v610'____$$$' fi),(if p(v611) then '611 'v611'____$$$' fi),(if p(v630) then '630 'v630'____$$$' fi),(if p(v650) then '650 'v650'____$$$' fi),(if p(v651) then '651 'v651'____$$$' fi),(if p(v653) then '653 'v653'____$$$' fi),(if p(v655) then '655 'v655'____$$$' fi),(if p(v700) then '700 'v700'____$$$' fi),(if p(v710) then '710 'v710'____$$$' fi),(if p(v711) then '711 'v711'____$$$' fi),(if p(v730) then '730 'v730'____$$$' fi),(if p(v740) then '740 'v740'____$$$' fi),(if p(v752) then '752 'v752'____$$$' fi),(if p(v754) then '754 'v754'____$$$' fi),(if p(v773) then '773 'v773'____$$$' fi),(if p(v780) then '780 'v780'____$$$' fi),(if p(v785) then '785 'v785'____$$$' fi),(if p(v856) then '856 'v856'____$$$' fi),(if p(v866) then '866 'v866'____$$$' fi),(if p(v900) then '900 'v900'____$$$' fi),(if p(v980) then '980 'v980'____$$$' fi),&lock=S&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Monday 30th of June 2014 02:17:10 PM Operador: abcd
+/central/dataentry/fmt.php /var/www/abcd/htdocs/central/dataentry/wxis/z3950_cnv.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/z3950_cnv.xis&base=marc&cipar=/var/www/abcd/bases/par/marc.par&Pft='245:  ',if a(v245) then '<b><font size=3 color=red>O campo 245 - Título principal - está faltando</font></b>' fi,mpl '$$$$','100:  ',if a(v100) and a(v110) and a(v111) then '<b><font size=3 color=red>Falta Entrada principal: campo 100, 110, 111 ou 130</font></b>' fi
+ ,mpl '$$$$','8:  ',if ss(1,6,v8)='aammdd' then '<b><font size=3 color=red>A data no campo fixo (008)=aammdd, alterar para a data de hoje no formato indicado</font></b>' fi,mpl '$$$$',':  ',,mpl '$$$$',&ValorCapturado=3005c
+3006a
+3007m
+3017#
+3018a
+0001100001
+0005201406301416.58
+0008050216s2000    bl            000 0 por d
+0020##^a8503006898 : (broch.)
+0020
+0040##^aBlRjFGVB^bpor
+0040
+0090##^a363.30981^dP739
+0090
+0111##^4rsp
+0111
+024500^aPobreza, cidadania e segurança /^cJoão Paulo dos Reis Veloso, Roberto Cavalcanti de Albuquerque (coordenadores); Antonio Carlos Magalhães... [et al.]. -
+0245
+0260##^aRio de Janeiro^bJ. Olympio,^c2000.
+0260
+0300##^a308p. :^bil.
+0300
+0500##^aIntegra o X Fórum Nacional, sessão extraordinária "estratégias de combate à pobreza" e "Cidadania e a reforma das políticas de segurança pública", realizada em 13 de setembro de 1999.clui o
+0500
+0650#4^aPobreza^zBrasil.
+0650#4^aCidadania^zBrasil.
+0650#4^aPolíticas públicas^zBrasil.
+0650#4^aSegurança pública^zBrasil.
+0650
+07001 ^aVelloso, João Paulo dos Reis,^d1931-
+07001 ^aAlbuquerque, Roberto Carvalho de,^d1939-
+07001 ^aMagalhães, Antonio Carlos,^d1927-
+0700
+0980^d20140630 02:16:58^oabcd
+3000
+0003
+0041
+0044
+0082
+0100
+0110
+0240
+0246
+0250
+0490
+0504
+0505
+0520
+0521
+0546
+0600
+0610
+0611
+0630
+0651
+0653
+0655
+0710
+0711
+0730
+0740
+0754
+0856
+0900
+
+33331&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Monday 30th of June 2014 02:17:10 PM Operador: abcd
+/central/dataentry/fmt.php /var/www/abcd/htdocs/central/dataentry/wxis/actualizar.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/actualizar.xis&base=marc&cipar=/var/www/abcd/bases/par/marc.par&login=abcd&Mfn=1&Opcion=actualizar&ValorCapturado=3005c
+3006a
+3007m
+3017#
+3018a
+0001100001
+0005201406301416.58
+0008050216s2000    bl            000 0 por d
+0020##^a8503006898 : (broch.)
+0020
+0040##^aBlRjFGVB^bpor
+0040
+0090##^a363.30981^dP739
+0090
+0111##^4rsp
+0111
+024500^aPobreza, cidadania e segurança /^cJoão Paulo dos Reis Veloso, Roberto Cavalcanti de Albuquerque (coordenadores); Antonio Carlos Magalhães... [et al.]. -
+0245
+0260##^aRio de Janeiro^bJ. Olympio,^c2000.
+0260
+0300##^a308p. :^bil.
+0300
+0500##^aIntegra o X Fórum Nacional, sessão extraordinária "estratégias de combate à pobreza" e "Cidadania e a reforma das políticas de segurança pública", realizada em 13 de setembro de 1999.clui o
+0500
+0650#4^aPobreza^zBrasil.
+0650#4^aCidadania^zBrasil.
+0650#4^aPolíticas públicas^zBrasil.
+0650#4^aSegurança pública^zBrasil.
+0650
+07001 ^aVelloso, João Paulo dos Reis,^d1931-
+07001 ^aAlbuquerque, Roberto Carvalho de,^d1939-
+07001 ^aMagalhães, Antonio Carlos,^d1927-
+0700
+0980^d20140630 02:16:58^oabcd
+3000
+0003
+0041
+0044
+0082
+0100
+0110
+0240
+0246
+0250
+0490
+0504
+0505
+0520
+0521
+0546
+0600
+0610
+0611
+0630
+0651
+0653
+0655
+0710
+0711
+0730
+0740
+0754
+0856
+0900
+&wks=BK_a_LI.fmt&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Monday 30th of June 2014 02:17:10 PM Operador: abcd
+/central/dataentry/fmt.php /var/www/abcd/htdocs/central/dataentry/wxis/buscar.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/buscar.xis&cipar=/var/www/abcd/bases/par/marc.par&Mfn=1&Opcion=ver&base=marc&Formato=/var/www/abcd/bases/marc/pfts/pt/admarc_c&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Monday 30th of June 2014 02:18:28 PM Operador: abcd
+/central/dataentry/fmt.php /var/www/abcd/htdocs/central/dataentry/wxis/buscar.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/buscar.xis&cipar=/var/www/abcd/bases/par/marc.par&Mfn=1&Opcion=ver&base=marc&Formato=/var/www/abcd/bases/marc/pfts/pt/admarc_c&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Monday 30th of June 2014 02:18:29 PM Operador: abcd
+/central/dataentry/fmt.php /var/www/abcd/htdocs/central/dataentry/wxis/buscar.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/buscar.xis&cipar=/var/www/abcd/bases/par/marc.par&Mfn=1&Opcion=ver&base=marc&Formato=/var/www/abcd/bases/marc/pfts/pt/admarc_c&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Monday 30th of June 2014 02:18:37 PM Operador: abcd
+/central/dataentry/inicio_main.php /var/www/abcd/htdocs/central/dataentry/wxis/login.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/login.xis&base=acces&cipar=/var/www/abcd/bases/par/acces.par&login=abcd&password=adm&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Monday 30th of June 2014 02:18:38 PM Operador: abcd
+/central/dataentry/inicio_base.php /var/www/abcd/htdocs/central/dataentry/wxis/administrar.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/administrar.xis&base=marc&cipar=/var/www/abcd/bases/par/marc.par&Opcion=status&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Monday 30th of June 2014 02:18:39 PM Operador: abcd
+/central/dataentry/fmt.php /var/www/abcd/htdocs/central/dataentry/wxis/buscar.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/buscar.xis&cipar=/var/www/abcd/bases/par/marc.par&Mfn=1&Opcion=ver&base=marc&Formato=/var/www/abcd/bases/marc/pfts/pt/admarc_c&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Monday 30th of June 2014 02:18:42 PM Operador: abcd
+/central/dataentry/fmt.php /var/www/abcd/htdocs/central/dataentry/wxis/lock.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/lock.xis&base=marc&cipar=/var/www/abcd/bases/par/marc.par&Mfn=1&login=abcd&lock=S&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Monday 30th of June 2014 02:18:42 PM Operador: abcd
+/central/dataentry/fmt.php /var/www/abcd/htdocs/central/dataentry/wxis/leer.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/leer.xis&base=marc&cipar=/var/www/abcd/bases/par/marc.par&Mfn=1&Opcion=editar&login=abcd&password=adm&Pft=if p(v3005) then '3005 'v3005'____$$$' fi,if p(v3006) then '3006 'v3006'____$$$' fi,if p(v3007) then '3007 'v3007'____$$$' fi,if p(v3017) then '3017 'v3017'____$$$' fi,if p(v3018) then '3018 'v3018'____$$$' fi,(if p(v1) then '1 'v1'____$$$' fi),(if p(v3) then '3 'v3'____$$$' fi),(if p(v5) then '5 'v5'____$$$' fi),(if p(v8) then '8 'v8'____$$$' fi),(if p(v10) then '10 'v10'____$$$' fi),(if p(v20) then '20 'v20'____$$$' fi),(if p(v22) then '22 'v22'____$$$' fi),(if p(v40) then '40 'v40'____$$$' fi),(if p(v41) then '41 'v41'____$$$' fi),(if p(v43) then '43 'v43'____$$$' fi),(if p(v44) then '44 'v44'____$$$' fi),(if p(v45) then '45 'v45'____$$$' fi),(if p(v80) then '80 'v80'____$$$' fi),(if p(v82) then '82 'v82'____$$$' fi),(if p(v84) then '84 'v84'____$$$' fi),(if p(v90) then '90 'v90'____$$$' fi),(if p(v100) then '100 'v100'____$$$' fi),(if p(v110) then '110 'v110'____$$$' fi),(if p(v111) then '111 'v111'____$$$' fi),(if p(v210) then '210 'v210'____$$$' fi),(if p(v222) then '222 'v222'____$$$' fi),(if p(v240) then '240 'v240'____$$$' fi),(if p(v242) then '242 'v242'____$$$' fi),(if p(v245) then '245 'v245'____$$$' fi),(if p(v246) then '246 'v246'____$$$' fi),(if p(v250) then '250 'v250'____$$$' fi),(if p(v255) then '255 'v255'____$$$' fi),(if p(v257) then '257 'v257'____$$$' fi),(if p(v260) then '260 'v260'____$$$' fi),(if p(v300) then '300 'v300'____$$$' fi),(if p(v310) then '310 'v310'____$$$' fi),(if p(v321) then '321 'v321'____$$$' fi),(if p(v340) then '340 'v340'____$$$' fi),(if p(v342) then '342 'v342'____$$$' fi),(if p(v351) then '351 'v351'____$$$' fi),(if p(v362) then '362 'v362'____$$$' fi),(if p(v490) then '490 'v490'____$$$' fi),(if p(v500) then '500 'v500'____$$$' fi),(if p(v502) then '502 'v502'____$$$' fi),(if p(v504) then '504 'v504'____$$$' fi),(if p(v505) then '505 'v505'____$$$' fi),(if p(v506) then '506 'v506'____$$$' fi),(if p(v511) then '511 'v511'____$$$' fi),(if p(v516) then '516 'v516'____$$$' fi),(if p(v520) then '520 'v520'____$$$' fi),(if p(v521) then '521 'v521'____$$$' fi),(if p(v533) then '533 'v533'____$$$' fi),(if p(v534) then '534 'v534'____$$$' fi),(if p(v538) then '538 'v538'____$$$' fi),(if p(v546) then '546 'v546'____$$$' fi),(if p(v580) then '580 'v580'____$$$' fi),(if p(v585) then '585 'v585'____$$$' fi),(if p(v586) then '586 'v586'____$$$' fi),(if p(v600) then '600 'v600'____$$$' fi),(if p(v610) then '610 'v610'____$$$' fi),(if p(v611) then '611 'v611'____$$$' fi),(if p(v630) then '630 'v630'____$$$' fi),(if p(v650) then '650 'v650'____$$$' fi),(if p(v651) then '651 'v651'____$$$' fi),(if p(v653) then '653 'v653'____$$$' fi),(if p(v655) then '655 'v655'____$$$' fi),(if p(v700) then '700 'v700'____$$$' fi),(if p(v710) then '710 'v710'____$$$' fi),(if p(v711) then '711 'v711'____$$$' fi),(if p(v730) then '730 'v730'____$$$' fi),(if p(v740) then '740 'v740'____$$$' fi),(if p(v752) then '752 'v752'____$$$' fi),(if p(v754) then '754 'v754'____$$$' fi),(if p(v773) then '773 'v773'____$$$' fi),(if p(v780) then '780 'v780'____$$$' fi),(if p(v785) then '785 'v785'____$$$' fi),(if p(v856) then '856 'v856'____$$$' fi),(if p(v866) then '866 'v866'____$$$' fi),(if p(v900) then '900 'v900'____$$$' fi),(if p(v980) then '980 'v980'____$$$' fi),&lock=S&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Monday 30th of June 2014 02:18:48 PM Operador: abcd
+/central/dataentry/fmt.php /var/www/abcd/htdocs/central/dataentry/wxis/z3950_cnv.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/z3950_cnv.xis&base=marc&cipar=/var/www/abcd/bases/par/marc.par&Pft='245:  ',if a(v245) then '<b><font size=3 color=red>O campo 245 - Título principal - está faltando</font></b>' fi,mpl '$$$$','100:  ',if a(v100) and a(v110) and a(v111) then '<b><font size=3 color=red>Falta Entrada principal: campo 100, 110, 111 ou 130</font></b>' fi
+ ,mpl '$$$$','8:  ',if ss(1,6,v8)='aammdd' then '<b><font size=3 color=red>A data no campo fixo (008)=aammdd, alterar para a data de hoje no formato indicado</font></b>' fi,mpl '$$$$',':  ',,mpl '$$$$',&ValorCapturado=3005c
+3006a
+3007m
+3017#
+3018a
+0001100001
+0005201406301418.42
+0008050216s2000    bl            000 0 por d
+0020##^a8503006898 : (broch.)
+0020
+0040##^aBlRjFGVB^bpor
+0040
+0090##^a363.30981^dP739
+0090
+0111##^4rsp
+0111
+024500^aPobreza, cidadania e segurança /^cJoão Paulo dos Reis Veloso, Roberto Cavalcanti de Albuquerque (coordenadores); Antonio Carlos Magalhães... [et al.]. -
+0245
+0260##^aRio de Janeiro^bJ. Olympio,^c2000.
+0260
+0300##^a308p. :^bil.
+0300
+0500##^aIntegra o X Fórum Nacional, sessão extraordinária "estratégias de combate à pobreza" e "Cidadania e a reforma das políticas de segurança pública", realizada em 13 de setembro de 1999.clui o
+0500
+0650#4^aPobreza^zBrasil.
+0650#4^aCidadania^zBrasil.
+0650#4^aPolíticas públicas^zBrasil.
+0650#4^aSegurança pública^zBrasil.
+0650
+07001 ^aVelloso, João Paulo dos Reis,^d1931-
+07001 ^aAlbuquerque, Roberto Carvalho de,^d1939-
+07001 ^aMagalhães, Antonio Carlos,^d1927-
+0700
+0980^d20140630 02:18:42^oabcd
+3000
+0003
+0041
+0044
+0082
+0100
+0110
+0240
+0246
+0250
+0490
+0504
+0505
+0520
+0521
+0546
+0600
+0610
+0611
+0630
+0651
+0653
+0655
+0710
+0711
+0730
+0740
+0754
+0856
+0900
+
+33331&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Monday 30th of June 2014 02:18:48 PM Operador: abcd
+/central/dataentry/fmt.php /var/www/abcd/htdocs/central/dataentry/wxis/actualizar.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/actualizar.xis&base=marc&cipar=/var/www/abcd/bases/par/marc.par&login=abcd&Mfn=1&Opcion=actualizar&ValorCapturado=3005c
+3006a
+3007m
+3017#
+3018a
+0001100001
+0005201406301418.42
+0008050216s2000    bl            000 0 por d
+0020##^a8503006898 : (broch.)
+0020
+0040##^aBlRjFGVB^bpor
+0040
+0090##^a363.30981^dP739
+0090
+0111##^4rsp
+0111
+024500^aPobreza, cidadania e segurança /^cJoão Paulo dos Reis Veloso, Roberto Cavalcanti de Albuquerque (coordenadores); Antonio Carlos Magalhães... [et al.]. -
+0245
+0260##^aRio de Janeiro^bJ. Olympio,^c2000.
+0260
+0300##^a308p. :^bil.
+0300
+0500##^aIntegra o X Fórum Nacional, sessão extraordinária "estratégias de combate à pobreza" e "Cidadania e a reforma das políticas de segurança pública", realizada em 13 de setembro de 1999.clui o
+0500
+0650#4^aPobreza^zBrasil.
+0650#4^aCidadania^zBrasil.
+0650#4^aPolíticas públicas^zBrasil.
+0650#4^aSegurança pública^zBrasil.
+0650
+07001 ^aVelloso, João Paulo dos Reis,^d1931-
+07001 ^aAlbuquerque, Roberto Carvalho de,^d1939-
+07001 ^aMagalhães, Antonio Carlos,^d1927-
+0700
+0980^d20140630 02:18:42^oabcd
+3000
+0003
+0041
+0044
+0082
+0100
+0110
+0240
+0246
+0250
+0490
+0504
+0505
+0520
+0521
+0546
+0600
+0610
+0611
+0630
+0651
+0653
+0655
+0710
+0711
+0730
+0740
+0754
+0856
+0900
+&wks=BK_a_LI.fmt&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Monday 30th of June 2014 02:18:48 PM Operador: abcd
+/central/dataentry/fmt.php /var/www/abcd/htdocs/central/dataentry/wxis/buscar.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/buscar.xis&cipar=/var/www/abcd/bases/par/marc.par&Mfn=1&Opcion=ver&base=marc&Formato=/var/www/abcd/bases/marc/pfts/pt/admarc_c&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Monday 30th of June 2014 02:19:23 PM Operador: abcd
+/central/dataentry/fmt.php /var/www/abcd/htdocs/central/dataentry/wxis/buscar.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/buscar.xis&cipar=/var/www/abcd/bases/par/marc.par&Mfn=1&Opcion=ver&base=marc&Formato=/var/www/abcd/bases/marc/pfts/pt/admarc_c&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Monday 30th of June 2014 02:19:24 PM Operador: abcd
+/central/dataentry/fmt.php /var/www/abcd/htdocs/central/dataentry/wxis/buscar.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/buscar.xis&cipar=/var/www/abcd/bases/par/marc.par&Mfn=1&Opcion=ver&base=marc&Formato=/var/www/abcd/bases/marc/pfts/pt/admarc_c&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Monday 30th of June 2014 02:19:24 PM Operador: abcd
+/central/dataentry/fmt.php /var/www/abcd/htdocs/central/dataentry/wxis/buscar.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/buscar.xis&cipar=/var/www/abcd/bases/par/marc.par&Mfn=1&Opcion=ver&base=marc&Formato=/var/www/abcd/bases/marc/pfts/pt/admarc_c&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Monday 30th of June 2014 02:19:25 PM Operador: abcd
+/central/dataentry/fmt.php /var/www/abcd/htdocs/central/dataentry/wxis/buscar.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/buscar.xis&cipar=/var/www/abcd/bases/par/marc.par&Mfn=1&Opcion=ver&base=marc&Formato=/var/www/abcd/bases/marc/pfts/pt/admarc_c&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Monday 30th of June 2014 02:19:25 PM Operador: abcd
+/central/dataentry/fmt.php /var/www/abcd/htdocs/central/dataentry/wxis/buscar.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/buscar.xis&cipar=/var/www/abcd/bases/par/marc.par&Mfn=1&Opcion=ver&base=marc&Formato=/var/www/abcd/bases/marc/pfts/pt/admarc_c&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Monday 30th of June 2014 02:19:25 PM Operador: abcd
+/central/dataentry/fmt.php /var/www/abcd/htdocs/central/dataentry/wxis/buscar.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/buscar.xis&cipar=/var/www/abcd/bases/par/marc.par&Mfn=1&Opcion=ver&base=marc&Formato=/var/www/abcd/bases/marc/pfts/pt/admarc_c&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Monday 30th of June 2014 02:19:26 PM Operador: abcd
+/central/dataentry/fmt.php /var/www/abcd/htdocs/central/dataentry/wxis/buscar.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/buscar.xis&cipar=/var/www/abcd/bases/par/marc.par&Mfn=51&Opcion=ver&base=marc&Formato=/var/www/abcd/bases/marc/pfts/pt/admarc_c&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Monday 30th of June 2014 02:19:28 PM Operador: abcd
+/central/dataentry/fmt.php /var/www/abcd/htdocs/central/dataentry/wxis/buscar.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/buscar.xis&cipar=/var/www/abcd/bases/par/marc.par&Mfn=1&Opcion=ver&base=marc&Formato=/var/www/abcd/bases/marc/pfts/pt/admarc_c&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Monday 30th of June 2014 02:19:32 PM Operador: abcd
+/central/dataentry/fmt.php /var/www/abcd/htdocs/central/dataentry/wxis/buscar.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/buscar.xis&cipar=/var/www/abcd/bases/par/marc.par&Mfn=1&Opcion=ver&base=marc&Formato=/var/www/abcd/bases/marc/pfts/pt/admarc_c&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Monday 30th of June 2014 02:19:32 PM Operador: abcd
+/central/dataentry/fmt.php /var/www/abcd/htdocs/central/dataentry/wxis/buscar.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/buscar.xis&cipar=/var/www/abcd/bases/par/marc.par&Mfn=1&Opcion=ver&base=marc&Formato=/var/www/abcd/bases/marc/pfts/pt/admarc_c&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Monday 30th of June 2014 02:19:32 PM Operador: abcd
+/central/dataentry/fmt.php /var/www/abcd/htdocs/central/dataentry/wxis/buscar.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/buscar.xis&cipar=/var/www/abcd/bases/par/marc.par&Mfn=1&Opcion=ver&base=marc&Formato=/var/www/abcd/bases/marc/pfts/pt/admarc_c&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Monday 30th of June 2014 02:19:33 PM Operador: abcd
+/central/dataentry/fmt.php /var/www/abcd/htdocs/central/dataentry/wxis/buscar.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/buscar.xis&cipar=/var/www/abcd/bases/par/marc.par&Mfn=1&Opcion=ver&base=marc&Formato=/var/www/abcd/bases/marc/pfts/pt/admarc_c&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Monday 30th of June 2014 02:19:33 PM Operador: abcd
+/central/dataentry/fmt.php /var/www/abcd/htdocs/central/dataentry/wxis/buscar.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/buscar.xis&cipar=/var/www/abcd/bases/par/marc.par&Mfn=1&Opcion=ver&base=marc&Formato=/var/www/abcd/bases/marc/pfts/pt/admarc_c&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Monday 30th of June 2014 02:19:33 PM Operador: abcd
+/central/dataentry/fmt.php /var/www/abcd/htdocs/central/dataentry/wxis/buscar.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/buscar.xis&cipar=/var/www/abcd/bases/par/marc.par&Mfn=1&Opcion=ver&base=marc&Formato=/var/www/abcd/bases/marc/pfts/pt/admarc_c&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Monday 30th of June 2014 03:25:48 PM Operador: abcd
+/central/circulation/capturaclaves.php /var/www/abcd/htdocs/central/dataentry/wxis/ifp.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/ifp.xis&base=users&cipar=/var/www/abcd/bases/par/users.par&Opcion=autoridades&tagfst=&prefijo=NO_&pref=NO_&postings=1&formato_e=v30,`$$$`,if P(v20) then v20 else v35 fi&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Monday 30th of June 2014 03:25:51 PM Operador: abcd
+/central/circulation/usuario_prestamos_presentar.php /var/www/abcd/htdocs/central/dataentry/wxis/cipres_usuario.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/cipres_usuario.xis&Expresion=CO_03&base=users&cipar=/var/www/abcd/bases//par/users.par&Formato=/var/www/abcd/bases/users/loans/pt/loans_usdisp.pft&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Monday 30th of June 2014 03:25:51 PM Operador: abcd
+/central/circulation/usuario_prestamos_presentar.php /var/www/abcd/htdocs/central/dataentry/wxis/cipres_usuario.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/cipres_usuario.xis&Expresion=TR_S_03&base=suspml&cipar=/var/www/abcd/bases/par/suspml.par&Pft=v1'|',v10'|',v20'|',v30'|',v40'|',v50'|',v60'|',v100'|',f(mfn,1,0)/&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Monday 30th of June 2014 03:25:51 PM Operador: abcd
+/central/circulation/usuario_prestamos_presentar.php /var/www/abcd/htdocs/central/dataentry/wxis/cipres_usuario.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/cipres_usuario.xis&Expresion=TR_M_03&base=suspml&cipar=/var/www/abcd/bases/par/suspml.par&Pft=v1'|',v10'|',v20'|',v30'|',v40'|',v50'|',v60'|',v100'|',f(mfn,1,0)/&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Monday 30th of June 2014 03:25:51 PM Operador: abcd
+/central/circulation/usuario_prestamos_presentar.php /var/www/abcd/htdocs/central/dataentry/wxis/cipres_usuario.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/cipres_usuario.xis&Expresion=TRU_P_03&base=trans&cipar=/var/www/abcd/bases/par/trans.par&Formato=/var/www/abcd/bases/trans/pfts/pt/loans_display.pft&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Monday 30th of June 2014 03:25:51 PM Operador: abcd
+/central/circulation/usuario_prestamos_presentar.php /var/www/abcd/htdocs/central/dataentry/wxis/cipres_usuario.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/cipres_usuario.xis&Expresion=CO_03&base=users&cipar=/var/www/abcd/bases/par/users.par&Pft=if P(v20) then v20 else v35 fi'$$'v10^*'$$'v18&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Monday 30th of June 2014 03:25:51 PM Operador: abcd
+/central/circulation/usuario_prestamos_presentar.php /var/www/abcd/htdocs/central/dataentry/wxis/cipres_usuario.xis &base=reserve&cipar=/var/www/abcd/bases/par/reserve.par&Expresion=CU_03 and ST_0&Formato=/var/www/abcd/bases/reserve/pfts/pt/tbreserve.pft&path_db=/var/www/abcd/bases/&syspar=/var/www/abcd/bases/par/syspar.par
+**Monday 30th of June 2014 03:25:51 PM Operador: abcd
+/central/circulation/usuario_prestamos_presentar.php /var/www/abcd/htdocs/central/dataentry/wxis/buscar_ingreso.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/buscar_ingreso.xis&base=&cipar=/var/www/abcd/bases/par/.par&Expresion=CN_&Formato=/var/www/abcd/bases//loans/en/loans_display.pft&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Monday 30th of June 2014 03:25:54 PM Operador: abcd
+/central/circulation/devolver_ex.php /var/www/abcd/htdocs/central/dataentry/wxis/buscar_ingreso.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/buscar_ingreso.xis&base=trans&cipar=/var/www/abcd/bases/par/trans.par&count=1&Expresion=TR_P_10026&Pft=v10'|$'v20'|$'v30'|$'v35'|$'v40'|$'v45'|$'v70'|$'v80'|$'v100,'|$',v40,'|$'v400,'|$'v500,'|$',v95,'|$',v98/&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Monday 30th of June 2014 03:25:54 PM Operador: abcd
+/central/circulation/devolver_ex.php /var/www/abcd/htdocs/central/dataentry/wxis/actualizar_registro.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/actualizar_registro.xis&base=trans&cipar=/var/www/abcd/bases/par/trans.par&login=abcd&Mfn=49&ValorCapturado=0001X
+050020140630
+0130^aabcd^b20140630 15:25:54&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Monday 30th of June 2014 03:25:54 PM Operador: abcd
+/central/circulation/devolver_ex.php /var/www/abcd/htdocs/central/dataentry/wxis/actualizar.xis &base=suspml&cipar=/var/www/abcd/bases/par/suspml.par&login=abcd&Mfn=New&Opcion=crear&ValorCapturado=0001M
+00100
+002003
+003020140630
+0040Multas (10026)
+0050433728000
+&path_db=/var/www/abcd/bases/&syspar=/var/www/abcd/bases/par/syspar.par
+**Monday 30th of June 2014 03:25:54 PM Operador: abcd
+/central/circulation/devolver_ex.php /var/www/abcd/htdocs/central/dataentry/wxis/cipres_usuario.xis &base=reserve&cipar=/var/www/abcd/bases/par/reserve.par&Expresion=CN_marc_18 and ST_0&Pft=f(mfn,1,0),'|',v10,'|'v60,'|',v40,'|',v130,'|',v200/&path_db=/var/www/abcd/bases/&syspar=/var/www/abcd/bases/par/syspar.par
+**Monday 30th of June 2014 03:25:54 PM Operador: abcd
+/central/circulation/usuario_prestamos_presentar.php /var/www/abcd/htdocs/central/dataentry/wxis/cipres_usuario.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/cipres_usuario.xis&Expresion=CO_03&base=users&cipar=/var/www/abcd/bases//par/users.par&Formato=/var/www/abcd/bases/users/loans/pt/loans_usdisp.pft&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Monday 30th of June 2014 03:25:54 PM Operador: abcd
+/central/circulation/usuario_prestamos_presentar.php /var/www/abcd/htdocs/central/dataentry/wxis/cipres_usuario.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/cipres_usuario.xis&Expresion=TR_S_03&base=suspml&cipar=/var/www/abcd/bases/par/suspml.par&Pft=v1'|',v10'|',v20'|',v30'|',v40'|',v50'|',v60'|',v100'|',f(mfn,1,0)/&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Monday 30th of June 2014 03:25:54 PM Operador: abcd
+/central/circulation/usuario_prestamos_presentar.php /var/www/abcd/htdocs/central/dataentry/wxis/cipres_usuario.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/cipres_usuario.xis&Expresion=TR_M_03&base=suspml&cipar=/var/www/abcd/bases/par/suspml.par&Pft=v1'|',v10'|',v20'|',v30'|',v40'|',v50'|',v60'|',v100'|',f(mfn,1,0)/&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Monday 30th of June 2014 03:25:54 PM Operador: abcd
+/central/circulation/usuario_prestamos_presentar.php /var/www/abcd/htdocs/central/dataentry/wxis/cipres_usuario.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/cipres_usuario.xis&Expresion=TRU_P_03&base=trans&cipar=/var/www/abcd/bases/par/trans.par&Formato=/var/www/abcd/bases/trans/pfts/pt/loans_display.pft&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Monday 30th of June 2014 03:25:54 PM Operador: abcd
+/central/circulation/usuario_prestamos_presentar.php /var/www/abcd/htdocs/central/dataentry/wxis/cipres_usuario.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/cipres_usuario.xis&Expresion=CO_03&base=users&cipar=/var/www/abcd/bases/par/users.par&Pft=if P(v20) then v20 else v35 fi'$$'v10^*'$$'v18&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Monday 30th of June 2014 03:25:54 PM Operador: abcd
+/central/circulation/usuario_prestamos_presentar.php /var/www/abcd/htdocs/central/dataentry/wxis/cipres_usuario.xis &base=reserve&cipar=/var/www/abcd/bases/par/reserve.par&Expresion=CU_03 and ST_0&Formato=/var/www/abcd/bases/reserve/pfts/pt/tbreserve.pft&path_db=/var/www/abcd/bases/&syspar=/var/www/abcd/bases/par/syspar.par
+**Monday 30th of June 2014 03:25:54 PM Operador: abcd
+/central/circulation/usuario_prestamos_presentar.php /var/www/abcd/htdocs/central/dataentry/wxis/buscar_ingreso.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/buscar_ingreso.xis&base=&cipar=/var/www/abcd/bases/par/.par&Expresion=CN_&Formato=/var/www/abcd/bases//loans/en/loans_display.pft&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Monday 30th of June 2014 03:25:54 PM Operador: abcd
+/central/circulation/usuario_prestamos_presentar.php /var/www/abcd/htdocs/central/dataentry/wxis/cipres_usuario.xis &base=reserve&cipar=/var/www/abcd/bases/par/reserve.par&Expresion=CN_marc_18 and ST_0&Formato=/var/www/abcd/bases/reserve/pfts/pt/tbreserve.pft&path_db=/var/www/abcd/bases/&syspar=/var/www/abcd/bases/par/syspar.par
+**Monday 30th of June 2014 03:25:54 PM Operador: abcd
+/central/circulation/usuario_prestamos_presentar.php /var/www/abcd/htdocs/central/dataentry/wxis/buscar_ingreso.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/buscar_ingreso.xis&base=&cipar=/var/www/abcd/bases/par/.par&Expresion=CN_&Formato=/var/www/abcd/bases//loans/en/loans_display.pft&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Monday 30th of June 2014 03:25:57 PM Operador: abcd
+/central/circulation/multas_eliminar_ex.php /var/www/abcd/htdocs/central/dataentry/wxis/actualizar.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/actualizar.xis&base=suspml&cipar=/var/www/abcd/bases/par/suspml.par&login=abcd&Mfn=21&Opcion=actualizar&ValorCapturado=00102&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Monday 30th of June 2014 03:25:57 PM Operador: abcd
+/central/circulation/usuario_prestamos_presentar.php /var/www/abcd/htdocs/central/dataentry/wxis/cipres_usuario.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/cipres_usuario.xis&Expresion=CO_03&base=users&cipar=/var/www/abcd/bases//par/users.par&Formato=/var/www/abcd/bases/users/loans/pt/loans_usdisp.pft&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Monday 30th of June 2014 03:25:57 PM Operador: abcd
+/central/circulation/usuario_prestamos_presentar.php /var/www/abcd/htdocs/central/dataentry/wxis/cipres_usuario.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/cipres_usuario.xis&Expresion=TR_S_03&base=suspml&cipar=/var/www/abcd/bases/par/suspml.par&Pft=v1'|',v10'|',v20'|',v30'|',v40'|',v50'|',v60'|',v100'|',f(mfn,1,0)/&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Monday 30th of June 2014 03:25:57 PM Operador: abcd
+/central/circulation/usuario_prestamos_presentar.php /var/www/abcd/htdocs/central/dataentry/wxis/cipres_usuario.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/cipres_usuario.xis&Expresion=TR_M_03&base=suspml&cipar=/var/www/abcd/bases/par/suspml.par&Pft=v1'|',v10'|',v20'|',v30'|',v40'|',v50'|',v60'|',v100'|',f(mfn,1,0)/&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Monday 30th of June 2014 03:25:57 PM Operador: abcd
+/central/circulation/usuario_prestamos_presentar.php /var/www/abcd/htdocs/central/dataentry/wxis/cipres_usuario.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/cipres_usuario.xis&Expresion=TRU_P_03&base=trans&cipar=/var/www/abcd/bases/par/trans.par&Formato=/var/www/abcd/bases/trans/pfts/pt/loans_display.pft&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Monday 30th of June 2014 03:25:57 PM Operador: abcd
+/central/circulation/usuario_prestamos_presentar.php /var/www/abcd/htdocs/central/dataentry/wxis/cipres_usuario.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/cipres_usuario.xis&Expresion=CO_03&base=users&cipar=/var/www/abcd/bases/par/users.par&Pft=if P(v20) then v20 else v35 fi'$$'v10^*'$$'v18&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Monday 30th of June 2014 03:25:57 PM Operador: abcd
+/central/circulation/usuario_prestamos_presentar.php /var/www/abcd/htdocs/central/dataentry/wxis/cipres_usuario.xis &base=reserve&cipar=/var/www/abcd/bases/par/reserve.par&Expresion=CU_03 and ST_0&Formato=/var/www/abcd/bases/reserve/pfts/pt/tbreserve.pft&path_db=/var/www/abcd/bases/&syspar=/var/www/abcd/bases/par/syspar.par
+**Monday 30th of June 2014 03:25:57 PM Operador: abcd
+/central/circulation/usuario_prestamos_presentar.php /var/www/abcd/htdocs/central/dataentry/wxis/buscar_ingreso.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/buscar_ingreso.xis&base=&cipar=/var/www/abcd/bases/par/.par&Expresion=CN_&Formato=/var/www/abcd/bases//loans/en/loans_display.pft&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Monday 30th of June 2014 03:26:05 PM Operador: abcd
+/central/output_circulation/rs01.php /var/www/abcd/htdocs/central/dataentry/wxis/sort.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/sort.xis&base=reserve&cipar=/var/www/abcd/bases/par/reserve.par&Expresion=ST_0&Opcion=buscar&Formato=v15`$$$`V20`$$$`V10 `$$$`V40`$$$`f(mfn,1,0)`$$$`,@/var/www/abcd/bases/reserve/pfts/pt/reserve_01.pft&sortkey=V15,v20&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Monday 30th of June 2014 03:26:05 PM Operador: abcd
+/central/output_circulation/rs01.php /var/www/abcd/htdocs/central/dataentry/wxis/cipres_usuario.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/cipres_usuario.xis&Expresion=TRU_P_&base=trans&cipar=/var/www/abcd/bases/par/trans.par&Pft=V40/&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Monday 30th of June 2014 03:26:05 PM Operador: abcd
+/central/output_circulation/rs01.php /var/www/abcd/htdocs/central/dataentry/wxis/cipres_usuario.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/cipres_usuario.xis&Expresion=(TR_S_ or TR_M_) and ST_0&base=suspml&cipar=/var/www/abcd/bases/par/suspml.par&Pft=v1'|',v60/&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par

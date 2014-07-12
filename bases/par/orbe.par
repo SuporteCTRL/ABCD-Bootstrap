@@ -1,0 +1,7 @@
+orbe.*=%path_database%orbe/data/orbe.*
+orbe.pft=%path_database%orbe/pfts/pt/orbe.pft
+prologoact.pft=%path_database%www/prologoact.pft
+epilogoact.pft=%path_database%www/epilogoact.pft
+isisac.tab=%path_database%orbe/data/isisac.tab
+isisuc.tab=%path_database%orbe/data/isisuc.tab
+STW=%path_database%orbe/data/orbe.stw

@@ -1,0 +1,563 @@
+**Thursday 10th of July 2014 01:02:07 PM Operador: abcd
+/central/statistics/tables_generate.php /var/www/abcd/htdocs/central/dataentry/wxis/administrar.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/administrar.xis&base=marc&cipar=/var/www/abcd/bases/par/marc.par&Opcion=status&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Thursday 10th of July 2014 01:02:19 PM Operador: abcd
+/central/dataentry/inicio_main.php /var/www/abcd/htdocs/central/dataentry/wxis/login.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/login.xis&base=acces&cipar=/var/www/abcd/bases/par/acces.par&login=abcd&password=adm&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Thursday 10th of July 2014 01:02:19 PM Operador: abcd
+/central/dataentry/inicio_base.php /var/www/abcd/htdocs/central/dataentry/wxis/administrar.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/administrar.xis&base=orbe&cipar=/var/www/abcd/bases/par/orbe.par&Opcion=status&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Thursday 10th of July 2014 01:02:22 PM Operador: abcd
+/central/statistics/tables_generate.php /var/www/abcd/htdocs/central/dataentry/wxis/administrar.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/administrar.xis&base=orbe&cipar=/var/www/abcd/bases/par/orbe.par&Opcion=status&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Thursday 10th of July 2014 01:02:30 PM Operador: abcd
+/central/statistics/tables_generate_ex.php /var/www/abcd/htdocs/central/dataentry/wxis/imprime.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/imprime.xis&base=orbe&cipar=/var/www/abcd/bases/par/orbe.par&Opcion=rango&Formato=v30'$$$$'v50^a'$$$$'/&from=1&to=7015&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Thursday 10th of July 2014 01:51:09 PM Operador: abcd
+/central/statistics/tables_generate.php /var/www/abcd/htdocs/central/dataentry/wxis/administrar.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/administrar.xis&base=orbe&cipar=/var/www/abcd/bases/par/orbe.par&Opcion=status&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Thursday 10th of July 2014 01:51:16 PM Operador: abcd
+/central/statistics/tables_generate_ex.php /var/www/abcd/htdocs/central/dataentry/wxis/imprime.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/imprime.xis&base=orbe&cipar=/var/www/abcd/bases/par/orbe.par&Opcion=rango&Formato=v30'$$$$'v50^a'$$$$'/&from=1&to=7015&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Thursday 10th of July 2014 01:58:04 PM Operador: abcd
+/central/statistics/tables_generate.php /var/www/abcd/htdocs/central/dataentry/wxis/administrar.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/administrar.xis&base=orbe&cipar=/var/www/abcd/bases/par/orbe.par&Opcion=status&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Thursday 10th of July 2014 04:22:20 PM Operador: abcd
+/central/common/inicio.php /var/www/abcd/htdocs/central/dataentry/wxis/login.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/login.xis&base=acces&cipar=/var/www/abcd/bases/par/acces.par&login=abcd&password=adm&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Thursday 10th of July 2014 04:22:38 PM Operador: abcd
+/central/common/inicio.php /var/www/abcd/htdocs/central/dataentry/wxis/login.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/login.xis&base=acces&cipar=/var/www/abcd/bases/par/acces.par&login=abcd&password=adm&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Thursday 10th of July 2014 04:23:37 PM Operador: abcd
+/central/common/inicio.php /var/www/abcd/htdocs/central/dataentry/wxis/login.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/login.xis&base=acces&cipar=/var/www/abcd/bases/par/acces.par&login=abcd&password=adm&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Thursday 10th of July 2014 04:24:49 PM Operador: abcd
+/central/common/inicio.php /var/www/abcd/htdocs/central/dataentry/wxis/login.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/login.xis&base=acces&cipar=/var/www/abcd/bases/par/acces.par&login=abcd&password=adm&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Thursday 10th of July 2014 04:25:12 PM Operador: abcd
+/central/common/inicio.php /var/www/abcd/htdocs/central/dataentry/wxis/login.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/login.xis&base=acces&cipar=/var/www/abcd/bases/par/acces.par&login=abcd&password=adm&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Thursday 10th of July 2014 04:25:19 PM Operador: abcd
+/central/common/inicio.php /var/www/abcd/htdocs/central/dataentry/wxis/login.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/login.xis&base=acces&cipar=/var/www/abcd/bases/par/acces.par&login=abcd&password=adm&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Thursday 10th of July 2014 04:25:40 PM Operador: abcd
+/central/common/inicio.php /var/www/abcd/htdocs/central/dataentry/wxis/login.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/login.xis&base=acces&cipar=/var/www/abcd/bases/par/acces.par&login=abcd&password=adm&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Thursday 10th of July 2014 04:26:05 PM Operador: abcd
+/central/common/inicio.php /var/www/abcd/htdocs/central/dataentry/wxis/login.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/login.xis&base=acces&cipar=/var/www/abcd/bases/par/acces.par&login=abcd&password=adm&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Thursday 10th of July 2014 04:26:24 PM Operador: abcd
+/central/common/inicio.php /var/www/abcd/htdocs/central/dataentry/wxis/login.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/login.xis&base=acces&cipar=/var/www/abcd/bases/par/acces.par&login=abcd&password=adm&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Thursday 10th of July 2014 04:26:38 PM Operador: abcd
+/central/common/inicio.php /var/www/abcd/htdocs/central/dataentry/wxis/login.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/login.xis&base=acces&cipar=/var/www/abcd/bases/par/acces.par&login=abcd&password=adm&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Thursday 10th of July 2014 04:27:06 PM Operador: abcd
+/central/common/inicio.php /var/www/abcd/htdocs/central/dataentry/wxis/login.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/login.xis&base=acces&cipar=/var/www/abcd/bases/par/acces.par&login=abcd&password=adm&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Thursday 10th of July 2014 05:58:11 PM Operador: abcd
+/central/dataentry/inicio_main.php /var/www/abcd/htdocs/central/dataentry/wxis/login.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/login.xis&base=acces&cipar=/var/www/abcd/bases/par/acces.par&login=abcd&password=adm&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Thursday 10th of July 2014 05:58:12 PM Operador: abcd
+/central/dataentry/inicio_base.php /var/www/abcd/htdocs/central/dataentry/wxis/administrar.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/administrar.xis&base=orbe&cipar=/var/www/abcd/bases/par/orbe.par&Opcion=status&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Thursday 10th of July 2014 05:58:16 PM Operador: abcd
+/central/dataentry/inicio_main.php /var/www/abcd/htdocs/central/dataentry/wxis/login.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/login.xis&base=acces&cipar=/var/www/abcd/bases/par/acces.par&login=abcd&password=adm&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Thursday 10th of July 2014 05:58:17 PM Operador: abcd
+/central/dataentry/inicio_base.php /var/www/abcd/htdocs/central/dataentry/wxis/administrar.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/administrar.xis&base=orbe&cipar=/var/www/abcd/bases/par/orbe.par&Opcion=status&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Thursday 10th of July 2014 06:17:53 PM Operador: abcd
+/central/common/inicio.php /var/www/abcd/htdocs/central/dataentry/wxis/login.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/login.xis&base=acces&cipar=/var/www/abcd/bases/par/acces.par&login=abcd&password=adm&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Thursday 10th of July 2014 06:21:02 PM Operador: abcd
+/central/dataentry/inicio_main.php /var/www/abcd/htdocs/central/dataentry/wxis/login.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/login.xis&base=acces&cipar=/var/www/abcd/bases/par/acces.par&login=abcd&password=adm&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Thursday 10th of July 2014 06:21:02 PM Operador: abcd
+/central/dataentry/inicio_base.php /var/www/abcd/htdocs/central/dataentry/wxis/administrar.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/administrar.xis&base=orbe&cipar=/var/www/abcd/bases/par/orbe.par&Opcion=status&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Thursday 10th of July 2014 06:40:06 PM Operador: abcd
+/central/statistics/tables_generate.php /var/www/abcd/htdocs/central/dataentry/wxis/administrar.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/administrar.xis&base=orbe&cipar=/var/www/abcd/bases/par/orbe.par&Opcion=status&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Thursday 10th of July 2014 06:42:50 PM Operador: abcd
+/central/statistics/tables_generate.php /var/www/abcd/htdocs/central/dataentry/wxis/administrar.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/administrar.xis&base=orbe&cipar=/var/www/abcd/bases/par/orbe.par&Opcion=status&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Thursday 10th of July 2014 06:48:04 PM Operador: abcd
+/central/common/inicio.php /var/www/abcd/htdocs/central/dataentry/wxis/login.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/login.xis&base=acces&cipar=/var/www/abcd/bases/par/acces.par&login=abcd&password=adm&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Thursday 10th of July 2014 06:52:07 PM Operador: abcd
+/central/common/inicio.php /var/www/abcd/htdocs/central/dataentry/wxis/login.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/login.xis&base=acces&cipar=/var/www/abcd/bases/par/acces.par&login=abcd&password=adm&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Thursday 10th of July 2014 07:01:00 PM Operador: abcd
+/central/acquisitions/overview.php /var/www/abcd/htdocs/central/dataentry/wxis/ifp.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/ifp.xis&base=suggestions&cipar=/var/www/abcd/bases/par/suggestions.par&prefijo=STA_&Opcion=diccionario&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Thursday 10th of July 2014 07:02:19 PM Operador: abcd
+/central/acquisitions/suggestions_status.php /var/www/abcd/htdocs/central/dataentry/wxis/imprime.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/imprime.xis&base=suggestions&cipar=/var/www/abcd/bases/par/suggestions.par&Expresion=STA_0 &Formato=@/var/www/abcd/bases/suggestions/pfts/pt/ti.pft,/&Opcion=buscar&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Thursday 10th of July 2014 07:02:20 PM Operador: abcd
+/central/acquisitions/bidding.php /var/www/abcd/htdocs/central/dataentry/wxis/imprime.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/imprime.xis&base=suggestions&cipar=/var/www/abcd/bases/par/suggestions.par&Expresion=(STA_1 or STA_3)&Formato=@/var/www/abcd/bases/suggestions/pfts/pt/da_bidding.pft,/&Opcion=buscar&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Thursday 10th of July 2014 07:02:21 PM Operador: abcd
+/central/acquisitions/decision.php /var/www/abcd/htdocs/central/dataentry/wxis/imprime.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/imprime.xis&base=suggestions&cipar=/var/www/abcd/bases/par/suggestions.par&Expresion=(STA_1 or STA_3 or STA_4)&Formato=@/var/www/abcd/bases/suggestions/pfts/pt/da_decision.pft,/&Opcion=buscar&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Thursday 10th of July 2014 07:02:24 PM Operador: abcd
+/central/acquisitions/order.php /var/www/abcd/htdocs/central/dataentry/wxis/imprime.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/imprime.xis&base=suggestions&cipar=/var/www/abcd/bases/par/suggestions.par&Expresion=STA_4&Formato=@/var/www/abcd/bases/suggestions/pfts/pt/pv_order.pft,/&Opcion=buscar&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Thursday 10th of July 2014 07:02:25 PM Operador: abcd
+/central/acquisitions/pending_order.php /var/www/abcd/htdocs/central/dataentry/wxis/imprime.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/imprime.xis&base=purchaseorder&cipar=/var/www/abcd/bases/par/purchaseorder.par&from=1&Formato=@/var/www/abcd/bases/purchaseorder/pfts/pt/pv_order.pft,/&Opcion=buscar&Expresion=PO_$&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Thursday 10th of July 2014 07:02:27 PM Operador: abcd
+/central/dataentry/browse.php /var/www/abcd/htdocs/central/dataentry/wxis/leer_mfnrange.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/leer_mfnrange.xis&base=suggestions&cipar=/var/www/abcd/bases/par/suggestions.par&from=1&to=10&Formato=/var/www/abcd/bases/suggestions/pfts/pt/tbsuggestions&Opcion=buscar&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Thursday 10th of July 2014 07:02:28 PM Operador: abcd
+/central/dataentry/browse.php /var/www/abcd/htdocs/central/dataentry/wxis/leer_mfnrange.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/leer_mfnrange.xis&base=providers&cipar=/var/www/abcd/bases/par/providers.par&from=1&to=10&Formato=/var/www/abcd/bases/providers/pfts/pt/tbproviders&Opcion=buscar&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Thursday 10th of July 2014 07:02:30 PM Operador: abcd
+/central/dataentry/browse.php /var/www/abcd/htdocs/central/dataentry/wxis/leer_mfnrange.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/leer_mfnrange.xis&base=copies&cipar=/var/www/abcd/bases/par/copies.par&from=1&to=10&Formato=/var/www/abcd/bases/copies/pfts/pt/tbcopies&Opcion=buscar&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Thursday 10th of July 2014 07:02:33 PM Operador: abcd
+/central/acquisitions/overview.php /var/www/abcd/htdocs/central/dataentry/wxis/ifp.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/ifp.xis&base=suggestions&cipar=/var/www/abcd/bases/par/suggestions.par&prefijo=STA_&Opcion=diccionario&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Thursday 10th of July 2014 07:06:11 PM Operador: abcd
+/central/acquisitions/bidding.php /var/www/abcd/htdocs/central/dataentry/wxis/imprime.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/imprime.xis&base=suggestions&cipar=/var/www/abcd/bases/par/suggestions.par&Expresion=(STA_1 or STA_3)&Formato=@/var/www/abcd/bases/suggestions/pfts/pt/da_bidding.pft,/&Opcion=buscar&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Thursday 10th of July 2014 07:07:20 PM Operador: abcd
+/central/acquisitions/overview.php /var/www/abcd/htdocs/central/dataentry/wxis/ifp.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/ifp.xis&base=suggestions&cipar=/var/www/abcd/bases/par/suggestions.par&prefijo=STA_&Opcion=diccionario&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Thursday 10th of July 2014 07:07:23 PM Operador: abcd
+/central/acquisitions/suggestions_status.php /var/www/abcd/htdocs/central/dataentry/wxis/imprime.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/imprime.xis&base=suggestions&cipar=/var/www/abcd/bases/par/suggestions.par&Expresion=STA_0 &Formato=@/var/www/abcd/bases/suggestions/pfts/pt/ti.pft,/&Opcion=buscar&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Thursday 10th of July 2014 07:07:27 PM Operador: abcd
+/central/acquisitions/bidding.php /var/www/abcd/htdocs/central/dataentry/wxis/imprime.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/imprime.xis&base=suggestions&cipar=/var/www/abcd/bases/par/suggestions.par&Expresion=(STA_1 or STA_3)&Formato=@/var/www/abcd/bases/suggestions/pfts/pt/da_bidding.pft,/&Opcion=buscar&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Thursday 10th of July 2014 07:07:33 PM Operador: abcd
+/central/acquisitions/overview.php /var/www/abcd/htdocs/central/dataentry/wxis/ifp.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/ifp.xis&base=suggestions&cipar=/var/www/abcd/bases/par/suggestions.par&prefijo=STA_&Opcion=diccionario&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Thursday 10th of July 2014 07:08:04 PM Operador: abcd
+/central/acquisitions/overview.php /var/www/abcd/htdocs/central/dataentry/wxis/ifp.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/ifp.xis&base=suggestions&cipar=/var/www/abcd/bases/par/suggestions.par&prefijo=STA_&Opcion=diccionario&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Thursday 10th of July 2014 07:08:05 PM Operador: abcd
+/central/acquisitions/overview.php /var/www/abcd/htdocs/central/dataentry/wxis/ifp.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/ifp.xis&base=suggestions&cipar=/var/www/abcd/bases/par/suggestions.par&prefijo=STA_&Opcion=diccionario&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Thursday 10th of July 2014 07:08:18 PM Operador: abcd
+/central/acquisitions/overview.php /var/www/abcd/htdocs/central/dataentry/wxis/ifp.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/ifp.xis&base=suggestions&cipar=/var/www/abcd/bases/par/suggestions.par&prefijo=STA_&Opcion=diccionario&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Thursday 10th of July 2014 07:08:41 PM Operador: abcd
+/central/acquisitions/suggestions_status.php /var/www/abcd/htdocs/central/dataentry/wxis/imprime.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/imprime.xis&base=suggestions&cipar=/var/www/abcd/bases/par/suggestions.par&Expresion=STA_0 &Formato=@/var/www/abcd/bases/suggestions/pfts/pt/ti.pft,/&Opcion=buscar&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Thursday 10th of July 2014 07:08:58 PM Operador: abcd
+/central/acquisitions/suggestions_status.php /var/www/abcd/htdocs/central/dataentry/wxis/imprime.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/imprime.xis&base=suggestions&cipar=/var/www/abcd/bases/par/suggestions.par&Expresion=STA_0 &Formato=@/var/www/abcd/bases/suggestions/pfts/pt/ti.pft,/&Opcion=buscar&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Thursday 10th of July 2014 07:09:00 PM Operador: abcd
+/central/acquisitions/bidding.php /var/www/abcd/htdocs/central/dataentry/wxis/imprime.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/imprime.xis&base=suggestions&cipar=/var/www/abcd/bases/par/suggestions.par&Expresion=(STA_1 or STA_3)&Formato=@/var/www/abcd/bases/suggestions/pfts/pt/da_bidding.pft,/&Opcion=buscar&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Thursday 10th of July 2014 07:09:01 PM Operador: abcd
+/central/acquisitions/decision.php /var/www/abcd/htdocs/central/dataentry/wxis/imprime.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/imprime.xis&base=suggestions&cipar=/var/www/abcd/bases/par/suggestions.par&Expresion=(STA_1 or STA_3 or STA_4)&Formato=@/var/www/abcd/bases/suggestions/pfts/pt/da_decision.pft,/&Opcion=buscar&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Thursday 10th of July 2014 07:09:15 PM Operador: abcd
+/central/acquisitions/decision.php /var/www/abcd/htdocs/central/dataentry/wxis/imprime.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/imprime.xis&base=suggestions&cipar=/var/www/abcd/bases/par/suggestions.par&Expresion=(STA_1 or STA_3 or STA_4)&Formato=@/var/www/abcd/bases/suggestions/pfts/pt/da_decision.pft,/&Opcion=buscar&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Thursday 10th of July 2014 07:09:34 PM Operador: abcd
+/central/acquisitions/order.php /var/www/abcd/htdocs/central/dataentry/wxis/imprime.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/imprime.xis&base=suggestions&cipar=/var/www/abcd/bases/par/suggestions.par&Expresion=STA_4&Formato=@/var/www/abcd/bases/suggestions/pfts/pt/pv_order.pft,/&Opcion=buscar&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Thursday 10th of July 2014 07:09:48 PM Operador: abcd
+/central/acquisitions/order.php /var/www/abcd/htdocs/central/dataentry/wxis/imprime.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/imprime.xis&base=suggestions&cipar=/var/www/abcd/bases/par/suggestions.par&Expresion=STA_4&Formato=@/var/www/abcd/bases/suggestions/pfts/pt/pv_order.pft,/&Opcion=buscar&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Thursday 10th of July 2014 07:09:49 PM Operador: abcd
+/central/acquisitions/pending_order.php /var/www/abcd/htdocs/central/dataentry/wxis/imprime.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/imprime.xis&base=purchaseorder&cipar=/var/www/abcd/bases/par/purchaseorder.par&from=1&Formato=@/var/www/abcd/bases/purchaseorder/pfts/pt/pv_order.pft,/&Opcion=buscar&Expresion=PO_$&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Thursday 10th of July 2014 07:10:02 PM Operador: abcd
+/central/acquisitions/pending_order.php /var/www/abcd/htdocs/central/dataentry/wxis/imprime.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/imprime.xis&base=purchaseorder&cipar=/var/www/abcd/bases/par/purchaseorder.par&from=1&Formato=@/var/www/abcd/bases/purchaseorder/pfts/pt/pv_order.pft,/&Opcion=buscar&Expresion=PO_$&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Thursday 10th of July 2014 07:10:22 PM Operador: abcd
+/central/dataentry/browse.php /var/www/abcd/htdocs/central/dataentry/wxis/leer_mfnrange.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/leer_mfnrange.xis&base=suggestions&cipar=/var/www/abcd/bases/par/suggestions.par&from=1&to=10&Formato=/var/www/abcd/bases/suggestions/pfts/pt/tbsuggestions&Opcion=buscar&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Thursday 10th of July 2014 07:10:49 PM Operador: abcd
+/central/dataentry/browse.php /var/www/abcd/htdocs/central/dataentry/wxis/leer_mfnrange.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/leer_mfnrange.xis&base=suggestions&cipar=/var/www/abcd/bases/par/suggestions.par&from=1&to=10&Formato=/var/www/abcd/bases/suggestions/pfts/pt/tbsuggestions&Opcion=buscar&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Thursday 10th of July 2014 07:10:52 PM Operador: abcd
+/central/dataentry/browse.php /var/www/abcd/htdocs/central/dataentry/wxis/leer_mfnrange.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/leer_mfnrange.xis&base=providers&cipar=/var/www/abcd/bases/par/providers.par&from=1&to=10&Formato=/var/www/abcd/bases/providers/pfts/pt/tbproviders&Opcion=buscar&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Thursday 10th of July 2014 07:10:55 PM Operador: abcd
+/central/dataentry/browse.php /var/www/abcd/htdocs/central/dataentry/wxis/leer_mfnrange.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/leer_mfnrange.xis&base=purchaseorder&cipar=/var/www/abcd/bases/par/purchaseorder.par&from=1&to=10&Formato=/var/www/abcd/bases/purchaseorder/pfts/pt/tbpurchaseorder&Opcion=buscar&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Thursday 10th of July 2014 07:10:57 PM Operador: abcd
+/central/dataentry/browse.php /var/www/abcd/htdocs/central/dataentry/wxis/leer_mfnrange.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/leer_mfnrange.xis&base=copies&cipar=/var/www/abcd/bases/par/copies.par&from=1&to=10&Formato=/var/www/abcd/bases/copies/pfts/pt/tbcopies&Opcion=buscar&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Thursday 10th of July 2014 07:12:44 PM Operador: abcd
+/central/acquisitions/overview.php /var/www/abcd/htdocs/central/dataentry/wxis/ifp.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/ifp.xis&base=suggestions&cipar=/var/www/abcd/bases/par/suggestions.par&prefijo=STA_&Opcion=diccionario&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Thursday 10th of July 2014 07:12:45 PM Operador: abcd
+/central/acquisitions/overview.php /var/www/abcd/htdocs/central/dataentry/wxis/ifp.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/ifp.xis&base=suggestions&cipar=/var/www/abcd/bases/par/suggestions.par&prefijo=STA_&Opcion=diccionario&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Thursday 10th of July 2014 07:13:01 PM Operador: abcd
+/central/acquisitions/suggestions_status.php /var/www/abcd/htdocs/central/dataentry/wxis/imprime.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/imprime.xis&base=suggestions&cipar=/var/www/abcd/bases/par/suggestions.par&Expresion=STA_0 &Formato=@/var/www/abcd/bases/suggestions/pfts/pt/ti.pft,/&Opcion=buscar&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Thursday 10th of July 2014 07:13:14 PM Operador: abcd
+/central/acquisitions/overview.php /var/www/abcd/htdocs/central/dataentry/wxis/ifp.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/ifp.xis&base=suggestions&cipar=/var/www/abcd/bases/par/suggestions.par&prefijo=STA_&Opcion=diccionario&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Thursday 10th of July 2014 07:14:32 PM Operador: abcd
+/central/acquisitions/bidding.php /var/www/abcd/htdocs/central/dataentry/wxis/imprime.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/imprime.xis&base=suggestions&cipar=/var/www/abcd/bases/par/suggestions.par&Expresion=(STA_1 or STA_3)&Formato=@/var/www/abcd/bases/suggestions/pfts/pt/da_bidding.pft,/&Opcion=buscar&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Thursday 10th of July 2014 07:14:33 PM Operador: abcd
+/central/acquisitions/decision.php /var/www/abcd/htdocs/central/dataentry/wxis/imprime.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/imprime.xis&base=suggestions&cipar=/var/www/abcd/bases/par/suggestions.par&Expresion=(STA_1 or STA_3 or STA_4)&Formato=@/var/www/abcd/bases/suggestions/pfts/pt/da_decision.pft,/&Opcion=buscar&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Thursday 10th of July 2014 07:15:17 PM Operador: abcd
+/central/acquisitions/decision.php /var/www/abcd/htdocs/central/dataentry/wxis/imprime.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/imprime.xis&base=suggestions&cipar=/var/www/abcd/bases/par/suggestions.par&Expresion=(STA_1 or STA_3 or STA_4)&Formato=@/var/www/abcd/bases/suggestions/pfts/pt/da_decision.pft,/&Opcion=buscar&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Thursday 10th of July 2014 07:21:56 PM Operador: abcd
+/central/statistics/tables_generate.php /var/www/abcd/htdocs/central/dataentry/wxis/administrar.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/administrar.xis&base=users&cipar=/var/www/abcd/bases/par/users.par&Opcion=status&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Thursday 10th of July 2014 07:22:19 PM Operador: abcd
+/central/statistics/tables_generate.php /var/www/abcd/htdocs/central/dataentry/wxis/administrar.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/administrar.xis&base=users&cipar=/var/www/abcd/bases/par/users.par&Opcion=status&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Thursday 10th of July 2014 07:22:29 PM Operador: abcd
+/central/statistics/tables_generate_ex.php /var/www/abcd/htdocs/central/dataentry/wxis/imprime.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/imprime.xis&base=users&cipar=/var/www/abcd/bases/par/users.par&Opcion=rango&Formato=v10'$$$$'v12'$$$$'/&from=1&to=3&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Thursday 10th of July 2014 07:31:48 PM Operador: abcd
+/central/dataentry/browse.php /var/www/abcd/htdocs/central/dataentry/wxis/leer_mfnrange.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/leer_mfnrange.xis&base=users&cipar=/var/www/abcd/bases/par/users.par&from=1&to=10&Formato=/var/www/abcd/bases/users/pfts/pt/tbusers&Opcion=buscar&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Thursday 10th of July 2014 07:31:50 PM Operador: abcd
+/central/dataentry/browse.php /var/www/abcd/htdocs/central/dataentry/wxis/leer_mfnrange.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/leer_mfnrange.xis&base=trans&cipar=/var/www/abcd/bases/par/trans.par&from=1&to=10&Formato=/var/www/abcd/bases/trans/pfts/pt/tbtrans&Opcion=buscar&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Thursday 10th of July 2014 07:31:53 PM Operador: abcd
+/central/dataentry/browse.php /var/www/abcd/htdocs/central/dataentry/wxis/leer_mfnrange.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/leer_mfnrange.xis&base=suspml&cipar=/var/www/abcd/bases/par/suspml.par&from=1&to=10&Formato=/var/www/abcd/bases/suspml/pfts/pt/tbsuspml&Opcion=buscar&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Thursday 10th of July 2014 07:31:55 PM Operador: abcd
+/central/dataentry/browse.php /var/www/abcd/htdocs/central/dataentry/wxis/leer_mfnrange.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/leer_mfnrange.xis&base=reserve&cipar=/var/www/abcd/bases/par/reserve.par&from=1&to=10&Formato=/var/www/abcd/bases/reserve/pfts/pt/tbreserve&Opcion=buscar&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Thursday 10th of July 2014 07:32:30 PM Operador: abcd
+/central/statistics/tables_generate.php /var/www/abcd/htdocs/central/dataentry/wxis/administrar.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/administrar.xis&base=users&cipar=/var/www/abcd/bases/par/users.par&Opcion=status&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Thursday 10th of July 2014 07:32:33 PM Operador: abcd
+/central/statistics/tables_generate.php /var/www/abcd/htdocs/central/dataentry/wxis/administrar.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/administrar.xis&base=trans&cipar=/var/www/abcd/bases/par/trans.par&Opcion=status&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Thursday 10th of July 2014 07:32:35 PM Operador: abcd
+/central/statistics/tables_generate.php /var/www/abcd/htdocs/central/dataentry/wxis/administrar.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/administrar.xis&base=suspml&cipar=/var/www/abcd/bases/par/suspml.par&Opcion=status&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Thursday 10th of July 2014 07:35:22 PM Operador: abcd
+/central/dataentry/browse.php /var/www/abcd/htdocs/central/dataentry/wxis/leer_mfnrange.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/leer_mfnrange.xis&base=acces&cipar=/var/www/abcd/bases/par/acces.par&from=1&to=10&Formato=/var/www/abcd/bases/acces/pfts/pt/tbacces&Opcion=buscar&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Thursday 10th of July 2014 07:37:29 PM Operador: abcd
+/central/dataentry/browse.php /var/www/abcd/htdocs/central/dataentry/wxis/leer_mfnrange.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/leer_mfnrange.xis&base=acces&cipar=/var/www/abcd/bases/par/acces.par&from=1&to=10&Formato=/var/www/abcd/bases/acces/pfts/pt/tbacces&Opcion=buscar&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Thursday 10th of July 2014 07:37:33 PM Operador: abcd
+/central/dataentry/eliminar_registro.php /var/www/abcd/htdocs/central/dataentry/wxis/eliminarregistro.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/eliminarregistro.xis&base=acces&cipar=/var/www/abcd/bases/par/acces.par&login=abcd&Mfn=8&Opcion=eliminar&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Thursday 10th of July 2014 07:37:33 PM Operador: abcd
+/central/dataentry/browse.php /var/www/abcd/htdocs/central/dataentry/wxis/leer_mfnrange.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/leer_mfnrange.xis&base=acces&cipar=/var/www/abcd/bases/par/acces.par&from=1&to=10&Formato=/var/www/abcd/bases/acces/pfts/pt/tbacces&Opcion=buscar&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Thursday 10th of July 2014 07:37:36 PM Operador: abcd
+/central/dataentry/eliminar_registro.php /var/www/abcd/htdocs/central/dataentry/wxis/eliminarregistro.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/eliminarregistro.xis&base=acces&cipar=/var/www/abcd/bases/par/acces.par&login=abcd&Mfn=9&Opcion=eliminar&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Thursday 10th of July 2014 07:37:36 PM Operador: abcd
+/central/dataentry/browse.php /var/www/abcd/htdocs/central/dataentry/wxis/leer_mfnrange.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/leer_mfnrange.xis&base=acces&cipar=/var/www/abcd/bases/par/acces.par&from=1&to=10&Formato=/var/www/abcd/bases/acces/pfts/pt/tbacces&Opcion=buscar&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Thursday 10th of July 2014 07:37:41 PM Operador: abcd
+/central/dataentry/eliminar_registro.php /var/www/abcd/htdocs/central/dataentry/wxis/eliminarregistro.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/eliminarregistro.xis&base=acces&cipar=/var/www/abcd/bases/par/acces.par&login=abcd&Mfn=7&Opcion=eliminar&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Thursday 10th of July 2014 07:37:41 PM Operador: abcd
+/central/dataentry/browse.php /var/www/abcd/htdocs/central/dataentry/wxis/leer_mfnrange.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/leer_mfnrange.xis&base=acces&cipar=/var/www/abcd/bases/par/acces.par&from=1&to=10&Formato=/var/www/abcd/bases/acces/pfts/pt/tbacces&Opcion=buscar&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Thursday 10th of July 2014 07:38:18 PM Operador: abcd
+/central/dataentry/browse.php /var/www/abcd/htdocs/central/dataentry/wxis/leer_mfnrange.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/leer_mfnrange.xis&base=acces&cipar=/var/www/abcd/bases/par/acces.par&from=1&to=10&Formato=/var/www/abcd/bases/acces/pfts/pt/tbacces&Opcion=buscar&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Thursday 10th of July 2014 07:38:43 PM Operador: abcd
+/central/dataentry/browse.php /var/www/abcd/htdocs/central/dataentry/wxis/leer_mfnrange.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/leer_mfnrange.xis&base=acces&cipar=/var/www/abcd/bases/par/acces.par&from=1&to=10&Formato=/var/www/abcd/bases/acces/pfts/pt/tbacces&Opcion=buscar&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Thursday 10th of July 2014 07:38:48 PM Operador: abcd
+/central/dataentry/browse.php /var/www/abcd/htdocs/central/dataentry/wxis/leer_mfnrange.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/leer_mfnrange.xis&base=acces&cipar=/var/www/abcd/bases/par/acces.par&from=1&to=10&Formato=/var/www/abcd/bases/acces/pfts/pt/tbacces&Opcion=buscar&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Thursday 10th of July 2014 07:42:06 PM Operador: abcd
+/central/dataentry/browse.php /var/www/abcd/htdocs/central/dataentry/wxis/leer_mfnrange.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/leer_mfnrange.xis&base=acces&cipar=/var/www/abcd/bases/par/acces.par&from=1&to=10&Formato=/var/www/abcd/bases/acces/pfts/pt/tbacces&Opcion=buscar&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Thursday 10th of July 2014 07:44:00 PM Operador: abcd
+/central/dataentry/browse.php /var/www/abcd/htdocs/central/dataentry/wxis/leer_mfnrange.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/leer_mfnrange.xis&base=acces&cipar=/var/www/abcd/bases/par/acces.par&from=1&to=10&Formato=/var/www/abcd/bases/acces/pfts/pt/tbacces&Opcion=buscar&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Thursday 10th of July 2014 07:44:32 PM Operador: abcd
+/central/dataentry/fmt.php /var/www/abcd/htdocs/central/dataentry/wxis/z3950_cnv.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/z3950_cnv.xis&base=acces&cipar=/var/www/abcd/bases/par/acces.par&Pft='10:  ',if a(v10) then 'Falta nome de usuário' fi
+ ,mpl '$$$$','20:  ',if a(v20) then 'Falta entrada' fi
+ ,mpl '$$$$','30:  ',if a(v30) then 'falta senha' fi
+ ,mpl '$$$$','40:  ',if a(v40) then 'Falta grupo' fi
+ ,mpl '$$$$',&ValorCapturado=0040^aloanoper^bLoan Operator
+0010Balcão
+0020empre
+0030empre
+0040
+0050
+0060
+
+33330&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Thursday 10th of July 2014 07:44:32 PM Operador: abcd
+/central/dataentry/fmt.php /var/www/abcd/htdocs/central/dataentry/wxis/actualizar.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/actualizar.xis&base=acces&cipar=/var/www/abcd/bases/par/acces.par&login=abcd&Mfn=New&Opcion=crear&ValorCapturado=0040^aloanoper^bLoan Operator
+0010Balcão
+0020empre
+0030empre
+0040
+0050
+0060
+&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Thursday 10th of July 2014 07:44:32 PM Operador: abcd
+/central/dataentry/fmt.php /var/www/abcd/htdocs/central/dataentry/wxis/buscar.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/buscar.xis&cipar=/var/www/abcd/bases/par/acces.par&Mfn=10&Opcion=ver&base=acces&Formato=/var/www/abcd/bases/acces/pfts/pt/acces&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Thursday 10th of July 2014 07:45:14 PM Operador: empre
+/central/common/inicio.php /var/www/abcd/htdocs/central/dataentry/wxis/login.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/login.xis&base=acces&cipar=/var/www/abcd/bases/par/acces.par&login=empre&password=empre&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Thursday 10th of July 2014 07:45:49 PM Operador: empre
+/central/common/inicio.php /var/www/abcd/htdocs/central/dataentry/wxis/login.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/login.xis&base=acces&cipar=/var/www/abcd/bases/par/acces.par&login=empre&password=empre&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Thursday 10th of July 2014 07:46:17 PM Operador: empre
+/central/common/inicio.php /var/www/abcd/htdocs/central/dataentry/wxis/login.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/login.xis&base=acces&cipar=/var/www/abcd/bases/par/acces.par&login=empre&password=empre&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Thursday 10th of July 2014 07:46:49 PM Operador: empre
+/central/common/inicio.php /var/www/abcd/htdocs/central/dataentry/wxis/login.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/login.xis&base=acces&cipar=/var/www/abcd/bases/par/acces.par&login=empre&password=empre&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Thursday 10th of July 2014 07:47:23 PM Operador: empre
+/central/common/inicio.php /var/www/abcd/htdocs/central/dataentry/wxis/login.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/login.xis&base=acces&cipar=/var/www/abcd/bases/par/acces.par&login=empre&password=empre&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Thursday 10th of July 2014 07:47:59 PM Operador: empre
+/central/common/inicio.php /var/www/abcd/htdocs/central/dataentry/wxis/login.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/login.xis&base=acces&cipar=/var/www/abcd/bases/par/acces.par&login=empre&password=empre&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Thursday 10th of July 2014 07:48:23 PM Operador: abcd
+/central/dataentry/browse.php /var/www/abcd/htdocs/central/dataentry/wxis/leer_mfnrange.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/leer_mfnrange.xis&base=acces&cipar=/var/www/abcd/bases/par/acces.par&from=1&to=10&Formato=/var/www/abcd/bases/acces/pfts/pt/tbacces&Opcion=buscar&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Thursday 10th of July 2014 07:48:50 PM Operador: abcd
+/central/dataentry/fmt.php /var/www/abcd/htdocs/central/dataentry/wxis/z3950_cnv.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/z3950_cnv.xis&base=acces&cipar=/var/www/abcd/bases/par/acces.par&Pft='10:  ',if a(v10) then 'Falta nome de usuário' fi
+ ,mpl '$$$$','20:  ',if a(v20) then 'Falta entrada' fi
+ ,mpl '$$$$','30:  ',if a(v30) then 'falta senha' fi
+ ,mpl '$$$$','40:  ',if a(v40) then 'Falta grupo' fi
+ ,mpl '$$$$',&ValorCapturado=0040^aacqoper^bAcquisition operator
+0010Compras
+0020comp
+0030comp
+0040
+0050
+0060
+
+33330&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Thursday 10th of July 2014 07:48:50 PM Operador: abcd
+/central/dataentry/fmt.php /var/www/abcd/htdocs/central/dataentry/wxis/actualizar.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/actualizar.xis&base=acces&cipar=/var/www/abcd/bases/par/acces.par&login=abcd&Mfn=New&Opcion=crear&ValorCapturado=0040^aacqoper^bAcquisition operator
+0010Compras
+0020comp
+0030comp
+0040
+0050
+0060
+&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Thursday 10th of July 2014 07:48:50 PM Operador: abcd
+/central/dataentry/fmt.php /var/www/abcd/htdocs/central/dataentry/wxis/buscar.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/buscar.xis&cipar=/var/www/abcd/bases/par/acces.par&Mfn=11&Opcion=ver&base=acces&Formato=/var/www/abcd/bases/acces/pfts/pt/acces&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Thursday 10th of July 2014 07:49:00 PM Operador: comp
+/central/acquisitions/overview.php /var/www/abcd/htdocs/central/dataentry/wxis/ifp.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/ifp.xis&base=suggestions&cipar=/var/www/abcd/bases/par/suggestions.par&prefijo=STA_&Opcion=diccionario&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Thursday 10th of July 2014 07:49:14 PM Operador: abcd
+/central/dbadmin/profile_edit.php /var/www/abcd/htdocs/central/dataentry/wxis/leer_mfnrange.xis &base=acces&cipar=/var/www/abcd/bases/par/acces.par&Pft=v40^a/&path_db=/var/www/abcd/bases/&syspar=/var/www/abcd/bases/par/syspar.par
+**Thursday 10th of July 2014 07:49:49 PM Operador: abcd
+/central/dbadmin/profile_edit.php /var/www/abcd/htdocs/central/dataentry/wxis/leer_mfnrange.xis &base=acces&cipar=/var/www/abcd/bases/par/acces.par&Pft=v40^a/&path_db=/var/www/abcd/bases/&syspar=/var/www/abcd/bases/par/syspar.par
+**Thursday 10th of July 2014 07:52:33 PM Operador: abcd
+/central/dbadmin/profile_edit.php /var/www/abcd/htdocs/central/dataentry/wxis/leer_mfnrange.xis &base=acces&cipar=/var/www/abcd/bases/par/acces.par&Pft=v40^a/&path_db=/var/www/abcd/bases/&syspar=/var/www/abcd/bases/par/syspar.par
+**Thursday 10th of July 2014 07:52:45 PM Operador: abcd
+/central/dataentry/browse.php /var/www/abcd/htdocs/central/dataentry/wxis/leer_mfnrange.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/leer_mfnrange.xis&base=acces&cipar=/var/www/abcd/bases/par/acces.par&from=1&to=10&Formato=/var/www/abcd/bases/acces/pfts/pt/tbacces&Opcion=buscar&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Thursday 10th of July 2014 07:53:13 PM Operador: abcd
+/central/dataentry/browse.php /var/www/abcd/htdocs/central/dataentry/wxis/leer_mfnrange.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/leer_mfnrange.xis&base=acces&cipar=/var/www/abcd/bases/par/acces.par&from=1&to=10&Formato=/var/www/abcd/bases/acces/pfts/pt/tbacces&Opcion=buscar&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Thursday 10th of July 2014 07:53:15 PM Operador: abcd
+/central/dataentry/fmt.php /var/www/abcd/htdocs/central/dataentry/wxis/lock.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/lock.xis&base=acces&cipar=/var/www/abcd/bases/par/acces.par&Mfn=1&login=abcd&lock=S&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Thursday 10th of July 2014 07:53:15 PM Operador: abcd
+/central/dataentry/fmt.php /var/www/abcd/htdocs/central/dataentry/wxis/leer.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/leer.xis&base=acces&cipar=/var/www/abcd/bases/par/acces.par&Mfn=1&Opcion=editar&login=abcd&password=adm&Pft=(if p(v10) then '10 'v10'____$$$' fi),(if p(v20) then '20 'v20'____$$$' fi),(if p(v30) then '30 'v30'____$$$' fi),(if p(v40) then '40 'v40'____$$$' fi),(if p(v50) then '50 'v50'____$$$' fi),(if p(v60) then '60 'v60'____$$$' fi),&lock=S&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Thursday 10th of July 2014 07:53:21 PM Operador: abcd
+/central/dataentry/fmt.php /var/www/abcd/htdocs/central/dataentry/wxis/z3950_cnv.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/z3950_cnv.xis&base=acces&cipar=/var/www/abcd/bases/par/acces.par&Pft='10:  ',if a(v10) then 'Falta nome de usuário' fi
+ ,mpl '$$$$','20:  ',if a(v20) then 'Falta entrada' fi
+ ,mpl '$$$$','30:  ',if a(v30) then 'falta senha' fi
+ ,mpl '$$$$','40:  ',if a(v40) then 'Falta grupo' fi
+ ,mpl '$$$$',&ValorCapturado=0040^aadm^bSystem Administrator
+0010System Administrator
+0020abcd
+0030adm
+0040
+0050
+0060
+
+33331&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Thursday 10th of July 2014 07:53:21 PM Operador: abcd
+/central/dataentry/fmt.php /var/www/abcd/htdocs/central/dataentry/wxis/actualizar.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/actualizar.xis&base=acces&cipar=/var/www/abcd/bases/par/acces.par&login=abcd&Mfn=1&Opcion=actualizar&ValorCapturado=0040^aadm^bSystem Administrator
+0010System Administrator
+0020abcd
+0030adm
+0040
+0050
+0060
+&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Thursday 10th of July 2014 07:53:22 PM Operador: abcd
+/central/dataentry/fmt.php /var/www/abcd/htdocs/central/dataentry/wxis/buscar.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/buscar.xis&cipar=/var/www/abcd/bases/par/acces.par&Mfn=1&Opcion=ver&base=acces&Formato=/var/www/abcd/bases/acces/pfts/pt/acces&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Thursday 10th of July 2014 07:53:35 PM Operador: abcd
+/central/dbadmin/profile_edit.php /var/www/abcd/htdocs/central/dataentry/wxis/leer_mfnrange.xis &base=acces&cipar=/var/www/abcd/bases/par/acces.par&Pft=v40^a/&path_db=/var/www/abcd/bases/&syspar=/var/www/abcd/bases/par/syspar.par
+**Thursday 10th of July 2014 07:53:47 PM Operador: abcd
+/central/dataentry/browse.php /var/www/abcd/htdocs/central/dataentry/wxis/leer_mfnrange.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/leer_mfnrange.xis&base=acces&cipar=/var/www/abcd/bases/par/acces.par&from=1&to=10&Formato=/var/www/abcd/bases/acces/pfts/pt/tbacces&Opcion=buscar&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Thursday 10th of July 2014 07:53:57 PM Operador: abcd
+/central/dataentry/eliminar_registro.php /var/www/abcd/htdocs/central/dataentry/wxis/eliminarregistro.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/eliminarregistro.xis&base=acces&cipar=/var/www/abcd/bases/par/acces.par&login=abcd&Mfn=4&Opcion=eliminar&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Thursday 10th of July 2014 07:53:57 PM Operador: abcd
+/central/dataentry/browse.php /var/www/abcd/htdocs/central/dataentry/wxis/leer_mfnrange.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/leer_mfnrange.xis&base=acces&cipar=/var/www/abcd/bases/par/acces.par&from=1&to=10&Formato=/var/www/abcd/bases/acces/pfts/pt/tbacces&Opcion=buscar&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Thursday 10th of July 2014 07:53:59 PM Operador: abcd
+/central/dataentry/browse.php /var/www/abcd/htdocs/central/dataentry/wxis/leer_mfnrange.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/leer_mfnrange.xis&base=acces&cipar=/var/www/abcd/bases/par/acces.par&from=11&to=20&Formato=/var/www/abcd/bases/acces/pfts/pt/tbacces&Opcion=buscar&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Thursday 10th of July 2014 07:54:02 PM Operador: abcd
+/central/dataentry/browse.php /var/www/abcd/htdocs/central/dataentry/wxis/leer_mfnrange.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/leer_mfnrange.xis&base=acces&cipar=/var/www/abcd/bases/par/acces.par&from=1&to=10&Formato=/var/www/abcd/bases/acces/pfts/pt/tbacces&Opcion=buscar&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Thursday 10th of July 2014 07:54:11 PM Operador: abcd
+/central/dbadmin/profile_edit.php /var/www/abcd/htdocs/central/dataentry/wxis/leer_mfnrange.xis &base=acces&cipar=/var/www/abcd/bases/par/acces.par&Pft=v40^a/&path_db=/var/www/abcd/bases/&syspar=/var/www/abcd/bases/par/syspar.par
+**Thursday 10th of July 2014 07:54:25 PM Operador: abcd
+/central/statistics/tables_generate.php /var/www/abcd/htdocs/central/dataentry/wxis/administrar.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/administrar.xis&base=orbe&cipar=/var/www/abcd/bases/par/orbe.par&Opcion=status&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Thursday 10th of July 2014 07:54:48 PM Operador: abcd
+/central/circulation/capturaclaves.php /var/www/abcd/htdocs/central/dataentry/wxis/ifp.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/ifp.xis&base=loanobjects&cipar=/var/www/abcd/bases/par/loanobjects.par&Opcion=autoridades&tagfst=&prefijo=IN_&pref=IN_&postings=1&formato_e=@/var/www/abcd/bases/loanobjects/pfts/pt/autoridades.pft&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Thursday 10th of July 2014 07:54:57 PM Operador: abcd
+/central/circulation/capturaclaves.php /var/www/abcd/htdocs/central/dataentry/wxis/ifp.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/ifp.xis&base=users&cipar=/var/www/abcd/bases/par/users.par&Opcion=autoridades&tagfst=&prefijo=NO_&pref=NO_&postings=1&formato_e=v30,`$$$`,if P(v20) then v20 else v35 fi&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Thursday 10th of July 2014 07:55:00 PM Operador: abcd
+/central/circulation/usuario_prestamos_presentar.php /var/www/abcd/htdocs/central/dataentry/wxis/cipres_usuario.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/cipres_usuario.xis&Expresion=CO_01&base=users&cipar=/var/www/abcd/bases//par/users.par&Formato=/var/www/abcd/bases/users/loans/pt/loans_usdisp.pft&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Thursday 10th of July 2014 07:55:00 PM Operador: abcd
+/central/circulation/usuario_prestamos_presentar.php /var/www/abcd/htdocs/central/dataentry/wxis/cipres_usuario.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/cipres_usuario.xis&Expresion=TR_S_01&base=suspml&cipar=/var/www/abcd/bases/par/suspml.par&Pft=v1'|',v10'|',v20'|',v30'|',v40'|',v50'|',v60'|',v100'|',f(mfn,1,0)/&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Thursday 10th of July 2014 07:55:00 PM Operador: abcd
+/central/circulation/usuario_prestamos_presentar.php /var/www/abcd/htdocs/central/dataentry/wxis/cipres_usuario.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/cipres_usuario.xis&Expresion=TR_M_01&base=suspml&cipar=/var/www/abcd/bases/par/suspml.par&Pft=v1'|',v10'|',v20'|',v30'|',v40'|',v50'|',v60'|',v100'|',f(mfn,1,0)/&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Thursday 10th of July 2014 07:55:00 PM Operador: abcd
+/central/circulation/usuario_prestamos_presentar.php /var/www/abcd/htdocs/central/dataentry/wxis/cipres_usuario.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/cipres_usuario.xis&Expresion=TRU_P_01&base=trans&cipar=/var/www/abcd/bases/par/trans.par&Formato=/var/www/abcd/bases/trans/pfts/pt/loans_display.pft&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Thursday 10th of July 2014 07:55:00 PM Operador: abcd
+/central/circulation/usuario_prestamos_presentar.php /var/www/abcd/htdocs/central/dataentry/wxis/cipres_usuario.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/cipres_usuario.xis&Expresion=CO_01&base=users&cipar=/var/www/abcd/bases/par/users.par&Pft=if P(v20) then v20 else v35 fi'$$'v10^*'$$'v18&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Thursday 10th of July 2014 07:55:00 PM Operador: abcd
+/central/circulation/usuario_prestamos_presentar.php /var/www/abcd/htdocs/central/dataentry/wxis/cipres_usuario.xis &base=reserve&cipar=/var/www/abcd/bases/par/reserve.par&Expresion=CU_01 and ST_0&Formato=/var/www/abcd/bases/reserve/pfts/pt/tbreserve.pft&path_db=/var/www/abcd/bases/&syspar=/var/www/abcd/bases/par/syspar.par
+**Thursday 10th of July 2014 07:55:00 PM Operador: abcd
+/central/circulation/usuario_prestamos_presentar.php /var/www/abcd/htdocs/central/dataentry/wxis/buscar_ingreso.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/buscar_ingreso.xis&base=&cipar=/var/www/abcd/bases/par/.par&Expresion=CN_&Formato=/var/www/abcd/bases//loans/pt/loans_display.pft&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Thursday 10th of July 2014 07:55:12 PM Operador: abcd
+/central/circulation/capturaclaves.php /var/www/abcd/htdocs/central/dataentry/wxis/ifp.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/ifp.xis&base=loanobjects&cipar=/var/www/abcd/bases/par/loanobjects.par&Opcion=autoridades&tagfst=&prefijo=IN_&pref=IN_&postings=1&formato_e=@/var/www/abcd/bases/loanobjects/pfts/es/autoridades.pft&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Thursday 10th of July 2014 07:55:17 PM Operador: abcd
+/central/circulation/capturaclaves.php /var/www/abcd/htdocs/central/dataentry/wxis/ifp.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/ifp.xis&base=users&cipar=/var/www/abcd/bases/par/users.par&Opcion=autoridades&tagfst=&prefijo=NO_&pref=NO_&postings=1&formato_e=v30,`$$$`,if P(v20) then v20 else v35 fi&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Thursday 10th of July 2014 07:55:19 PM Operador: abcd
+/central/circulation/usuario_prestamos_presentar.php /var/www/abcd/htdocs/central/dataentry/wxis/cipres_usuario.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/cipres_usuario.xis&Expresion=CO_01&base=users&cipar=/var/www/abcd/bases//par/users.par&Formato=/var/www/abcd/bases/users/loans/es/loans_usdisp.pft&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Thursday 10th of July 2014 07:55:19 PM Operador: abcd
+/central/circulation/usuario_prestamos_presentar.php /var/www/abcd/htdocs/central/dataentry/wxis/cipres_usuario.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/cipres_usuario.xis&Expresion=TR_S_01&base=suspml&cipar=/var/www/abcd/bases/par/suspml.par&Pft=v1'|',v10'|',v20'|',v30'|',v40'|',v50'|',v60'|',v100'|',f(mfn,1,0)/&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Thursday 10th of July 2014 07:55:19 PM Operador: abcd
+/central/circulation/usuario_prestamos_presentar.php /var/www/abcd/htdocs/central/dataentry/wxis/cipres_usuario.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/cipres_usuario.xis&Expresion=TR_M_01&base=suspml&cipar=/var/www/abcd/bases/par/suspml.par&Pft=v1'|',v10'|',v20'|',v30'|',v40'|',v50'|',v60'|',v100'|',f(mfn,1,0)/&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Thursday 10th of July 2014 07:55:19 PM Operador: abcd
+/central/circulation/usuario_prestamos_presentar.php /var/www/abcd/htdocs/central/dataentry/wxis/cipres_usuario.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/cipres_usuario.xis&Expresion=TRU_P_01&base=trans&cipar=/var/www/abcd/bases/par/trans.par&Formato=/var/www/abcd/bases/trans/pfts/es/loans_display.pft&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Thursday 10th of July 2014 07:55:19 PM Operador: abcd
+/central/circulation/usuario_prestamos_presentar.php /var/www/abcd/htdocs/central/dataentry/wxis/cipres_usuario.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/cipres_usuario.xis&Expresion=CO_01&base=users&cipar=/var/www/abcd/bases/par/users.par&Pft=if P(v20) then v20 else v35 fi'$$'v10^*'$$'v18&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Thursday 10th of July 2014 07:55:19 PM Operador: abcd
+/central/circulation/usuario_prestamos_presentar.php /var/www/abcd/htdocs/central/dataentry/wxis/cipres_usuario.xis &base=reserve&cipar=/var/www/abcd/bases/par/reserve.par&Expresion=CU_01 and ST_0&Formato=/var/www/abcd/bases/reserve/pfts/es/tbreserve.pft&path_db=/var/www/abcd/bases/&syspar=/var/www/abcd/bases/par/syspar.par
+**Thursday 10th of July 2014 07:55:19 PM Operador: abcd
+/central/circulation/usuario_prestamos_presentar.php /var/www/abcd/htdocs/central/dataentry/wxis/buscar_ingreso.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/buscar_ingreso.xis&base=&cipar=/var/www/abcd/bases/par/.par&Expresion=CN_&Formato=/var/www/abcd/bases//loans/pt/loans_display.pft&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Thursday 10th of July 2014 07:55:31 PM Operador: abcd
+/central/circulation/capturaclaves.php /var/www/abcd/htdocs/central/dataentry/wxis/ifp.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/ifp.xis&base=trans&cipar=/var/www/abcd/bases/par/trans.par&Opcion=autoridades&tagfst=&prefijo=TR_P&pref=TR_P&postings=1&formato_e=v10,`$$$`,v10&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Thursday 10th of July 2014 07:55:33 PM Operador: abcd
+/central/circulation/capturaclaves.php /var/www/abcd/htdocs/central/dataentry/wxis/ifp.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/ifp.xis&base=trans&cipar=/var/www/abcd/bases/par/trans.par&Opcion=autoridades&tagfst=&prefijo=TR_PA&pref=TR_P&postings=1&formato_e=v10,`$$$`,v10&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Thursday 10th of July 2014 07:55:34 PM Operador: abcd
+/central/circulation/capturaclaves.php /var/www/abcd/htdocs/central/dataentry/wxis/ifp.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/ifp.xis&base=trans&cipar=/var/www/abcd/bases/par/trans.par&Opcion=autoridades&tagfst=&prefijo=TR_PB&pref=TR_P&postings=1&formato_e=v10,`$$$`,v10&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Thursday 10th of July 2014 07:55:47 PM Operador: abcd
+/central/circulation/capturaclaves.php /var/www/abcd/htdocs/central/dataentry/wxis/ifp.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/ifp.xis&base=trans&cipar=/var/www/abcd/bases/par/trans.par&Opcion=autoridades&tagfst=&prefijo=TR_P&pref=TR_P&postings=1&formato_e=v10,`$$$`,v10&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Thursday 10th of July 2014 07:55:55 PM Operador: abcd
+/central/dataentry/browse.php /var/www/abcd/htdocs/central/dataentry/wxis/leer_mfnrange.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/leer_mfnrange.xis&base=users&cipar=/var/www/abcd/bases/par/users.par&from=1&to=10&Formato=/var/www/abcd/bases/users/pfts/es/tbusers&Opcion=buscar&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Thursday 10th of July 2014 07:55:59 PM Operador: abcd
+/central/circulation/usuario.php /var/www/abcd/htdocs/central/dataentry/wxis/cipres_usuario.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/cipres_usuario.xis&Expresion=CO_01&base=users&cipar=/var/www/abcd/bases//par/users.par&Formato=/var/www/abcd/bases/users/loans/es/loans_usdisp.pft&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Thursday 10th of July 2014 07:55:59 PM Operador: abcd
+/central/circulation/usuario.php /var/www/abcd/htdocs/central/dataentry/wxis/cipres_usuario.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/cipres_usuario.xis&Expresion=TR_S_01&base=suspml&cipar=/var/www/abcd/bases/par/suspml.par&Pft=v1'|',v10'|',v20'|',v30'|',v40'|',v50'|',v60'|',v100'|',f(mfn,1,0)/&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Thursday 10th of July 2014 07:55:59 PM Operador: abcd
+/central/circulation/usuario.php /var/www/abcd/htdocs/central/dataentry/wxis/cipres_usuario.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/cipres_usuario.xis&Expresion=TR_M_01&base=suspml&cipar=/var/www/abcd/bases/par/suspml.par&Pft=v1'|',v10'|',v20'|',v30'|',v40'|',v50'|',v60'|',v100'|',f(mfn,1,0)/&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Thursday 10th of July 2014 07:55:59 PM Operador: abcd
+/central/circulation/usuario.php /var/www/abcd/htdocs/central/dataentry/wxis/cipres_usuario.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/cipres_usuario.xis&Expresion=TRU_P_01&base=trans&cipar=/var/www/abcd/bases/par/trans.par&Formato=/var/www/abcd/bases/trans/pfts/es/loans_display.pft&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Thursday 10th of July 2014 07:56:05 PM Operador: abcd
+/central/dataentry/browse.php /var/www/abcd/htdocs/central/dataentry/wxis/leer_mfnrange.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/leer_mfnrange.xis&base=users&cipar=/var/www/abcd/bases/par/users.par&from=1&to=10&Formato=/var/www/abcd/bases/users/pfts/es/tbusers&Opcion=buscar&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Thursday 10th of July 2014 07:56:09 PM Operador: abcd
+/central/circulation/usuario.php /var/www/abcd/htdocs/central/dataentry/wxis/cipres_usuario.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/cipres_usuario.xis&Expresion=CO_01&base=users&cipar=/var/www/abcd/bases//par/users.par&Formato=/var/www/abcd/bases/users/loans/es/loans_usdisp.pft&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Thursday 10th of July 2014 07:56:09 PM Operador: abcd
+/central/circulation/usuario.php /var/www/abcd/htdocs/central/dataentry/wxis/cipres_usuario.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/cipres_usuario.xis&Expresion=TR_S_01&base=suspml&cipar=/var/www/abcd/bases/par/suspml.par&Pft=v1'|',v10'|',v20'|',v30'|',v40'|',v50'|',v60'|',v100'|',f(mfn,1,0)/&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Thursday 10th of July 2014 07:56:09 PM Operador: abcd
+/central/circulation/usuario.php /var/www/abcd/htdocs/central/dataentry/wxis/cipres_usuario.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/cipres_usuario.xis&Expresion=TR_M_01&base=suspml&cipar=/var/www/abcd/bases/par/suspml.par&Pft=v1'|',v10'|',v20'|',v30'|',v40'|',v50'|',v60'|',v100'|',f(mfn,1,0)/&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Thursday 10th of July 2014 07:56:09 PM Operador: abcd
+/central/circulation/usuario.php /var/www/abcd/htdocs/central/dataentry/wxis/cipres_usuario.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/cipres_usuario.xis&Expresion=TRU_P_01&base=trans&cipar=/var/www/abcd/bases/par/trans.par&Formato=/var/www/abcd/bases/trans/pfts/es/loans_display.pft&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Thursday 10th of July 2014 07:56:55 PM Operador: abcd
+/central/circulation/usuario.php /var/www/abcd/htdocs/central/dataentry/wxis/cipres_usuario.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/cipres_usuario.xis&Expresion=CO_01&base=users&cipar=/var/www/abcd/bases//par/users.par&Formato=/var/www/abcd/bases/users/loans/es/loans_usdisp.pft&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Thursday 10th of July 2014 07:56:55 PM Operador: abcd
+/central/circulation/usuario.php /var/www/abcd/htdocs/central/dataentry/wxis/cipres_usuario.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/cipres_usuario.xis&Expresion=TR_S_01&base=suspml&cipar=/var/www/abcd/bases/par/suspml.par&Pft=v1'|',v10'|',v20'|',v30'|',v40'|',v50'|',v60'|',v100'|',f(mfn,1,0)/&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Thursday 10th of July 2014 07:56:55 PM Operador: abcd
+/central/circulation/usuario.php /var/www/abcd/htdocs/central/dataentry/wxis/cipres_usuario.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/cipres_usuario.xis&Expresion=TR_M_01&base=suspml&cipar=/var/www/abcd/bases/par/suspml.par&Pft=v1'|',v10'|',v20'|',v30'|',v40'|',v50'|',v60'|',v100'|',f(mfn,1,0)/&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Thursday 10th of July 2014 07:56:55 PM Operador: abcd
+/central/circulation/usuario.php /var/www/abcd/htdocs/central/dataentry/wxis/cipres_usuario.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/cipres_usuario.xis&Expresion=TRU_P_01&base=trans&cipar=/var/www/abcd/bases/par/trans.par&Formato=/var/www/abcd/bases/trans/pfts/es/loans_display.pft&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Thursday 10th of July 2014 07:57:04 PM Operador: abcd
+/central/dataentry/browse.php /var/www/abcd/htdocs/central/dataentry/wxis/leer_mfnrange.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/leer_mfnrange.xis&base=users&cipar=/var/www/abcd/bases/par/users.par&from=1&to=10&Formato=/var/www/abcd/bases/users/pfts/es/tbusers&Opcion=buscar&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Thursday 10th of July 2014 07:57:06 PM Operador: abcd
+/central/circulation/usuario.php /var/www/abcd/htdocs/central/dataentry/wxis/cipres_usuario.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/cipres_usuario.xis&Expresion=CO_01&base=users&cipar=/var/www/abcd/bases//par/users.par&Formato=/var/www/abcd/bases/users/loans/es/loans_usdisp.pft&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Thursday 10th of July 2014 07:57:06 PM Operador: abcd
+/central/circulation/usuario.php /var/www/abcd/htdocs/central/dataentry/wxis/cipres_usuario.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/cipres_usuario.xis&Expresion=TR_S_01&base=suspml&cipar=/var/www/abcd/bases/par/suspml.par&Pft=v1'|',v10'|',v20'|',v30'|',v40'|',v50'|',v60'|',v100'|',f(mfn,1,0)/&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Thursday 10th of July 2014 07:57:06 PM Operador: abcd
+/central/circulation/usuario.php /var/www/abcd/htdocs/central/dataentry/wxis/cipres_usuario.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/cipres_usuario.xis&Expresion=TR_M_01&base=suspml&cipar=/var/www/abcd/bases/par/suspml.par&Pft=v1'|',v10'|',v20'|',v30'|',v40'|',v50'|',v60'|',v100'|',f(mfn,1,0)/&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Thursday 10th of July 2014 07:57:06 PM Operador: abcd
+/central/circulation/usuario.php /var/www/abcd/htdocs/central/dataentry/wxis/cipres_usuario.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/cipres_usuario.xis&Expresion=TRU_P_01&base=trans&cipar=/var/www/abcd/bases/par/trans.par&Formato=/var/www/abcd/bases/trans/pfts/es/loans_display.pft&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Thursday 10th of July 2014 07:59:07 PM Operador: abcd
+/central/dataentry/browse.php /var/www/abcd/htdocs/central/dataentry/wxis/leer_mfnrange.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/leer_mfnrange.xis&base=users&cipar=/var/www/abcd/bases/par/users.par&from=1&to=10&Formato=/var/www/abcd/bases/users/pfts/es/tbusers&Opcion=buscar&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Thursday 10th of July 2014 07:59:09 PM Operador: abcd
+/central/circulation/usuario.php /var/www/abcd/htdocs/central/dataentry/wxis/cipres_usuario.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/cipres_usuario.xis&Expresion=CO_02&base=users&cipar=/var/www/abcd/bases//par/users.par&Formato=/var/www/abcd/bases/users/loans/es/loans_usdisp.pft&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Thursday 10th of July 2014 07:59:09 PM Operador: abcd
+/central/circulation/usuario.php /var/www/abcd/htdocs/central/dataentry/wxis/cipres_usuario.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/cipres_usuario.xis&Expresion=TR_S_02&base=suspml&cipar=/var/www/abcd/bases/par/suspml.par&Pft=v1'|',v10'|',v20'|',v30'|',v40'|',v50'|',v60'|',v100'|',f(mfn,1,0)/&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Thursday 10th of July 2014 07:59:09 PM Operador: abcd
+/central/circulation/usuario.php /var/www/abcd/htdocs/central/dataentry/wxis/cipres_usuario.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/cipres_usuario.xis&Expresion=TR_M_02&base=suspml&cipar=/var/www/abcd/bases/par/suspml.par&Pft=v1'|',v10'|',v20'|',v30'|',v40'|',v50'|',v60'|',v100'|',f(mfn,1,0)/&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Thursday 10th of July 2014 07:59:09 PM Operador: abcd
+/central/circulation/usuario.php /var/www/abcd/htdocs/central/dataentry/wxis/cipres_usuario.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/cipres_usuario.xis&Expresion=TRU_P_02&base=trans&cipar=/var/www/abcd/bases/par/trans.par&Formato=/var/www/abcd/bases/trans/pfts/es/loans_display.pft&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Thursday 10th of July 2014 07:59:14 PM Operador: abcd
+/central/statistics/tables_generate.php /var/www/abcd/htdocs/central/dataentry/wxis/administrar.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/administrar.xis&base=suspml&cipar=/var/www/abcd/bases/par/suspml.par&Opcion=status&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Thursday 10th of July 2014 07:59:22 PM Operador: abcd
+/central/statistics/tables_generate.php /var/www/abcd/htdocs/central/dataentry/wxis/administrar.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/administrar.xis&base=suspml&cipar=/var/www/abcd/bases/par/suspml.par&Opcion=status&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Thursday 10th of July 2014 08:01:35 PM Operador: abcd
+/central/dataentry/inicio_main.php /var/www/abcd/htdocs/central/dataentry/wxis/login.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/login.xis&base=acces&cipar=/var/www/abcd/bases/par/acces.par&login=abcd&password=adm&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Thursday 10th of July 2014 08:01:35 PM Operador: abcd
+/central/dataentry/inicio_base.php /var/www/abcd/htdocs/central/dataentry/wxis/administrar.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/administrar.xis&base=orbe&cipar=/var/www/abcd/bases/par/orbe.par&Opcion=status&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Thursday 10th of July 2014 08:01:39 PM Operador: abcd
+/central/statistics/tables_generate.php /var/www/abcd/htdocs/central/dataentry/wxis/administrar.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/administrar.xis&base=orbe&cipar=/var/www/abcd/bases/par/orbe.par&Opcion=status&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Thursday 10th of July 2014 08:07:28 PM Operador: abcd
+/central/dataentry/browse.php /var/www/abcd/htdocs/central/dataentry/wxis/leer_mfnrange.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/leer_mfnrange.xis&base=acces&cipar=/var/www/abcd/bases/par/acces.par&from=1&to=10&Formato=/var/www/abcd/bases/acces/pfts/es/tbacces&Opcion=buscar&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Thursday 10th of July 2014 08:07:38 PM Operador: abcd
+/central/dataentry/browse.php /var/www/abcd/htdocs/central/dataentry/wxis/leer_mfnrange.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/leer_mfnrange.xis&base=acces&cipar=/var/www/abcd/bases/par/acces.par&from=1&to=10&Formato=/var/www/abcd/bases/acces/pfts/es/tbacces&Opcion=buscar&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Thursday 10th of July 2014 08:07:47 PM Operador: abcd
+/central/dataentry/browse.php /var/www/abcd/htdocs/central/dataentry/wxis/leer_mfnrange.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/leer_mfnrange.xis&base=acces&cipar=/var/www/abcd/bases/par/acces.par&from=1&to=10&Formato=/var/www/abcd/bases/acces/pfts/es/tbacces&Opcion=buscar&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Thursday 10th of July 2014 08:08:01 PM Operador: abcd
+/central/dataentry/browse.php /var/www/abcd/htdocs/central/dataentry/wxis/leer_mfnrange.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/leer_mfnrange.xis&base=acces&cipar=/var/www/abcd/bases/par/acces.par&from=1&to=10&Formato=/var/www/abcd/bases/acces/pfts/es/tbacces&Opcion=buscar&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Thursday 10th of July 2014 08:08:12 PM Operador: abcd
+/central/dataentry/browse.php /var/www/abcd/htdocs/central/dataentry/wxis/leer_mfnrange.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/leer_mfnrange.xis&base=acces&cipar=/var/www/abcd/bases/par/acces.par&from=1&to=10&Formato=/var/www/abcd/bases/acces/pfts/es/tbacces&Opcion=buscar&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Thursday 10th of July 2014 08:08:17 PM Operador: abcd
+/central/dataentry/browse.php /var/www/abcd/htdocs/central/dataentry/wxis/leer_mfnrange.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/leer_mfnrange.xis&base=acces&cipar=/var/www/abcd/bases/par/acces.par&from=1&to=10&Formato=/var/www/abcd/bases/acces/pfts/es/tbacces&Opcion=buscar&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Thursday 10th of July 2014 08:08:24 PM Operador: abcd
+/central/dataentry/browse.php /var/www/abcd/htdocs/central/dataentry/wxis/leer_mfnrange.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/leer_mfnrange.xis&base=acces&cipar=/var/www/abcd/bases/par/acces.par&from=1&to=10&Formato=/var/www/abcd/bases/acces/pfts/es/tbacces&Opcion=buscar&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Thursday 10th of July 2014 08:08:25 PM Operador: abcd
+/central/dataentry/browse.php /var/www/abcd/htdocs/central/dataentry/wxis/leer_mfnrange.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/leer_mfnrange.xis&base=acces&cipar=/var/www/abcd/bases/par/acces.par&from=1&to=10&Formato=/var/www/abcd/bases/acces/pfts/es/tbacces&Opcion=buscar&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Thursday 10th of July 2014 08:08:36 PM Operador: abcd
+/central/dataentry/browse.php /var/www/abcd/htdocs/central/dataentry/wxis/leer_mfnrange.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/leer_mfnrange.xis&base=acces&cipar=/var/www/abcd/bases/par/acces.par&from=1&to=10&Formato=/var/www/abcd/bases/acces/pfts/es/tbacces&Opcion=buscar&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Thursday 10th of July 2014 08:08:37 PM Operador: abcd
+/central/dataentry/browse.php /var/www/abcd/htdocs/central/dataentry/wxis/leer_mfnrange.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/leer_mfnrange.xis&base=acces&cipar=/var/www/abcd/bases/par/acces.par&from=1&to=10&Formato=/var/www/abcd/bases/acces/pfts/es/tbacces&Opcion=buscar&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Thursday 10th of July 2014 08:08:37 PM Operador: abcd
+/central/dataentry/browse.php /var/www/abcd/htdocs/central/dataentry/wxis/leer_mfnrange.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/leer_mfnrange.xis&base=acces&cipar=/var/www/abcd/bases/par/acces.par&from=1&to=10&Formato=/var/www/abcd/bases/acces/pfts/es/tbacces&Opcion=buscar&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Thursday 10th of July 2014 08:08:44 PM Operador: abcd
+/central/dataentry/browse.php /var/www/abcd/htdocs/central/dataentry/wxis/leer_mfnrange.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/leer_mfnrange.xis&base=acces&cipar=/var/www/abcd/bases/par/acces.par&from=1&to=10&Formato=/var/www/abcd/bases/acces/pfts/es/tbacces&Opcion=buscar&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Thursday 10th of July 2014 08:08:45 PM Operador: abcd
+/central/dataentry/browse.php /var/www/abcd/htdocs/central/dataentry/wxis/leer_mfnrange.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/leer_mfnrange.xis&base=acces&cipar=/var/www/abcd/bases/par/acces.par&from=1&to=10&Formato=/var/www/abcd/bases/acces/pfts/es/tbacces&Opcion=buscar&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Thursday 10th of July 2014 08:08:45 PM Operador: abcd
+/central/dataentry/browse.php /var/www/abcd/htdocs/central/dataentry/wxis/leer_mfnrange.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/leer_mfnrange.xis&base=acces&cipar=/var/www/abcd/bases/par/acces.par&from=1&to=10&Formato=/var/www/abcd/bases/acces/pfts/es/tbacces&Opcion=buscar&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Thursday 10th of July 2014 08:09:31 PM Operador: abcd
+/central/dataentry/browse.php /var/www/abcd/htdocs/central/dataentry/wxis/leer_mfnrange.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/leer_mfnrange.xis&base=acces&cipar=/var/www/abcd/bases/par/acces.par&from=1&to=10&Formato=/var/www/abcd/bases/acces/pfts/es/tbacces&Opcion=buscar&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Thursday 10th of July 2014 08:09:32 PM Operador: abcd
+/central/dataentry/browse.php /var/www/abcd/htdocs/central/dataentry/wxis/leer_mfnrange.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/leer_mfnrange.xis&base=acces&cipar=/var/www/abcd/bases/par/acces.par&from=1&to=10&Formato=/var/www/abcd/bases/acces/pfts/es/tbacces&Opcion=buscar&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Thursday 10th of July 2014 08:09:32 PM Operador: abcd
+/central/dataentry/browse.php /var/www/abcd/htdocs/central/dataentry/wxis/leer_mfnrange.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/leer_mfnrange.xis&base=acces&cipar=/var/www/abcd/bases/par/acces.par&from=1&to=10&Formato=/var/www/abcd/bases/acces/pfts/es/tbacces&Opcion=buscar&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Thursday 10th of July 2014 08:09:33 PM Operador: abcd
+/central/dataentry/browse.php /var/www/abcd/htdocs/central/dataentry/wxis/leer_mfnrange.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/leer_mfnrange.xis&base=acces&cipar=/var/www/abcd/bases/par/acces.par&from=1&to=10&Formato=/var/www/abcd/bases/acces/pfts/es/tbacces&Opcion=buscar&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Thursday 10th of July 2014 08:10:11 PM Operador: abcd
+/central/dataentry/browse.php /var/www/abcd/htdocs/central/dataentry/wxis/leer_mfnrange.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/leer_mfnrange.xis&base=acces&cipar=/var/www/abcd/bases/par/acces.par&from=1&to=10&Formato=/var/www/abcd/bases/acces/pfts/es/tbacces&Opcion=buscar&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Thursday 10th of July 2014 08:10:46 PM Operador: abcd
+/central/dataentry/browse.php /var/www/abcd/htdocs/central/dataentry/wxis/leer_mfnrange.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/leer_mfnrange.xis&base=acces&cipar=/var/www/abcd/bases/par/acces.par&from=1&to=10&Formato=/var/www/abcd/bases/acces/pfts/es/tbacces&Opcion=buscar&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Thursday 10th of July 2014 08:10:52 PM Operador: abcd
+/central/dataentry/browse.php /var/www/abcd/htdocs/central/dataentry/wxis/leer_mfnrange.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/leer_mfnrange.xis&base=acces&cipar=/var/www/abcd/bases/par/acces.par&from=11&to=20&Formato=/var/www/abcd/bases/acces/pfts/es/tbacces&Opcion=buscar&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Thursday 10th of July 2014 08:10:56 PM Operador: abcd
+/central/dataentry/browse.php /var/www/abcd/htdocs/central/dataentry/wxis/leer_mfnrange.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/leer_mfnrange.xis&base=acces&cipar=/var/www/abcd/bases/par/acces.par&from=1&to=10&Formato=/var/www/abcd/bases/acces/pfts/es/tbacces&Opcion=buscar&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Thursday 10th of July 2014 08:11:28 PM Operador: abcd
+/central/dataentry/browse.php /var/www/abcd/htdocs/central/dataentry/wxis/leer_mfnrange.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/leer_mfnrange.xis&base=acces&cipar=/var/www/abcd/bases/par/acces.par&from=1&to=10&Formato=/var/www/abcd/bases/acces/pfts/es/tbacces&Opcion=buscar&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Thursday 10th of July 2014 08:11:29 PM Operador: abcd
+/central/dataentry/browse.php /var/www/abcd/htdocs/central/dataentry/wxis/leer_mfnrange.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/leer_mfnrange.xis&base=acces&cipar=/var/www/abcd/bases/par/acces.par&from=1&to=10&Formato=/var/www/abcd/bases/acces/pfts/es/tbacces&Opcion=buscar&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Thursday 10th of July 2014 08:11:46 PM Operador: abcd
+/central/dataentry/browse.php /var/www/abcd/htdocs/central/dataentry/wxis/leer_mfnrange.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/leer_mfnrange.xis&base=acces&cipar=/var/www/abcd/bases/par/acces.par&from=1&to=10&Formato=/var/www/abcd/bases/acces/pfts/es/tbacces&Opcion=buscar&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Thursday 10th of July 2014 08:11:57 PM Operador: abcd
+/central/dataentry/browse.php /var/www/abcd/htdocs/central/dataentry/wxis/leer_mfnrange.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/leer_mfnrange.xis&base=acces&cipar=/var/www/abcd/bases/par/acces.par&from=1&to=10&Formato=/var/www/abcd/bases/acces/pfts/es/tbacces&Opcion=buscar&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Thursday 10th of July 2014 08:12:02 PM Operador: abcd
+/central/dataentry/browse.php /var/www/abcd/htdocs/central/dataentry/wxis/leer_mfnrange.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/leer_mfnrange.xis&base=acces&cipar=/var/www/abcd/bases/par/acces.par&from=1&to=10&Formato=/var/www/abcd/bases/acces/pfts/es/tbacces&Opcion=buscar&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Thursday 10th of July 2014 08:12:06 PM Operador: abcd
+/central/dataentry/browse.php /var/www/abcd/htdocs/central/dataentry/wxis/leer_mfnrange.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/leer_mfnrange.xis&base=acces&cipar=/var/www/abcd/bases/par/acces.par&from=1&to=10&Formato=/var/www/abcd/bases/acces/pfts/es/tbacces&Opcion=buscar&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Thursday 10th of July 2014 08:12:33 PM Operador: abcd
+/central/dataentry/browse.php /var/www/abcd/htdocs/central/dataentry/wxis/leer_mfnrange.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/leer_mfnrange.xis&base=acces&cipar=/var/www/abcd/bases/par/acces.par&from=1&to=10&Formato=/var/www/abcd/bases/acces/pfts/es/tbacces&Opcion=buscar&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Thursday 10th of July 2014 08:12:55 PM Operador: abcd
+/central/dataentry/browse.php /var/www/abcd/htdocs/central/dataentry/wxis/leer_mfnrange.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/leer_mfnrange.xis&base=acces&cipar=/var/www/abcd/bases/par/acces.par&from=1&to=10&Formato=/var/www/abcd/bases/acces/pfts/es/tbacces&Opcion=buscar&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Thursday 10th of July 2014 08:13:02 PM Operador: abcd
+/central/dataentry/browse.php /var/www/abcd/htdocs/central/dataentry/wxis/leer_mfnrange.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/leer_mfnrange.xis&base=acces&cipar=/var/www/abcd/bases/par/acces.par&from=1&to=10&Formato=/var/www/abcd/bases/acces/pfts/es/tbacces&Opcion=buscar&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Thursday 10th of July 2014 08:13:11 PM Operador: abcd
+/central/dataentry/browse.php /var/www/abcd/htdocs/central/dataentry/wxis/leer_mfnrange.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/leer_mfnrange.xis&base=acces&cipar=/var/www/abcd/bases/par/acces.par&from=1&to=10&Formato=/var/www/abcd/bases/acces/pfts/es/tbacces&Opcion=buscar&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Thursday 10th of July 2014 08:13:24 PM Operador: abcd
+/central/dataentry/browse.php /var/www/abcd/htdocs/central/dataentry/wxis/leer_mfnrange.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/leer_mfnrange.xis&base=acces&cipar=/var/www/abcd/bases/par/acces.par&from=1&to=10&Formato=/var/www/abcd/bases/acces/pfts/es/tbacces&Opcion=buscar&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Thursday 10th of July 2014 08:13:27 PM Operador: abcd
+/central/dataentry/browse.php /var/www/abcd/htdocs/central/dataentry/wxis/leer_mfnrange.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/leer_mfnrange.xis&base=acces&cipar=/var/www/abcd/bases/par/acces.par&from=1&to=10&Formato=/var/www/abcd/bases/acces/pfts/es/tbacces&Opcion=buscar&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Thursday 10th of July 2014 08:13:39 PM Operador: abcd
+/central/dataentry/browse.php /var/www/abcd/htdocs/central/dataentry/wxis/leer_mfnrange.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/leer_mfnrange.xis&base=acces&cipar=/var/www/abcd/bases/par/acces.par&from=1&to=10&Formato=/var/www/abcd/bases/acces/pfts/es/tbacces&Opcion=buscar&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Thursday 10th of July 2014 08:13:44 PM Operador: abcd
+/central/dataentry/browse.php /var/www/abcd/htdocs/central/dataentry/wxis/leer_mfnrange.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/leer_mfnrange.xis&base=acces&cipar=/var/www/abcd/bases/par/acces.par&from=1&to=10&Formato=/var/www/abcd/bases/acces/pfts/es/tbacces&Opcion=buscar&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Thursday 10th of July 2014 08:22:28 PM Operador: abcd
+/central/dbadmin/profile_edit.php /var/www/abcd/htdocs/central/dataentry/wxis/leer_mfnrange.xis &base=acces&cipar=/var/www/abcd/bases/par/acces.par&Pft=v40^a/&path_db=/var/www/abcd/bases/&syspar=/var/www/abcd/bases/par/syspar.par
+**Thursday 10th of July 2014 08:22:54 PM Operador: abcd
+/central/dbadmin/profile_edit.php /var/www/abcd/htdocs/central/dataentry/wxis/leer_mfnrange.xis &base=acces&cipar=/var/www/abcd/bases/par/acces.par&Pft=v40^a/&path_db=/var/www/abcd/bases/&syspar=/var/www/abcd/bases/par/syspar.par
+**Thursday 10th of July 2014 08:22:59 PM Operador: abcd
+/central/dbadmin/profile_edit.php /var/www/abcd/htdocs/central/dataentry/wxis/leer_mfnrange.xis &base=acces&cipar=/var/www/abcd/bases/par/acces.par&Pft=v40^a/&path_db=/var/www/abcd/bases/&syspar=/var/www/abcd/bases/par/syspar.par
+**Thursday 10th of July 2014 08:23:07 PM Operador: abcd
+/central/dataentry/browse.php /var/www/abcd/htdocs/central/dataentry/wxis/leer_mfnrange.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/leer_mfnrange.xis&base=acces&cipar=/var/www/abcd/bases/par/acces.par&from=1&to=10&Formato=/var/www/abcd/bases/acces/pfts/pt/tbacces&Opcion=buscar&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Thursday 10th of July 2014 08:23:42 PM Operador: abcd
+/central/dbadmin/profile_edit.php /var/www/abcd/htdocs/central/dataentry/wxis/leer_mfnrange.xis &base=acces&cipar=/var/www/abcd/bases/par/acces.par&Pft=v40^a/&path_db=/var/www/abcd/bases/&syspar=/var/www/abcd/bases/par/syspar.par
+**Thursday 10th of July 2014 08:23:49 PM Operador: abcd
+/central/dataentry/browse.php /var/www/abcd/htdocs/central/dataentry/wxis/leer_mfnrange.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/leer_mfnrange.xis&base=acces&cipar=/var/www/abcd/bases/par/acces.par&from=1&to=10&Formato=/var/www/abcd/bases/acces/pfts/pt/tbacces&Opcion=buscar&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Thursday 10th of July 2014 08:23:53 PM Operador: abcd
+/central/dataentry/eliminar_registro.php /var/www/abcd/htdocs/central/dataentry/wxis/eliminarregistro.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/eliminarregistro.xis&base=acces&cipar=/var/www/abcd/bases/par/acces.par&login=abcd&Mfn=6&Opcion=eliminar&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Thursday 10th of July 2014 08:23:53 PM Operador: abcd
+/central/dataentry/browse.php /var/www/abcd/htdocs/central/dataentry/wxis/leer_mfnrange.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/leer_mfnrange.xis&base=acces&cipar=/var/www/abcd/bases/par/acces.par&from=1&to=10&Formato=/var/www/abcd/bases/acces/pfts/pt/tbacces&Opcion=buscar&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Thursday 10th of July 2014 08:23:55 PM Operador: abcd
+/central/dataentry/eliminar_registro.php /var/www/abcd/htdocs/central/dataentry/wxis/eliminarregistro.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/eliminarregistro.xis&base=acces&cipar=/var/www/abcd/bases/par/acces.par&login=abcd&Mfn=5&Opcion=eliminar&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Thursday 10th of July 2014 08:23:55 PM Operador: abcd
+/central/dataentry/browse.php /var/www/abcd/htdocs/central/dataentry/wxis/leer_mfnrange.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/leer_mfnrange.xis&base=acces&cipar=/var/www/abcd/bases/par/acces.par&from=1&to=10&Formato=/var/www/abcd/bases/acces/pfts/pt/tbacces&Opcion=buscar&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Thursday 10th of July 2014 08:24:02 PM Operador: abcd
+/central/dbadmin/profile_edit.php /var/www/abcd/htdocs/central/dataentry/wxis/leer_mfnrange.xis &base=acces&cipar=/var/www/abcd/bases/par/acces.par&Pft=v40^a/&path_db=/var/www/abcd/bases/&syspar=/var/www/abcd/bases/par/syspar.par
+**Thursday 10th of July 2014 08:25:44 PM Operador: abcd
+/central/dbadmin/profile_edit.php /var/www/abcd/htdocs/central/dataentry/wxis/leer_mfnrange.xis &base=acces&cipar=/var/www/abcd/bases/par/acces.par&Pft=v40^a/&path_db=/var/www/abcd/bases/&syspar=/var/www/abcd/bases/par/syspar.par
+**Thursday 10th of July 2014 08:25:51 PM Operador: abcd
+/central/dbadmin/profile_edit.php /var/www/abcd/htdocs/central/dataentry/wxis/leer_mfnrange.xis &base=acces&cipar=/var/www/abcd/bases/par/acces.par&Pft=v40^a/&path_db=/var/www/abcd/bases/&syspar=/var/www/abcd/bases/par/syspar.par
+**Thursday 10th of July 2014 08:29:21 PM Operador: abcd
+/central/dataentry/browse.php /var/www/abcd/htdocs/central/dataentry/wxis/leer_mfnrange.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/leer_mfnrange.xis&base=acces&cipar=/var/www/abcd/bases/par/acces.par&from=1&to=10&Formato=/var/www/abcd/bases/acces/pfts/pt/tbacces&Opcion=buscar&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Thursday 10th of July 2014 08:30:23 PM Operador: abcd
+/central/dataentry/browse.php /var/www/abcd/htdocs/central/dataentry/wxis/leer_mfnrange.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/leer_mfnrange.xis&base=acces&cipar=/var/www/abcd/bases/par/acces.par&from=1&to=10&Formato=/var/www/abcd/bases/acces/pfts/pt/tbacces&Opcion=buscar&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Thursday 10th of July 2014 08:30:26 PM Operador: abcd
+/central/dataentry/browse.php /var/www/abcd/htdocs/central/dataentry/wxis/leer_mfnrange.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/leer_mfnrange.xis&base=acces&cipar=/var/www/abcd/bases/par/acces.par&from=1&to=10&Formato=/var/www/abcd/bases/acces/pfts/pt/tbacces&Opcion=buscar&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Thursday 10th of July 2014 08:30:41 PM Operador: abcd
+/central/dataentry/browse.php /var/www/abcd/htdocs/central/dataentry/wxis/leer_mfnrange.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/leer_mfnrange.xis&base=acces&cipar=/var/www/abcd/bases/par/acces.par&from=1&to=10&Formato=/var/www/abcd/bases/acces/pfts/pt/tbacces&Opcion=buscar&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Thursday 10th of July 2014 08:30:49 PM Operador: abcd
+/central/dataentry/browse.php /var/www/abcd/htdocs/central/dataentry/wxis/leer_mfnrange.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/leer_mfnrange.xis&base=acces&cipar=/var/www/abcd/bases/par/acces.par&from=1&to=10&Formato=/var/www/abcd/bases/acces/pfts/pt/tbacces&Opcion=buscar&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Thursday 10th of July 2014 08:33:13 PM Operador: abcd
+/central/dataentry/browse.php /var/www/abcd/htdocs/central/dataentry/wxis/leer_mfnrange.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/leer_mfnrange.xis&base=acces&cipar=/var/www/abcd/bases/par/acces.par&from=1&to=10&Formato=/var/www/abcd/bases/acces/pfts/pt/tbacces&Opcion=buscar&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Thursday 10th of July 2014 08:33:21 PM Operador: abcd
+/central/dataentry/browse.php /var/www/abcd/htdocs/central/dataentry/wxis/leer_mfnrange.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/leer_mfnrange.xis&base=acces&cipar=/var/www/abcd/bases/par/acces.par&from=1&to=10&Formato=/var/www/abcd/bases/acces/pfts/pt/tbacces&Opcion=buscar&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Thursday 10th of July 2014 08:33:38 PM Operador: abcd
+/central/dataentry/browse.php /var/www/abcd/htdocs/central/dataentry/wxis/leer_mfnrange.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/leer_mfnrange.xis&base=acces&cipar=/var/www/abcd/bases/par/acces.par&from=1&to=10&Formato=/var/www/abcd/bases/acces/pfts/pt/tbacces&Opcion=buscar&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Thursday 10th of July 2014 08:33:41 PM Operador: abcd
+/central/dataentry/browse.php /var/www/abcd/htdocs/central/dataentry/wxis/leer_mfnrange.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/leer_mfnrange.xis&base=acces&cipar=/var/www/abcd/bases/par/acces.par&from=1&to=10&Formato=/var/www/abcd/bases/acces/pfts/pt/tbacces&Opcion=buscar&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Thursday 10th of July 2014 08:33:50 PM Operador: abcd
+/central/dataentry/browse.php /var/www/abcd/htdocs/central/dataentry/wxis/leer_mfnrange.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/leer_mfnrange.xis&base=acces&cipar=/var/www/abcd/bases/par/acces.par&from=1&to=10&Formato=/var/www/abcd/bases/acces/pfts/pt/tbacces&Opcion=buscar&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Thursday 10th of July 2014 08:33:58 PM Operador: abcd
+/central/dataentry/browse.php /var/www/abcd/htdocs/central/dataentry/wxis/leer_mfnrange.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/leer_mfnrange.xis&base=acces&cipar=/var/www/abcd/bases/par/acces.par&from=1&to=10&Formato=/var/www/abcd/bases/acces/pfts/pt/tbacces&Opcion=buscar&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Thursday 10th of July 2014 08:34:18 PM Operador: abcd
+/central/dataentry/browse.php /var/www/abcd/htdocs/central/dataentry/wxis/leer_mfnrange.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/leer_mfnrange.xis&base=acces&cipar=/var/www/abcd/bases/par/acces.par&from=1&to=10&Formato=/var/www/abcd/bases/acces/pfts/pt/tbacces&Opcion=buscar&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Thursday 10th of July 2014 08:34:23 PM Operador: abcd
+/central/dataentry/browse.php /var/www/abcd/htdocs/central/dataentry/wxis/leer_mfnrange.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/leer_mfnrange.xis&base=acces&cipar=/var/www/abcd/bases/par/acces.par&from=1&to=10&Formato=/var/www/abcd/bases/acces/pfts/pt/tbacces&Opcion=buscar&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Thursday 10th of July 2014 08:34:40 PM Operador: abcd
+/central/dataentry/browse.php /var/www/abcd/htdocs/central/dataentry/wxis/leer_mfnrange.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/leer_mfnrange.xis&base=acces&cipar=/var/www/abcd/bases/par/acces.par&from=1&to=10&Formato=/var/www/abcd/bases/acces/pfts/pt/tbacces&Opcion=buscar&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Thursday 10th of July 2014 08:35:40 PM Operador: abcd
+/central/dataentry/browse.php /var/www/abcd/htdocs/central/dataentry/wxis/leer_mfnrange.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/leer_mfnrange.xis&base=acces&cipar=/var/www/abcd/bases/par/acces.par&from=1&to=10&Formato=/var/www/abcd/bases/acces/pfts/pt/tbacces&Opcion=buscar&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Thursday 10th of July 2014 08:35:42 PM Operador: abcd
+/central/dataentry/browse.php /var/www/abcd/htdocs/central/dataentry/wxis/leer_mfnrange.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/leer_mfnrange.xis&base=acces&cipar=/var/www/abcd/bases/par/acces.par&from=1&to=10&Formato=/var/www/abcd/bases/acces/pfts/pt/tbacces&Opcion=buscar&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Thursday 10th of July 2014 08:35:59 PM Operador: abcd
+/central/dataentry/inicio_main.php /var/www/abcd/htdocs/central/dataentry/wxis/login.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/login.xis&base=acces&cipar=/var/www/abcd/bases/par/acces.par&login=abcd&password=adm&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Thursday 10th of July 2014 08:36:00 PM Operador: abcd
+/central/dataentry/inicio_base.php /var/www/abcd/htdocs/central/dataentry/wxis/administrar.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/administrar.xis&base=orbe&cipar=/var/www/abcd/bases/par/orbe.par&Opcion=status&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Thursday 10th of July 2014 08:36:09 PM Operador: abcd
+/central/statistics/tables_generate.php /var/www/abcd/htdocs/central/dataentry/wxis/administrar.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/administrar.xis&base=orbe&cipar=/var/www/abcd/bases/par/orbe.par&Opcion=status&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Thursday 10th of July 2014 08:36:40 PM Operador: abcd
+/central/statistics/tables_generate.php /var/www/abcd/htdocs/central/dataentry/wxis/administrar.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/administrar.xis&base=orbe&cipar=/var/www/abcd/bases/par/orbe.par&Opcion=status&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Thursday 10th of July 2014 08:37:02 PM Operador: abcd
+/central/statistics/tables_generate.php /var/www/abcd/htdocs/central/dataentry/wxis/administrar.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/administrar.xis&base=orbe&cipar=/var/www/abcd/bases/par/orbe.par&Opcion=status&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Thursday 10th of July 2014 08:37:09 PM Operador: abcd
+/central/statistics/tables_generate_ex.php /var/www/abcd/htdocs/central/dataentry/wxis/imprime.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/imprime.xis&base=orbe&cipar=/var/www/abcd/bases/par/orbe.par&Opcion=rango&Formato=v30'$$$$'v50^a'$$$$'/&from=1&to=7015&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Thursday 10th of July 2014 08:37:31 PM Operador: abcd
+/central/statistics/tables_generate.php /var/www/abcd/htdocs/central/dataentry/wxis/administrar.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/administrar.xis&base=orbe&cipar=/var/www/abcd/bases/par/orbe.par&Opcion=status&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Thursday 10th of July 2014 08:37:37 PM Operador: abcd
+/central/statistics/tables_generate_ex.php /var/www/abcd/htdocs/central/dataentry/wxis/imprime.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/imprime.xis&base=orbe&cipar=/var/www/abcd/bases/par/orbe.par&Opcion=rango&Formato=v30'$$$$'v50^a'$$$$'/&from=1&to=7015&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Thursday 10th of July 2014 08:37:43 PM Operador: abcd
+/central/dataentry/browse.php /var/www/abcd/htdocs/central/dataentry/wxis/leer_mfnrange.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/leer_mfnrange.xis&base=acces&cipar=/var/www/abcd/bases/par/acces.par&from=1&to=10&Formato=/var/www/abcd/bases/acces/pfts/pt/tbacces&Opcion=buscar&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Thursday 10th of July 2014 08:38:06 PM Operador: abcd
+/central/dataentry/browse.php /var/www/abcd/htdocs/central/dataentry/wxis/leer_mfnrange.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/leer_mfnrange.xis&base=acces&cipar=/var/www/abcd/bases/par/acces.par&from=1&to=10&Formato=/var/www/abcd/bases/acces/pfts/pt/tbacces&Opcion=buscar&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Thursday 10th of July 2014 08:38:13 PM Operador: abcd
+/central/dataentry/browse.php /var/www/abcd/htdocs/central/dataentry/wxis/leer_mfnrange.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/leer_mfnrange.xis&base=acces&cipar=/var/www/abcd/bases/par/acces.par&from=1&to=10&Formato=/var/www/abcd/bases/acces/pfts/pt/tbacces&Opcion=buscar&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Thursday 10th of July 2014 08:38:37 PM Operador: abcd
+/central/dataentry/inicio_main.php /var/www/abcd/htdocs/central/dataentry/wxis/login.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/login.xis&base=acces&cipar=/var/www/abcd/bases/par/acces.par&login=abcd&password=adm&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
+**Thursday 10th of July 2014 08:38:38 PM Operador: abcd
+/central/dataentry/inicio_base.php /var/www/abcd/htdocs/central/dataentry/wxis/administrar.xis IsisScript=/var/www/abcd/htdocs/central/dataentry/wxis/administrar.xis&base=orbe&cipar=/var/www/abcd/bases/par/orbe.par&Opcion=status&path_db=/var/www/abcd/bases/&cttype=s&syspar=/var/www/abcd/bases/par/syspar.par
