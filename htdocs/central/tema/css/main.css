@@ -1,0 +1,71 @@
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+
+.jumbotron {
+	margin: 0;
+}
+
+
+/********************************************/	
+body {
+	padding: 0;
+	margin: 0;
+	
+}
+h1, .h1, h2, .h2, h3, .h3 {
+	margin: 0;
+	}
+.btn, input, input[type=select], .form-control, select, .panel.panel-default {
+	border-radius: 0;
+}
+
+footer {
+	border-top: 1px #ccc solid;
+	position: static;
+	width: 100%;
+	bottom: 0;
+	padding: 10px;
+	text-align: center;
+
+}
+
+/*Barra de navegação*/
+
+.navbar-default .navbar-brand,  .navbar-default .navbar-nav > li > a:focus, .navbar-default .navbar-nav > li > a {
+color: #fff;
+}
+
+.navbar, .navbar-default .navbar-collapse, .navbar-default .navbar-form {
+	background-color: #1E8CBE;
+	border: none;
+}
+
+.navbar { 
+
+   height: 45px;
+}
+.navbar-default .navbar-toggle .icon-bar {
+	background: #fff;
+}
+
+.btn.btn-danger.off {
+border-radius: 0;
+height: 50px;
+
+}
+
+.btn.btn-danger.off:hover {
+background: #fbb8b6;
+border: #d9534f 1px solid;
+
+}
+
+/*Painel*/
+
+.btn.btn-primary.btn-block.menu {
+	text-align: left;
+}
+h4.menu {
+	text-align: center;
+	}

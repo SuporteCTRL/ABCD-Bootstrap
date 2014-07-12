@@ -1,0 +1,232 @@
+<?php
+/**
+ * @program:   ABCD - ABCD-Central - http://reddes.bvsaude.org/projects/abcd
+ * @copyright:  Copyright (C) 2009 BIREME/PAHO/WHO - VLIR/UOS
+ * @file:      import_doc.php
+ * @author:    Helen Hagos Berhe
+ * @since:     20110201
+ * @version:   2.0
+ * @desc:      digital library functions added based on pdftohtml or tika.jar
+ * == BEGIN LICENSE ==
+ *
+ *    This program is free software: you can redistribute it and/or modify
+ *    it under the terms of the GNU Lesser General Public License as
+ *    published by the Free Software Foundation, either version 3 of the
+ *    License, or (at your option) any later version.
+ *
+ *    This program is distributed in the hope that it will be useful,
+ *    but WITHOUT ANY WARRANTY; without even the implied warranty of
+ *    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ *    GNU Lesser General Public License for more details.
+ *
+ *    You should have received a copy of the GNU Lesser General Public License
+ *    along with this program.  If not, see <http://www.gnu.org/licenses/>.
+ *
+ * == END LICENSE ==
+*/
+session_start();
+//checking for the permission of the current user
+if (!isset($_SESSION["permiso"])){
+	header("Location: ../common/error_page.php") ;
+}
+// including config.php to use the common paths defined inside
+include ("../config.php");
+// including of admin.php script to load the language independent messages defined in admin.tab. if
+// the language is one of the languages explicitly define such as English, Spanish the admin.php
+// will load the messages in English or Spanish otherwise the messages in the default laguage definition will be used.
+include("../lang/admin.php");
+include("../lang/importdoc.php");
+// including the suporte.php script and to display the language independent help messages 
+include("../lang/soporte.php");
+// including the get_post.php script in order to use the common get or post variables used.
+include("../common/get_post.php");
+// assigning the language used by current session
+$lang=$_SESSION["lang"];
+//identifying and assigning the tag number to a variable $tag in which we are going to load the content 
+// of the document which is stored in the gloabal variable($arrHttp) 
+$tag=$arrHttp["Tag"];
+// identifying and assigning the type of the tag (e.g. B means the type of the content is External HTML)
+$tipo=$arrHttp["Tipo"];
+// getting the db name to $dbname variable
+$dbname=$arrHttp["base"];
+// the $_FILES super variable allows to upload a file from a client remoter computer to a server
+$files = $_FILES['userfile'];
+// defining a cipar variable which contains the path to our db, so that we can access it easily
+$cipar = " cipar=" . $db_path . "par/".$dbname . ".par";
+// path to a folder where the excutable files are located !!! to be made dynamic using $mx_path
+$mx_path = "C:\\abcd\\www\\cgi-bin\\";
+//$mx_path = "/var/www/ABCD/www/cgi-bin/";
+// if the file is above php limit(2M) then upload error message will be displayed
+if($files['name']=="")
+{
+echo $msgstr["uploaderror"];
+die;
+}
+foreach ($files['name'] as $key=>$name) 
+{
+		// avoiding processing of empty files by making it to display a message from php config i.e. upload_max_filesize
+		$max=get_cfg_var ("upload_max_filesize");
+		if ((int)$files['size'][$key]==0)
+		//|| (int)$files['size'][$key]>=(int)$max)
+		{
+			echo "upload_max_filesize = $max<br>";
+			echo $msgstr["maxfilesiz"];
+			die;
+		}
+		if ($files['size'][$key]) 
+		{
+			// if the file size is not zero, clean up file name to make it easy to process
+			$name = ereg_replace("[^a-z0-9._]", "",
+        	str_replace(" ", "_",
+            	str_replace("%20", "_", strtolower($name))
+				)
+			);
+			// copy the original file in the htdocs/bases domain in the database folder
+			$destfile = $img_path . $dbname;
+			$destfile = str_replace('/','\\',$destfile);
+			//echo $destfile;
+			//die;
+			$s=explode("\\" ,$destfile);
+			$ix=count($s);
+			$destpath = "/" . $s[$ix-2] . "/" . $s[$ix-1];
+
+			// create folder if not yet existing 
+			if (!file_exists($destfile)) 
+			// TODO CHECKING
+				exec("mkdir ".$destfile, $content,$resultado);
+				$destfile = $destfile ."\\".$name;
+				// THERE IS A PHP FUNCTION CALLED move_uploaded_file but often doesn't work for some reason
+				//$cmd= move_uploaded_file($files['tmp_name'][$key],$destfile);
+				// so we use a simple copy cmd for the time being...
+				$cmd='copy ' .$files['tmp_name'][$key] . ' '. $destfile; $res=exec($cmd,$content,$result);
+			// creating the upload window
+			echo "<html>\n";
+			echo "<title>".$msgstr["uploadfile"]."</title>\n";
+			echo "<script language=javascript src=js/lr_trim.js></script>\n";
+			echo "<body>\n";
+			echo "<font face=verdana>\n";
+			switch($tipo){
+			case "B":
+				$destfilename = $name;
+				$s=explode("." ,$name);
+				$ix=count($s)-1;
+				$name = '';
+                for ($i=0; $i<$ix; $i++)
+				{
+                   $name = $name.$s[$i];
+				 }            
+                $name=$db_path."wrk/".$name.".html";
+				$name = str_replace('/', '\\', $name); 
+				
+				$redir="";
+				//following line to be removed in Linux
+				$filenamepdf = '/abcd/www/cgi-bin/pdftohtml.exe';
+				$filenametika= '/abcd/www/cgi-bin/tika.jar';
+        //$filenametika= '/var/www/ABCD/www/cgi-bin/tika.jar';
+				// checking existence of a tika 
+			if (file_exists($filenamepdf) && $s[$ix]== "pdf")
+				{
+					$converter=$mx_path."pdftohtml.exe -noframes -i ";
+				}
+				// checking the existence of pdftohtml
+			else if(file_exists($filenametika))
+			{
+					$converter="java -jar ".$mx_path."tika.jar -h ";
+					$redir = ">";
+			}
+					
+			else {
+				 echo "Please install either tika.jar or pdftohtml.exe in the cgi-bin folder";
+				die;
+			}
+			//the actual command to convert temporary file to html extraction
+			$xcmd = $converter.$files['tmp_name'][$key]."  ".$redir.$name;
+			//echo $xcmd;
+			//die;
+			$res=exec($xcmd,$content,$result);
+	  		if ($result==0)
+			{
+				$s=explode("." ,$name);
+				$ix=count($s)-1;
+				$name=$s[0].".html";
+	  		}
+			else
+			{
+	  			echo "<p>conversion failed";
+	  			echo " with error code = " . $result;
+				die;
+	  		}
+// next part does the loading of the converted html into the ISIS-database
+	  		$database=$db_path.$dbname.'/data/'.$dbname;
+	  		if (!file_exists($name))
+			{
+	  				echo "$name Not created";
+	  				die;
+	  		}
+	  		//following line to text if to use mx or mxx
+	  		$command= $mx_path."mx ".$cipar." ".$dbname.' count=1';
+	  		$res=exec($command,$contenido,$result);
+        if ($result!=0) {$mxexec = 'mxx';} else {$mxexec = 'mx';}
+// in case standard ISIS and file larger than 32KB : only index contents without actually loading into record        
+	  		if (($mxexec=='mx') && (filesize($name)>32000))
+  			{
+				$proc = " \"proc='a".$arrHttp["fURL"] . "~" . $destpath . "/" . $destfilename . "~'\" ";
+				if ($arrHttp["Mfn"]=="New")
+				$append=" append=".$dbname;
+				else $append= " copy=".$dbname." from=".$arrHttp["Mfn"]." count=1";
+				$command= $mx_path.$mxexec." ".$proc.$append;
+				$fst= "fst=".$tag. " 4 cat('".$name."')";
+				$result=$command." "."\"".$fst."\""." ifupd=".$dbname. " now -all count=1";
+				echo $result;
+ 				$res=exec($result);
+	  		}
+// in case of extended ISIS, supposing contents still <1Mb 
+	  		else if (($arrHttp["Mfn"]=="New") && (filesize($name)<999999))
+			{
+	  			$proc0 = " \"proc='a".$arrHttp["fURL"] . "~" . $destpath . "/" . $destfilename . "~'\" ";
+	  			$proc1 = "\"proc='Gload/".$tag."=$name'\"";
+				$proc = $proc1 . $proc0; 
+				$ifupd = " fst=@".$dbname.".fst ifupd=" . $dbname . " ";  
+ 				$command = $mx_path.$mxexec." " . $cipar . " null " . $proc . $ifupd . " append=".$dbname. " count=1 lw=999 now -all";
+				echo $command;
+				//die;
+ 				$res=exec($command,$content,$result);
+
+  			}
+			else if (filesize($name)<999999)
+			{
+					$proc0 = " \"proc='a".$arrHttp["fURL"] . "~" . $destpath . "/" . $destfilename . "~'\" ";
+					$proc1 = "\"proc='Gload/".$tag."=$name'\"";
+					$proc = $proc1 . $proc0;  
+					$ifupd = " fst=@ ifupd=" . $dbname . " "; 
+					$mxexec = 'mx ';
+  				//	$command = $mx_path.$mxexec. " " . $cipar . " null " . $proc . $ifupd . " copy=".$dbname. " from=".$arrHttp["Mfn"]. " count=1 now -all";
+  					$command = $mx_path.$mxexec. " " . $cipar . " ".$dbname . " " . $proc . $ifupd . " copy=".$dbname. " from=".$arrHttp["Mfn"]. " count=1 now -all";
+
+					//echo $command;
+					//die;
+  					$res=exec($command,$content,$result);
+					
+  			}
+  			else {
+  			echo "<p> File too big, not possible to load into ISIS..."; die;
+  			}
+  				break;
+		}
+            if ($result==0)
+			{
+				echo $msgstr["documentfield"]." ".$tag."<br>";
+				echo $msgstr["urlfield"]." ".$arrHttp["fURL"]."<br>";
+				//if ($mxexec=='mxx') echo "<H6><font color=blue>"."Note: "."</font>".$msgstr["fullindexinfo"];
+				echo "<script>setTimeout('self.close()',2000)</script>";
+				if ($arrHttp["Mfn"]=="New")
+					echo "<script>window.opener.top.maxmfn++;window.opener.top.Menu('ultimo')</script>";
+				else
+					echo "<script>window.opener.top.Menu('same')</script>";
+			}
+				else echo "<H4><font color=red>".$msgstr["importdocfail"]."</font>";
+   	}
+}
+	echo "</body>\n";
+	echo "</html>\n";
+?>
