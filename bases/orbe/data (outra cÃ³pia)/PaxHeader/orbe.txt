@@ -1,3 +1,0 @@
-53 path=abcd/bases/orbe/data (outra cópia)/orbe.txt
-27 mtime=1397671134.108585
-27 atime=1404236277.969679

@@ -1,0 +1,20 @@
+Botão voltar
+
+<a class="btn btn-danger" href="tables_generate.php?base=<?php echo  $arrHttp[base].$encabezado; ?>">
+<span class="glyphicon glyphicon-remove"></span> <?php echo $msgstr["back"]; ?></a>
+
+
+Título da seção
+
+	<ol class="breadcrumb">
+	<li><h4>TITULO</h4></li>
+
+<span class="pull-right">
+<a href="#" target="_blank"><span class="glyphicon glyphicon-question-sign"></span><?php echo $msgstr["help"]?></a>
+
+<?php
+if (isset($_SESSION["permiso"]["CENTRAL_EDHLPSYS"]))
+?>
+	<a href="#" target="_blank">&nbsp;<span class="glyphicon glyphicon-pencil"></span></a>
+</span>
+	</ol>

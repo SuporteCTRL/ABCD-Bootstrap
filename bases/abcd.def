@@ -1,8 +1,0 @@
-VERSION=1.3 TRANSITIONAL
-LEGEND1=2013 ICCI
-LEGEND2=ABCD 1.3t
-URL1=http://www.iccisis.org
-URL2=http://www.bireme.br
-MXPATH=/opt/ABCD/www/cgi-bin/
-diglib=ffi
-unicode=unicode
