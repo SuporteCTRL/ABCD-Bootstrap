@@ -1,7 +1,3 @@
-
-
-
-
  function dhtmlXToolbarObject(htmlObject,width,height,name,vMode){
  this.width=width;this.height=height;
  if(typeof(htmlObject)!="object")
@@ -40,9 +36,6 @@
  dhtmlXToolbarObject.prototype = new dhtmlXProtobarObject;
 
 
-
-
-
  dhtmlXToolbarObject.prototype.addItem=function(item,position){
  this.items[this.itemsCount]=item;
  this.firstCell.parentNode.insertBefore(item.getTopNode(),this.firstCell);
@@ -50,7 +43,6 @@
  if(this.defaultAction)item.setAction(this.defaultAction);
  this.itemsCount++;
 }
-
 
  dhtmlXToolbarObject.prototype.a10_vertical=function(item,position){
  this.items[this.itemsCount]=item;
@@ -64,8 +56,6 @@
 }
 
 
-
-
  dhtmlXToolbarObject.prototype.a0ByPosition=function(position){
  var j=0;
  for(var i=0;i<this.itemsCount;i++)
@@ -77,9 +67,7 @@
 };
 
 
-
-
- dhtmlXToolbarObject.prototype.getItemByPosition=function(position){
+dhtmlXToolbarObject.prototype.getItemByPosition=function(position){
  var z=this.a0ByPosition(position);
  if(z>=0)return this.items[z];
 };
@@ -196,9 +184,8 @@
  if(!this.height)this.height=1;
 
  var div=document.createElement("div");
- div.innerHTML='<table cellpadding="0" cellspacing="1" class="'+this.tableCSS+'" style="display:none" width="'+this.width+'" height="'+this.height+'"><tbody>'+
+ div.innerHTML='<table class="'+this.tableCSS+'" width="'+this.width+'" height="'+this.height+'"><tbody>'+
  '<tr>'+
- '<td width="'+(this.gecko?5:3)+'px"><div class="toolbarHandle">&nbsp;</div></td>'+
  '<td class="'+this.titleCSS+'" style="display:none">'+this.name+'</td>'+
  '<td></td>'+
  '<td align="right" width="100%" class="'+this.titleCSS+'" style="display:none">'+this.name+'</td>'+
@@ -225,11 +212,10 @@
  if(!this.height)this.height=1;
 
  var div=document.createElement("div");
- div.innerHTML='<table cellpadding="0" cellspacing="1" class="'+this.tableCSS+'" style="display:none" width="'+this.width+'" height="'+this.height+'"><tbody>'+
- '<tr><td heigth="'+(this.gecko?5:3)+'px"><div class="vtoolbarHandle" style="height: 3px;width:100%;overflow:hidden"></div></td></tr>'+
- '<tr><td height="100%" class="'+this.titleCSS+'" style="display:none">'+this.name+'</td></tr>'+
+ div.innerHTML='<table class="'+this.tableCSS+'"  width="'+this.width+'" height="'+this.height+'"><tbody>'+
  '<tr><td></td></tr>'+
- '<tr><td align="right" height="100%" class="'+this.titleCSS+'" style="display:none">'+this.name+'</td></tr>'+
+ '<tr><td class="'+this.titleCSS+'" style="display:none">'+this.name+'</td></tr>'+
+ '<tr><td class="'+this.titleCSS+'" style="display:none">'+this.name+'</td></tr>'+
  '<tr><td></td></tr>'+
  '</tbody></table>';
 
@@ -275,7 +261,7 @@
  this.topNod=td;
  td.height=height;td.width=width;td.align="center";
 
- td.innerHTML="<img src='"+src+"' border='0' alt='"+this.tooltip+"' title='"+this.tooltip+"' style='padding-left:2px;padding-right:2px;'>";
+ td.innerHTML="<button class='btn btn-default' alt='"+this.tooltip+"' title='"+this.tooltip+"' ><span class='"+src+"'  ></span></button>";
  td.className=this.className;
  td.objectNode=this;
  this.imageTag=td.childNodes[0];
@@ -365,12 +351,6 @@
  this.textTag.innerHTML=newText;
 };
 
-
-
-
-
-
-
  function dhtmlXSelectButtonObject(id,valueList,displayList,action,width,height,className)
 {
  if(id.tagName=="SelectButton")
@@ -415,7 +395,7 @@
  sel.onchange=this.a1;
  sel.objectNode=this;
  if(className)sel.className=className;
- if(width)sel.style.width="100%";
+ if(width)sel.style.width="50";
  var temp1=valueList.split(",");
 
  if(displayList)var temp2=displayList.split(",");
@@ -511,7 +491,7 @@ function dhtmlXTwoStateButtonObject(id,src,text,width,height,action,tooltip,clas
  this.state=0;
  this.topNod=0;
  this.action=0;this.persAction=0;
- this.className=className||"defaultButton";
+ this.className=className||"btn btn-default";
  this.textClassName=textClassName||"defaultButtonText";
 
  this.disableImage=disableImage;
@@ -526,7 +506,7 @@ function dhtmlXTwoStateButtonObject(id,src,text,width,height,action,tooltip,clas
  td.align="center";
  td.noWrap=true;
 
- td.innerHTML="<table width='100%' height='100%' cellpadding='0' cellspacing='0'><tr><td valign='middle'><img src='"+this.srcA[0]+"' border='0' alt='"+this.tooltip+"' style='padding-left:2px;padding-right:2px;'></td><td width='100%' style='padding-left:5px' align='left' class='"+this.textClassName+"'>"+this.textP[0]+"</td></tr></table>";
+ td.innerHTML="<table width='100%' height='100%' cellpadding='0' cellspacing='0'><tr><td valign='middle'><img src='"+this.srcA[0]+"' border='0' alt='"+this.tooltip+"' ></td><td width='100%' align='left' class='"+this.textClassName+"'>"+this.textP[0]+"</td></tr></table>";
  td.className=this.className;
  td.objectNode=this;
  this.imageTag=td.childNodes[0].childNodes[0].childNodes[0].childNodes[0].childNodes[0];

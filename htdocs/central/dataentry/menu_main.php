@@ -94,47 +94,69 @@ function GenerarWks(){
 </script>
 </head>
 
-<form name=forma1 onsubmit="return false" method=post>
-<link rel="STYLESHEET" type="text/css" href="js/dhtmlXToolbar.css">
+<form name="forma1" onsubmit="return false" method="post">
+<!--<link rel="stylesheet" type="text/css" href="js/dhtmlXToolbar.css">-->
 <script language="JavaScript" src="js/dhtmlXProtobar.js"></script>
 <script language="JavaScript" src="js/dhtmlXToolbar.js"></script>
 <script language="JavaScript" src="js/dhtmlXCommon.js"></script>
-<table width=100% >
-	<td valign=top >
-	 <label></label>
-		<input placeholder="<?php echo $msgstr["m_ir"]?>" class="form-control" type="text"  name="ir_a" size="15" value='' onClick="javascript:this.value=''" >
+<table width="100%" >
+	<td>
+		<input placeholder="<?php echo $msgstr["m_ir"]?>" class="form-control input-sm" type="text"  name="ir_a" value='' onClick="javascript:this.value=''" >
    	</td>
-	<td ><div id="toolbarBox" style="height:25;position:relative"></div></td>
-    <td align=right>
-       	<table cellspacing=0 cellpadding=0>
-       		<td rowspan=2 valign=top><a href=javascript:EditarFormato()><span class="glyphicon glyphicon-pencil"></span></a> </td>
-       		<td align=right><?php echo $msgstr["displaypft"]?>:</td>
-			<td><select name=formato onChange=Javascript:GenerarDespliegue()  style="width:90;font-size:8pt;font-family:arial narrow">
-				<option></option>
-				</select>
-			</td>
-	  	 <tr><td align=right><?php echo $msgstr["fmt"]?>:&nbsp; </td><td>
-				<select name=wks onChange=Javascript:GenerarWks() style="width:90;font-size:8pt;font-family:arial narrow">
-					<option></option>
-				</select>
-			</td>
-		</table>
+	<td>
+		<div id="toolbarBox"></div>
 	</td>
-	<td width=3>&nbsp;</td>
+    <td>
+    			
+	<div class="col-sm-7">
+    <div class="input-group">
+      <span class="input-group-btn">
+        				<button type="button" id="element" class="btn btn-default" data-toggle="tooltip" data-placement="left" title="<?php echo $msgstr["displaypft"]?>">
+					<span class="glyphicon glyphicon-eye-open"></span>
+				</button>
+      </span>
+			<select class="form-control input-sm" name="formato" onChange="Javascript:GenerarDespliegue()" >
+				<option></option>
+			</select>	
+						      <span class="input-group-btn">
+        					<a class="btn btn-primary" href="javascript:EditarFormato()">
+						<span class="glyphicon glyphicon-pencil"></span>
+					</a>
+      </span>	
+    </div><!-- /input-group -->
+  </div><!-- /.col-lg-6 -->
+
+	<div class="col-sm-5">
+    <div class="input-group">
+      <span class="input-group-btn">
+			<button type="button" id="element2" class="btn btn-default" data-toggle="tooltip" data-placement="left" title="<?php echo $msgstr["fmt"]?>">
+					<span class="glyphicon glyphicon-list-alt"></span>
+			</button>	
+      </span>
+			<select class="form-control input-sm" name="wks" onChange="Javascript:GenerarWks()" >
+				<option></option>
+			</select>
+
+    </div><!-- /input-group -->
+  </div><!-- /.col-lg-6 -->  
+
+	</td>
 </table>
 <script>
-	//horisontal toolbar
-	toolbar=new dhtmlXToolbarObject("toolbarBox","400","25","ABCD");
+	//horizontal toolbar
+	toolbar=new dhtmlXToolbarObject("toolbarBox","380","25","ABCD");
 	toolbar.setOnClickHandler(onButtonClick);
-	toolbar.addItem(new dhtmlXImageButtonObject('img/barArrowLeft2.png',25,24,1,'0_primero','<?php echo $msgstr["m_primero"]?>'))
-    toolbar.addItem(new dhtmlXImageButtonObject('img/barArrowLeft.png',25,24,2,'0_anterior','<?php echo $msgstr["m_anterior"]?>'))
-    toolbar.addItem(new dhtmlXImageButtonObject('img/barArrowRight.png',25,24,3,'0_siguiente','<?php echo $msgstr["m_siguiente"]?>'))
-    toolbar.addItem(new dhtmlXImageButtonObject('img/barArrowRight2.png',25,24,4,'0_ultimo','<?php echo $msgstr["m_ultimo"]?>'))
-    toolbar.addItem(new dhtmlXSelectButtonObject('select',',mfn,search','<?php echo $msgstr["browse"]?>,Mfn,<?php echo $msgstr["busqueda"]?>','browse',80,80,''))
-    toolbar.addItem(new dhtmlXToolbarDividerXObject('div_1'))
-    toolbar.addItem(new dhtmlXImageButtonObject("img/toolbarSearch.png","25","16",5,"1_buscar","<?php echo $msgstr["m_buscar"]?>"))
-    toolbar.addItem(new dhtmlXImageButtonObject("img/toolbarfreesearch.jpg","18","18",5,"1_busquedalibre","<?php echo $msgstr["m_busquedalibre"]?>"))
-	toolbar.addItem(new dhtmlXImageButtonObject("img/toolbarOrder.png","25","16",6,"1_alfa","<?php echo $msgstr["m_indice"]?>"))
+	toolbar.addItem(new dhtmlXImageButtonObject("glyphicon glyphicon-home","25","24",14,"home","<?php echo $msgstr["inicio"]?>"))	
+	
+	toolbar.addItem(new dhtmlXImageButtonObject('glyphicon glyphicon-step-backward',25,25,1,'0_primero','<?php echo $msgstr["m_primero"]?>'))
+	toolbar.addItem(new dhtmlXImageButtonObject('glyphicon glyphicon-backward',25,25,2,'0_anterior','<?php echo $msgstr["m_anterior"]?>'))
+	toolbar.addItem(new dhtmlXImageButtonObject('glyphicon glyphicon-forward',25,25,3,'0_siguiente','<?php echo $msgstr["m_siguiente"]?>'))
+	toolbar.addItem(new dhtmlXImageButtonObject('glyphicon glyphicon-step-forward',25,25,4,'0_ultimo','<?php echo $msgstr["m_ultimo"]?>'))
+	toolbar.addItem(new dhtmlXSelectButtonObject('select form-control',',mfn,search','<?php echo $msgstr["browse"]?>,Mfn,<?php echo $msgstr["busqueda"]?>','browse',100,80,''))
+	toolbar.addItem(new dhtmlXToolbarDividerXObject('div_1'))
+	toolbar.addItem(new dhtmlXImageButtonObject("glyphicon glyphicon-search","25","25",5,"1_buscar","<?php echo $msgstr["m_buscar"]?>"))
+	toolbar.addItem(new dhtmlXImageButtonObject("glyphicon glyphicon-zoom-in","25","18",5,"1_busquedalibre","<?php echo $msgstr["m_busquedalibre"]?>"))
+	toolbar.addItem(new dhtmlXImageButtonObject(" glyphicon glyphicon-sort-by-alphabet","25","25",6,"1_alfa","<?php echo $msgstr["m_indice"]?>"))
 	toolbar.addItem(new dhtmlXToolbarDividerXObject('div_2'))
 	<?php
 	$db=$arrHttp["base"];
@@ -145,7 +167,7 @@ function GenerarWks(){
 		if (isset($def["IMPORTPDF"]))
 			$pdf=trim($def["IMPORTPDF"]);
 	}
-	if (isset($_SESSION["permiso"]["CENTRAL_ALL"]) or isset($_SESSION["permiso"]["CENTRAL_CREC"])  or isset($_SESSION["permiso"][$db."_CENTRAL_ALL"]) or isset($_SESSION["permiso"][$db."_CENTRAL_CREC"])) {	?>		toolbar.addItem(new dhtmlXImageButtonObject("img/toolbarNew.png","25","16",7,"2_nuevo","<?php echo $msgstr["m_crear"]?>"))
+	if (isset($_SESSION["permiso"]["CENTRAL_ALL"]) or isset($_SESSION["permiso"]["CENTRAL_CREC"])  or isset($_SESSION["permiso"][$db."_CENTRAL_ALL"]) or isset($_SESSION["permiso"][$db."_CENTRAL_CREC"])) {	?>		toolbar.addItem(new dhtmlXImageButtonObject("glyphicon glyphicon-file","25","16",7,"2_nuevo","<?php echo $msgstr["m_crear"]?>"))
 	<?php
 		if ($pdf=="Y"){
     ?>
@@ -154,11 +176,11 @@ function GenerarWks(){
 	<?php } }
 	if (isset($_SESSION["permiso"]["CENTRAL_ALL"]) or isset($_SESSION["permiso"]["CENTRAL_CAPTURE"]) or isset($_SESSION["permiso"][$db."_CENTRAL_ALL"])  or isset($_SESSION["permiso"][$db."_CENTRAL_CAPTURE"])){
 	?>
-		toolbar.addItem(new dhtmlXImageButtonObject("img/toolbarCopy.png","25","24",9,"2_capturar","<?php echo $msgstr["m_capturar"]?>"))
+		toolbar.addItem(new dhtmlXImageButtonObject(" glyphicon glyphicon-import","25","24",9,"2_capturar","<?php echo $msgstr["m_capturar"]?>"))
 	<?php }
 	if (isset($_SESSION["permiso"]["CENTRAL_ALL"]) or isset($_SESSION["permiso"]["CENTRAL_Z3950CAT"]) or isset($_SESSION["permiso"][$db."_CENTRAL_ALL"])  or isset($_SESSION["permiso"][$db."_CENTRAL_Z3950CAT"])){
 	?>
-		toolbar.addItem(new dhtmlXImageButtonObject("img/z3950.png","25","16",19,"2_z3950","<?php echo $msgstr["m_z3950"]?>"))
+		toolbar.addItem(new dhtmlXImageButtonObject("glyphicon glyphicon-download-alt","25","16",19,"2_z3950","<?php echo $msgstr["m_z3950"]?>"))
 	<?php }
 	if (isset($_SESSION["permiso"]["CENTRAL_ALL"]) or isset($_SESSION["permiso"]["CENTRAL_VALDEF"]) or isset($_SESSION["permiso"][$db."_CENTRAL_ALL"])  or isset($_SESSION["permiso"][$db."_CENTRAL_VALDEF"])){
 	?>
@@ -168,25 +190,25 @@ function GenerarWks(){
 	<?php }
 	if (isset($_SESSION["permiso"]["CENTRAL_ALL"]) or isset($_SESSION["permiso"]["CENTRAL_PREC"]) or isset($_SESSION["permiso"][$db."_CENTRAL_ALL"])  or isset($_SESSION["permiso"][$db."_CENTRAL_PREC"])){
 	?>
-		toolbar.addItem(new dhtmlXImageButtonObject("img/toolbarPrint.png","25","24",12,"3_imprimir","<?php echo $msgstr["m_reportes"]?>"))
+		toolbar.addItem(new dhtmlXImageButtonObject("glyphicon glyphicon-print","25","24",12,"3_imprimir","<?php echo $msgstr["m_reportes"]?>"))
 	<?php }
 	if (isset($_SESSION["permiso"]["CENTRAL_ALL"]) or isset($_SESSION["permiso"]["CENTRAL_UTILS"]) or isset($_SESSION["permiso"]["CENTRAL_UTILS"])  or isset($_SESSION["permiso"]["CENTRAL_IMPEX"])  or isset($_SESSION["permiso"]["CENTRAL_GLOBC"])
 	    or isset($_SESSION["permiso"][$db."_CENTRAL_ALL"]) or isset($_SESSION["permiso"][$db."_CENTRAL_UTILS"]) or isset($_SESSION["permiso"][$db."_CENTRAL_UTILS"])  or isset($_SESSION["permiso"][$db."_CENTRAL_IMPEX"])  or isset($_SESSION["permiso"][$db."_CENTRAL_GLOBC"])){
 	?>
-		toolbar.addItem(new dhtmlXImageButtonObject("img/toolbarTool.png","25","24",13,"config","<?php echo $msgstr["mantenimiento"]?>"))
+		toolbar.addItem(new dhtmlXImageButtonObject("glyphicon glyphicon-wrench","25","24",13,"config","<?php echo $msgstr["mantenimiento"]?>"))
 	<?php }?>
-	toolbar.addItem(new dhtmlXImageButtonObject("img/refresh0.gif","25","24",14,"refresh_db","<?php echo $msgstr["refresh_db"]?>"))
+	toolbar.addItem(new dhtmlXImageButtonObject("glyphicon glyphicon-refresh","25","24",14,"refresh_db","<?php echo $msgstr["refresh_db"]?>"))
 	toolbar.addItem(new dhtmlXToolbarDividerXObject('div_5'))
 
 <?php $select="";
 if (isset($_SESSION["permiso"]["CENTRAL_ALL"]) or isset($_SESSION["permiso"]["CENTRAL_STATGEN"])  or isset($_SESSION["permiso"]["CENTRAL_STATCONF"])  or isset($_SESSION["permiso"][$db."_CENTRAL_ALL"])   or isset($_SESSION["permiso"][$db."_CENTRAL_STATGEN"])  or isset($_SESSION["permiso"][$db."_CENTRAL_STATCONF"])){
 ?>
-	toolbar.addItem(new dhtmlXImageButtonObject("img/grafico.gif","25","24",13,"stats","<?php echo $msgstr["estadisticas"]?>"))
+	toolbar.addItem(new dhtmlXImageButtonObject("glyphicon glyphicon-stats","25","24",13,"stats","<?php echo $msgstr["estadisticas"]?>"))
 <?PHP }?>
-	toolbar.addItem(new dhtmlXImageButtonObject("img/toolbarHelp.png","25","24",14,"5_ayuda","<?php echo $msgstr["m_ayuda"]?>"))
+	toolbar.addItem(new dhtmlXImageButtonObject("glyphicon glyphicon-info-sign","25","24",14,"5_ayuda","<?php echo $msgstr["m_ayuda"]?>"))
 	toolbar.addItem(new dhtmlXToolbarDividerXObject('div_6'))
 
-	toolbar.addItem(new dhtmlXImageButtonObject("img/toolbarHome.png","25","24",14,"home","<?php echo $msgstr["inicio"]?>"))
+
 	toolbar.showBar();
 	function onButtonClick(itemId,itemValue){
 		switch (itemId){
@@ -314,6 +336,7 @@ if (isset($_SESSION["permiso"]["CENTRAL_ALL"]) or isset($_SESSION["permiso"]["CE
 </script>
 
 	</form>
+
 	<script>
 		top.ModuloActivo="catalog"
 
@@ -425,18 +448,19 @@ if (isset($arrHttp["inicio"]) and $arrHttp["inicio"]=="s"){
 	echo 'top.main.location.href="inicio_base.php?inicio=s&base="+top.base+"&cipar="+top.base+".par&per="+top.db_permiso';
 }else{	if (!isset($arrHttp["reload"]))
 		echo "url=top.main.location.href
-	top.main.location.href=url\n";
+		top.main.location.href=url\n";
 }
 ?>
 </script>
-<form name=editpft method=post action=../dbadmin/leertxt.php target=editpft>
-<input type=hidden name=desde value=dataentry>
-<input type=hidden name=base>
-<input type=hidden name=cipar>
-<input type=hidden name=archivo>
-<input type=hidden name=descripcion>
-</form>
 
+<form name="editpft" method="post" action="../dbadmin/leertxt.php" target="editpft">
+<input type="hidden" name="desde" value="dataentry">
+<input type="hidden" name="base">
+<input type="hidden" name="cipar">
+<input type="hidden" name="archivo">
+<input type="hidden" name="descripcion">
+</form>
+	<?php include ("../common/footer.php"); ?>
 </body>
 </html>
 

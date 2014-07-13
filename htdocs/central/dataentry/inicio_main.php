@@ -649,7 +649,7 @@ function Unload(){
 
 </head>
 
-<frameset rows=45,45,* cols=* border=0>
+<frameset rows=45,35,* cols=* border=0>
 <?php
 if (isset($arrHttp["base"])){
 	if (!isset($arrHttp["Mfn"])) $arrHttp["Mfn"]=0;

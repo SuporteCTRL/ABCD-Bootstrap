@@ -24,9 +24,9 @@ $log="Y";
 
 //$db_path="/bases_abcd/bases/";
 //$db_path="/abcd/www/bases/demo_copies/";   //*************************************
-$db_path="/var/www/abcd/bases/";
+$db_path="/var/www/ABCD-Bootstrap/bases/";
 //path where the lang file and help page are to be located
-$msg_path="/var/www/abcd/bases/";
+$msg_path="/var/www/ABCD-Bootstrap/bases/";
 
 if (isset($_SESSION["DATABASE_DIR"])) {
 	$db_path=$_SESSION["DATABASE_DIR"];
@@ -49,16 +49,16 @@ if (isset($arrHttp["base"])){
 
 
 //Path to the folder where the uploaded images are to be stored (the database name will be added to this path)
-$img_path="/var/www/abcd/htdocs/bases/";
+$img_path="/var/www/ABCD-Bootstrap/htdocs/bases/";
 
 //Path to the wwwisis executable (include the name of the program)
-$Wxis="/var/www/abcd/cgi-bin/$cisis_ver"."wxis.exe";
+$Wxis="/var/www/ABCD-Bootstrap/cgi-bin/$cisis_ver"."wxis.exe";
 
 //Path to the wxis scripts
-$xWxis="/var/www/abcd/htdocs/$app_path/dataentry/wxis/";
+$xWxis="/var/www/ABCD-Bootstrap/htdocs/$app_path/dataentry/wxis/";
 
 //Url for the execution of WXiswhen using GGI in place of exec
-$wxisUrl="http://localhost:9090/cgi-bin/$cisis_ver"."wxis.exe";
+$wxisUrl="http://localhost:9191/cgi-bin/$cisis_ver"."wxis.exe";
 //$wxisUrl="";   //SI NO SE VA A UTILIZAR EL METODO POST PARA VER LOS REGISTROS
 
 //ruta hacia el mx
