@@ -22,17 +22,21 @@ O Bootstrap é altamente adaptável para qualquer tipo de navegador e plataforma
 
 1. Redesenhar o ABCD utilizando o Bootstrap propondo melhorias no uso do programa.
 2. Organizar e diminuir a quantidade de classes CSS para facilitar a customização da interface.
-3. Separar HTML do PHP
+3. 3. Separar HTML do PHP
 ---> EXEMPLO
       
-      Original-
+
+Original
+
       <?php
         foreach(){
           echo "<a href=\'#\'>". $var." </a>";
         }
       ?>
 
-      Como deve ficar
+
+
+Como deve ficar
 
         <?php
           foreach(){
@@ -41,7 +45,5 @@ O Bootstrap é altamente adaptável para qualquer tipo de navegador e plataforma
         <?php
         }
         ?>
-
-
 
 
