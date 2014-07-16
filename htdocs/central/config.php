@@ -21,9 +21,6 @@ $max_cn_length=1;
 //Para que funcione en la carpeta de la base de datos debe existir una subcarpeta llamada log
 $log="Y";
 
-
-//$db_path="/bases_abcd/bases/";
-//$db_path="/abcd/www/bases/demo_copies/";   //*************************************
 $db_path="/var/www/ABCD-Bootstrap/bases/";
 //path where the lang file and help page are to be located
 $msg_path="/var/www/ABCD-Bootstrap/bases/";
@@ -63,9 +60,9 @@ $wxisUrl="http://localhost:9191/cgi-bin/$cisis_ver"."wxis.exe";
 
 //ruta hacia el mx
 if ($cisis_ver!="")
-	$mx_path="/var/www/abcd/cgi-bin/$cisis_ver/mx.exe";
+	$mx_path="/var/www/ABCD-Bootstrap/cgi-bin/$cisis_ver/mx.exe";
 else
-	$mx_path="/var/www/abcd/cgi-bin/mx.exe";
+	$mx_path="/var/www/ABCD-Bootstrap/cgi-bin/mx.exe";
 
 //default language
 $lang="pt";

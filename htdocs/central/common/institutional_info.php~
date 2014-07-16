@@ -19,7 +19,7 @@
     </div>
 
     <!-- Collect the nav links, forms, and other content for toggling -->
-    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+    <div class="collapse navbar-collapse">
 <?php include("modules.php")?>    
     
       <ul class="nav navbar-nav navbar-right">
@@ -48,7 +48,7 @@
 
 if (isset($_SESSION["newindow"]) or isset($arrHttp["newindow"])){
 	?>
-	<a href='javascript:top.location.href="../dataentry/logout.php";top.close()' xclass="button_logout"><i class="glyphicon glyphicon-off"></i></a>
+	<a  class="btn btn-danger off" href='javascript:top.location.href="../dataentry/logout.php";top.close()' xclass="button_logout"><i class="glyphicon glyphicon-off"></i></a>
 
 <?php}else{
 ?>

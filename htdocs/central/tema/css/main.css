@@ -36,7 +36,7 @@ footer {
 color: #fff;
 }
 
-.navbar, .navbar-default .navbar-collapse, .navbar-default .navbar-form {
+.navbar, .navbar-default .navbar-collapse, .navbar-default .navbar-form, .navbar-collapse.collapse, .navbar-collapse.collapsing {
 	background-color: #1E8CBE;
 	border: none;
 }

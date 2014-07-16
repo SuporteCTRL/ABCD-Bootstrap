@@ -186,7 +186,7 @@ dhtmlXToolbarObject.prototype.getItemByPosition=function(position){
  var div=document.createElement("div");
  div.innerHTML='<table class="'+this.tableCSS+'" width="'+this.width+'" height="'+this.height+'"><tbody>'+
  '<tr>'+
- '<td class="'+this.titleCSS+'" style="display:none">'+this.name+'</td>'+
+ '<td class="'+this.titleCSS+'"style="display:none">'+this.name+'</td>'+
  '<td></td>'+
  '<td align="right" width="100%" class="'+this.titleCSS+'" style="display:none">'+this.name+'</td>'+
  '<td></td>'+

@@ -56,52 +56,54 @@ function Enviar(){
 }
 </script>
 
+	<style>
+		html {
+			padding-top: 50px;
+			padding-bottom: 20px;
+				}
+	</style>	
+
 </head>
 
 <body>
 
-<div class="container">
-
-<div class="page-header">
-  <h1><?php echo $institution_name?></h1>
-</div>   
-	<form role="form" name="administra" onsubmit="javascript:return false" method="post" action="<?php echo $app_path?>/common/inicio.php">
-	<input type="hidden" name="Opcion" value="admin">
-	<input type="hidden" name="cipar" value="acces.par">
-	<input type="hidden" name="window_id">
-
-
-	<?php
-		if (isset($arrHttp["login"]) and $arrHttp["login"]=="N"){
-	?>
-		<div  class="alert alert-warning" role="alert"><?php echo $msgstr["menu_noau"];?></div>
-
-	<?php
-		}
-		if (isset($arrHttp["login"]) and $arrHttp["login"]=="P"){
-	?>	
-		<div class="helper alert"><?php echo $msgstr["pswchanged"];?></div>
-	<?php		
-		}
-	?>
-
-		
+    <div class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+      <div class="container-fluid">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+			<a class="navbar-brand" style="color: #fff;" href="#"><i class="fa fa-university"></i> <?php echo $institution_name?></a>
+        </div>
+			
+			<div class="navbar-collapse collapse">
+ 
+				<form class="navbar-form navbar-right" role="form" name="administra" onsubmit="javascript:return false" method="post" action="<?php echo $app_path?>/common/inicio.php">
+					<input type="hidden" name="Opcion" value="admin">
+					<input type="hidden" name="cipar" value="acces.par">
+					<input type="hidden" name="window_id">
 	
 	<?php
 		if (isset($arrHttp["login"]) and $arrHttp["login"]=="N"){
 	?>
+	 <div class="form-group">
 		<input type="text" name="login" id="user" value="" class="form-control"  required >
-
+ 	</div>
 	<?php
 		}else{
 	?>
+	<div class="form-group">
 		<input type="text" name="login" id="user" value="" class="form-control" placeholder="<?php echo $msgstr["userid"];?>" >
+	</div>
 	<?php
 		}
 	?>
-		<input type="password" name="password" id="pwd" value="" class="form-control" placeholder="<?php echo $msgstr["password"];?>" required >
+		<div class="form-group">
+		<input type="password" name="password" id="pwd" value="" class="form-control" placeholder="<?php echo $msgstr["password"];?>" required >		</div>
 
-		<label ><?php echo $msgstr["lang"]?></label>
 	<?php
  		$a=$msg_path."/lang/".$_SESSION["lang"]."/lang.tab";
  			if (file_exists($a)){
@@ -133,44 +135,71 @@ function Enviar(){
 <?php
 if (file_exists("dbpath.dat")){
 	$fp=file("dbpath.dat");
-	echo $msgstr["database_dir"].": <select class=form-control  name=db_path>\n";
+	echo "<select class=form-control  name=db_path>\n";
 	foreach ($fp as $value){
 		if (trim($value)!=""){
 			$v=explode('|',$value);
 			$v[0]=trim($v[0]);
-			echo "<Option value=".trim($v[0]).">".$v[1]."\n";
+			echo "<Option value=".trim($v[0]).">".$msgstr['database_dir']." ".$v[1]."\n";
 		}
 
 	}
-	echo "</select><p>";
+	echo "</select>";
 }
 ?>
-	<label for="setCookie" class="inline">			
-	<input type="checkbox" name="newindow" value="
+  <div class="checkbox">
+    <label for="setCookie">
+      <input type="checkbox" name="newindow" value="
 <?php
 if (isset($open_new_window) and $open_new_window=="Y")
 	echo "Y checked";
 else
 	echo "N";
-?>" />
-	<?php echo $msgstr["openwindow"]?></label>
-	<a href="javascript:Enviar()" class="btn btn-lg btn-primary btn-block">
+?>" /> <?php echo $msgstr["openwindow"]?>
+    </label>
+  </div>
+
+	<a href="javascript:Enviar()" class="btn btn-success">
 	<span></span><?php echo $msgstr["entrar"]?>
 	</a>
+	
 	<?php 
 	 if (isset($change_password) and $change_password=="Y") 
-		 echo "<br><a href=javascript:CambiarClave()>". $msgstr["chgpass"]."</a>\n";
+		 echo "<a class=\"btn btn-warning\" href=javascript:CambiarClave()>". $msgstr["chgpass"]."</a>\n";
 	 ?>
 </form>
-    </div> <!-- /container -->
 
 <form class="form-signin" name="cambiarPass" action="<?php echo $app_path?>/dataentry/change_password.php" method="post">
-<input type="hidden" name="login">
-<input type="hidden" name="password">
-<input type="hidden" name="lang">
-<input type="hidden" name="db_path">
-<input type="hidden" name="Opcion" value="chgpsw">
+	<input type="hidden" name="login">
+	<input type="hidden" name="password">
+	<input type="hidden" name="db_path">
+	<input type="hidden" name="Opcion" value="chgpsw">
 </form>
+
+        </div><!--/.navbar-collapse -->
+      </div>
+    </div>
+    
+	 <div class="col-sl-12 col-sm-12 col-md-12">
+	 
+	<?php
+		if (isset($arrHttp["login"]) and $arrHttp["login"]=="N"){
+	?>
+					<div  class="alert alert-warning" role="alert"><?php echo $msgstr["menu_noau"];?></div>
+
+	<?php
+		}
+		if (isset($arrHttp["login"]) and $arrHttp["login"]=="P"){
+	?>	
+				<div class="helper alert"><?php echo $msgstr["pswchanged"];?></div>
+	<?php		
+		}
+	?>	 
+	 
+		<?php //include ('site/php/index.php'); ?>
+		<iframe  width="100%" height="100%" src="/site" frameborder="0" ></iframe>
+	</div>   
+
 <?php include ("$app_path/common/footer.php");?>
 	</body>
 </html>
